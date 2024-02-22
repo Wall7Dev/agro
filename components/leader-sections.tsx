@@ -55,7 +55,7 @@ const LeaderSections: NextPage = () => {
           <div className={styles.card1}>
             <div className={styles.razakAwudulaiWrapper} data-animate-on-scroll>
               <div className={styles.razakAwudulai}>
-                <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon} alt="" src="/base15@2x.png" />
                 <div className={styles.razakAwudulaiInner}>
                   <div className={styles.frameWrapper}>
                     <div className={styles.block1Parent}>
@@ -85,7 +85,7 @@ const LeaderSections: NextPage = () => {
           <div className={styles.card1}>
             <div className={styles.razakAwudulaiWrapper} data-animate-on-scroll>
               <div className={styles.razakAwudulai}>
-                <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon} alt="" src="/base16@2x.png" />
                 <div className={styles.razakAwudulaiInner}>
                   <div className={styles.frameWrapper}>
                     <div className={styles.block1Parent}>

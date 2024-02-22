@@ -7,7 +7,7 @@ const DsktopBanner1: NextPage = () => {
       <img className={styles.download2Icon} alt="" src="/download-2@2x.png" />
       <img className={styles.download5Icon} alt="" src="/download-5@2x.png" />
       <img className={styles.downloadIcon} alt="" src="/download@2x.png" />
-      <img className={styles.download5Icon1} alt="" src="/download-5@2x.png" />
+      <img className={styles.download5Icon1} alt="" src="/download-51@2x.png" />
       <img className={styles.download3Icon} alt="" src="/download-3@2x.png" />
       <img className={styles.captureIcon} alt="" src="/capture@2x.png" />
       <img className={styles.mofaColorIcon} alt="" src="/mofa-color@2x.png" />

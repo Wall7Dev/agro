@@ -77,83 +77,91 @@ const FooterComponentBase: NextPage = () => {
           <img
             className={styles.download2Icon}
             alt=""
-            src="/download-2@2x.png"
+            src="/download-26@2x.png"
           />
           <img
             className={styles.download5Icon}
             alt=""
-            src="/download-5@2x.png"
+            src="/download-512@2x.png"
           />
-          <img className={styles.downloadIcon} alt="" src="/download@2x.png" />
+          <img className={styles.downloadIcon} alt="" src="/download6@2x.png" />
           <img
             className={styles.download5Icon1}
             alt=""
-            src="/download-5@2x.png"
+            src="/download-513@2x.png"
           />
           <img
             className={styles.download3Icon}
             alt=""
-            src="/download-3@2x.png"
+            src="/download-36@2x.png"
           />
-          <img className={styles.captureIcon} alt="" src="/capture@2x.png" />
+          <img className={styles.captureIcon} alt="" src="/capture6@2x.png" />
           <img
             className={styles.mofaColorIcon}
             alt=""
-            src="/mofa-color@2x.png"
+            src="/mofa-color6@2x.png"
           />
-          <img className={styles.imagesIcon} alt="" src="/images@2x.png" />
+          <img className={styles.imagesIcon} alt="" src="/images5@2x.png" />
           <img
             className={styles.download6Icon}
             alt=""
-            src="/download-6@2x.png"
+            src="/download-66@2x.png"
           />
-          <img className={styles.images1Icon} alt="" src="/images-1@2x.png" />
+          <img className={styles.images1Icon} alt="" src="/images-16@2x.png" />
           <img
             className={styles.download1Icon}
             alt=""
-            src="/download-1@2x.png"
+            src="/download-16@2x.png"
           />
         </div>
         <section className={styles.dsktopBanner1}>
           <img
             className={styles.download5Icon2}
             alt=""
-            src="/download-5@2x.png"
+            src="/download-514@2x.png"
           />
           <img
             className={styles.download3Icon1}
             alt=""
-            src="/download-3@2x.png"
+            src="/download-37@2x.png"
           />
           <img
             className={styles.download5Icon3}
             alt=""
-            src="/download-5@2x.png"
+            src="/download-515@2x.png"
           />
-          <img className={styles.captureIcon1} alt="" src="/capture@2x.png" />
+          <img className={styles.captureIcon1} alt="" src="/capture7@2x.png" />
           <img
             className={styles.mofaColorIcon1}
             alt=""
-            src="/mofa-color@2x.png"
+            src="/mofa-color7@2x.png"
           />
-          <img className={styles.imagesIcon1} alt="" src="/images@2x.png" />
+          <img className={styles.imagesIcon1} alt="" src="/images6@2x.png" />
           <img
             className={styles.download6Icon1}
             alt=""
-            src="/download-6@2x.png"
+            src="/download-625@2x.png"
           />
           <img
             className={styles.download1Icon1}
             alt=""
-            src="/download-1@2x.png"
+            src="/download-17@2x.png"
           />
-          <img className={styles.downloadIcon1} alt="" src="/download@2x.png" />
+          <img
+            className={styles.downloadIcon1}
+            alt=""
+            src="/download7@2x.png"
+          />
           <img
             className={styles.download2Icon1}
             alt=""
-            src="/download-2@2x.png"
+            src="/download-27@2x.png"
           />
-          <img className={styles.images1Icon1} alt="" src="/images-1@2x.png" />
+          <img
+            className={styles.images1Icon1}
+            alt=""
+            src="/images-117@2x.png"
+          />
         </section>
       </div>
       <footer className={styles.footer}>
@@ -164,7 +172,7 @@ const FooterComponentBase: NextPage = () => {
         >
           <Transform onFramesWithTextClick={onFrameButtonClick} />
           <FooterFrames1
-            line1="/line-1@2x.png"
+            line1="/line-18@2x.png"
             onNowWereText3Click={onNowWereTextClick}
             onNowWereText4Click={onNowWereText2Click}
             onDownloadButtonsContainer3Click={onFrameContainer3Click}

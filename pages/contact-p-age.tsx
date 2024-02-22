@@ -91,12 +91,12 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaChild}
             alt=""
-            src="/vector-21@2x.png"
+            src="/vector-213@2x.png"
           />
           <img
             className={styles.dktpTeamFaqCtaItem}
             alt=""
-            src="/vector-23.svg"
+            src="/vector-233.svg"
           />
           <div className={styles.outteam}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -109,12 +109,12 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaInner}
             alt=""
-            src="/vector-22.svg"
+            src="/vector-222.svg"
           />
           <div className={styles.cardgropupo} data-animate-on-scroll>
             <div className={styles.xorse}>
               <div className={styles.xoseAhlijaTeam}>
-                <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon} alt="" src="/base28@2x.png" />
                 <div className={styles.block1Parent}>
                   <div className={styles.block1}>
                     <div className={styles.rectangle} />
@@ -131,7 +131,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.castro}>
-              <img className={styles.baseIcon1} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon1} alt="" src="/base29@2x.png" />
               <div className={styles.block11}>
                 <div className={styles.rectangle1} />
               </div>
@@ -143,7 +143,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.ottisApalooTeam}>
-              <img className={styles.baseIcon2} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon2} alt="" src="/base30@2x.png" />
               <div className={styles.block1Group}>
                 <div className={styles.block12}>
                   <div className={styles.rectangle2} />
@@ -161,7 +161,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgChild}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2062@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustParent}>
                   <b
@@ -399,7 +399,7 @@ const ContactPAge: NextPage = () => {
           </div>
         </div>
         <div className={styles.ta}>
-          <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
+          <img className={styles.taChild} alt="" src="/vector-214@2x.png" />
           <img className={styles.taItem} alt="" src="/vector-231.svg" />
           <div className={styles.outteam2}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -413,7 +413,7 @@ const ContactPAge: NextPage = () => {
           <div className={styles.cardgropupo1} data-animate-on-scroll>
             <div className={styles.xorse1}>
               <div className={styles.xoseAhlijaTeam1}>
-                <img className={styles.baseIcon3} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon3} alt="" src="/base31@2x.png" />
                 <div className={styles.block1Container}>
                   <div className={styles.block13}>
                     <div className={styles.rectangle13} />
@@ -430,7 +430,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.castro1}>
-              <img className={styles.baseIcon4} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon4} alt="" src="/base32@2x.png" />
               <div className={styles.block14}>
                 <div className={styles.rectangle14} />
               </div>
@@ -442,7 +442,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.ottisApalooTeam1}>
-              <img className={styles.baseIcon5} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon5} alt="" src="/base33@2x.png" />
               <div className={styles.groupDiv}>
                 <div className={styles.block15}>
                   <div className={styles.rectangle15} />
@@ -460,7 +460,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgItem}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2063@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustGroup}>
                   <b
@@ -481,7 +481,7 @@ const ContactPAge: NextPage = () => {
                     <img
                       className={styles.frameItem}
                       alt=""
-                      src="/arrow-9.svg"
+                      src="/arrow-91.svg"
                       onClick={onArrowIcon2Click}
                     />
                     <div
@@ -533,7 +533,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon5}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape1.svg"
                       />
                       <div className={styles.rectangle16} />
                     </div>
@@ -566,7 +566,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon5}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape1.svg"
                       />
                       <div className={styles.rectangle16} />
                     </div>
@@ -599,7 +599,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon5}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape1.svg"
                       />
                       <div className={styles.rectangle16} />
                     </div>
@@ -633,7 +633,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon5}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape1.svg"
                       />
                       <div className={styles.rectangle16} />
                     </div>
@@ -667,7 +667,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon5}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape1.svg"
                       />
                       <div className={styles.rectangle16} />
                     </div>
@@ -696,8 +696,8 @@ const ContactPAge: NextPage = () => {
           </div>
         </div>
         <div className={styles.div}>
-          <img className={styles.child} alt="" src="/vector-21@2x.png" />
-          <img className={styles.item} alt="" src="/vector-23.svg" />
+          <img className={styles.child} alt="" src="/vector-215@2x.png" />
+          <img className={styles.item} alt="" src="/vector-232.svg" />
           <div className={styles.outteam4}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
           </div>
@@ -706,11 +706,11 @@ const ContactPAge: NextPage = () => {
               Our Team - The big brains behind Agrospectrum
             </div>
           </div>
-          <img className={styles.inner} alt="" src="/vector-22.svg" />
+          <img className={styles.inner} alt="" src="/vector-221.svg" />
           <div className={styles.cardgropupo2} data-animate-on-scroll>
             <div className={styles.xorse2}>
               <div className={styles.xoseAhlijaTeam2}>
-                <img className={styles.baseIcon6} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon6} alt="" src="/base34@2x.png" />
                 <div className={styles.block1Parent1}>
                   <div className={styles.block16}>
                     <div className={styles.rectangle26} />
@@ -727,7 +727,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.castro2}>
-              <img className={styles.baseIcon7} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon7} alt="" src="/base35@2x.png" />
               <div className={styles.block17}>
                 <div className={styles.rectangle27} />
               </div>
@@ -739,7 +739,7 @@ const ContactPAge: NextPage = () => {
               </div>
             </div>
             <div className={styles.ottisApalooTeam2}>
-              <img className={styles.baseIcon8} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon8} alt="" src="/base36@2x.png" />
               <div className={styles.block1Parent2}>
                 <div className={styles.block18}>
                   <div className={styles.rectangle28} />
@@ -757,7 +757,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgInner}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2064@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustContainer}>
                   <b
@@ -830,7 +830,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon10}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape2.svg"
                       />
                       <div className={styles.rectangle29} />
                     </div>
@@ -863,7 +863,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon10}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape2.svg"
                       />
                       <div className={styles.rectangle29} />
                     </div>
@@ -896,7 +896,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon10}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape2.svg"
                       />
                       <div className={styles.rectangle29} />
                     </div>
@@ -930,7 +930,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon10}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape2.svg"
                       />
                       <div className={styles.rectangle29} />
                     </div>
@@ -964,7 +964,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.combinedShapeIcon10}
                         alt=""
-                        src="/combined-shape.svg"
+                        src="/combined-shape2.svg"
                       />
                       <div className={styles.rectangle29} />
                     </div>

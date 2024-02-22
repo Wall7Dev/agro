@@ -21,7 +21,7 @@ const ArrowFrame: NextPage = () => {
         <img
           className={styles.oursubsiadiriesChild}
           alt=""
-          src="/group-939.svg"
+          src="/group-9391.svg"
         />
         <img
           className={styles.bdp1Icon}
@@ -42,7 +42,7 @@ const ArrowFrame: NextPage = () => {
           onClick={onIsg1ImageClick}
         />
       </div>
-      <img className={styles.images21} alt="" src="/images-2-1@2x.png" />
+      <img className={styles.images21} alt="" src="/images-2-13@2x.png" />
     </button>
   );
 };

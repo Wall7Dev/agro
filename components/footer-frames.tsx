@@ -63,10 +63,10 @@ const FooterFrames: NextPage<FooterFramesType> = ({
             <img className={styles.vectorIcon} alt="" src="/vector.svg" />
           </div>
           <div className={styles.frame}>
-            <img className={styles.vectorIcon1} alt="" src="/vector.svg" />
+            <img className={styles.vectorIcon1} alt="" src="/vector1.svg" />
           </div>
           <div className={styles.vectorContainer}>
-            <img className={styles.vectorIcon2} alt="" src="/vector.svg" />
+            <img className={styles.vectorIcon2} alt="" src="/vector2.svg" />
           </div>
         </div>
       </div>

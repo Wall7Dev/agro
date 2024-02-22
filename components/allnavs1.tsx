@@ -163,13 +163,13 @@ const Allnavs1: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group5@2x.png"
                     onClick={onClipPathGroup1Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group29@2x.png"
                     onClick={onClipPathGroup2Click}
                   />
                   <img
@@ -248,7 +248,7 @@ const Allnavs1: NextPage = () => {
                 <img
                   className={styles.mediaChild}
                   alt=""
-                  src="/line-1@2x.png"
+                  src="/line-17@2x.png"
                 />
               </button>
               <button
@@ -284,13 +284,13 @@ const Allnavs1: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group7@2x.png"
                     onClick={onClipPathGroup12Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group30@2x.png"
                     onClick={onClipPathGroup22Click}
                   />
                   <img
@@ -302,7 +302,7 @@ const Allnavs1: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-1@2x.png"
+                  src="/images-2-11@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -348,13 +348,13 @@ const Allnavs1: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group7@2x.png"
                     onClick={onClipPathGroup13Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group30@2x.png"
                     onClick={onClipPathGroup23Click}
                   />
                   <img
@@ -366,7 +366,7 @@ const Allnavs1: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-1@2x.png"
+                  src="/images-2-11@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -412,13 +412,13 @@ const Allnavs1: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group7@2x.png"
                     onClick={onClipPathGroup14Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group@2x.png"
+                    src="/clip-path-group30@2x.png"
                     onClick={onClipPathGroup24Click}
                   />
                   <img
@@ -430,7 +430,7 @@ const Allnavs1: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-1@2x.png"
+                  src="/images-2-11@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -445,7 +445,7 @@ const Allnavs1: NextPage = () => {
             <img
               className={styles.rightnavlinkIcon}
               alt=""
-              src="/rightnavlink@2x.png"
+              src="/rightnavlink2@2x.png"
             />
           </div>
         </nav>
