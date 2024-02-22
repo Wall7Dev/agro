@@ -709,7 +709,7 @@
 .mrCastroAwards12 {
   position: absolute;
   top: 3px;
-  left: -21px;
+  left: -21.5px;
   border-radius: var(--br-3xs);
   width: 420px;
   height: 300px;
@@ -734,7 +734,7 @@
 .novWrapper {
   position: absolute;
   top: 258px;
-  left: -1px;
+  left: -1.5px;
   background-color: var(--color-goldenrod-300);
   display: flex;
   flex-direction: column;
@@ -771,7 +771,7 @@
 .agrospectrumLimitedWinsTwoParent {
   position: absolute;
   top: 3px;
-  left: -20.5px;
+  left: -21px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -801,7 +801,7 @@
   font-weight: 500;
 }
 .baseParent,
-.frameContainer {
+.frameParent {
   display: flex;
   justify-content: flex-start;
 }
@@ -812,19 +812,19 @@
   font-size: var(--font-size-sm);
   color: var(--color-whitesmoke-100);
 }
-.frameContainer {
+.frameParent {
   flex-direction: column;
   align-items: flex-start;
   gap: 22px 0;
   opacity: 1;
 }
-.frameContainer.animate {
+.frameParent.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .image3Icon {
   position: absolute;
   top: 3px;
-  left: -21px;
+  left: -21.5px;
   border-radius: var(--br-3xs);
   width: 420px;
   height: 300px;
@@ -849,7 +849,7 @@
   line-height: 26px;
   text-align: left;
 }
-.frameWrapper1,
+.frameContainer,
 .parent {
   position: absolute;
   top: 6px;
@@ -857,9 +857,9 @@
   width: 32px;
   height: 50px;
 }
-.frameWrapper1 {
+.frameContainer {
   top: 253px;
-  left: 0.7px;
+  left: 0.2px;
   background-color: var(--color-goldenrod-300);
   width: 65px;
   height: 65px;
@@ -887,7 +887,7 @@
   color: var(--color-whitesmoke-100);
   font-family: var(--font-lexend-deca);
 }
-.frameParent1 {
+.frameDiv {
   align-items: flex-start;
   gap: 42px 0;
   text-align: left;
@@ -895,24 +895,24 @@
   color: var(--color-gray-100);
   font-family: var(--font-poppins);
 }
+.col1,
 .frameDiv,
-.frameGroup,
-.frameParent1 {
+.frameGroup {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
-.frameDiv {
+.frameGroup {
   align-items: flex-start;
   gap: 9px 0;
   opacity: 1;
   cursor: pointer;
   text-align: right;
 }
-.frameDiv.animate {
+.frameGroup.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
 }
-.frameGroup {
+.col1 {
   flex: 1;
   align-items: center;
   gap: 60px 0;
@@ -924,7 +924,7 @@
 .image1Icon {
   position: absolute;
   top: 3px;
-  left: -20.5px;
+  left: -21px;
   border-radius: var(--br-3xs);
   width: 420px;
   height: 300px;
@@ -953,7 +953,7 @@
 }
 .group {
   top: 253px;
-  left: 8.5px;
+  left: 8px;
   background-color: var(--color-goldenrod-300);
   width: 65px;
   height: 65px;
@@ -992,7 +992,7 @@
 }
 .baseContainer,
 .enhancingAgriculturalResilieParent,
-.frameParent3 {
+.frameParent2 {
   display: flex;
   justify-content: flex-start;
 }
@@ -1003,7 +1003,7 @@
   font-size: var(--font-size-sm);
   color: var(--color-whitesmoke-100);
 }
-.frameParent3 {
+.frameParent2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 25px 0;
@@ -1012,7 +1012,7 @@
 .download6Icon {
   position: absolute;
   top: 7px;
-  left: -20px;
+  left: -20.5px;
   border-radius: var(--br-3xs);
   width: 424px;
   height: 280px;
@@ -1035,23 +1035,23 @@
 .m {
   text-transform: capitalize;
 }
-.frameParent2,
-.frameParent4 {
+.frameParent1,
+.frameParent3 {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
-.frameParent4 {
+.frameParent3 {
   align-items: flex-start;
   gap: 28px 0;
   cursor: pointer;
 }
-.frameParent2 {
+.frameParent1 {
   flex: 1;
   align-items: center;
   gap: 60px 0;
 }
-.frameParent {
+.col1Parent {
   width: 1338px;
   display: flex;
   flex-direction: row;
@@ -1064,7 +1064,7 @@
   color: var(--color-darkolivegreen-600);
   font-family: var(--font-lexend-deca);
 }
-.frameParent.animate {
+.col1Parent.animate {
   animation: 1s ease 0s 1 normal forwards pulsate;
 }
 .blogNewsParent,
@@ -1080,7 +1080,7 @@
   gap: 40px 0;
 }
 .teamFaqCta {
-  width: 1729px;
+  width: 1750px;
   overflow: hidden;
   flex-direction: row;
   justify-content: center;
@@ -1204,13 +1204,13 @@
   color: var(--color-whitesmoke-100);
   font-family: var(--font-lexend-deca);
 }
-.frameParent6,
-.frameParent7 {
+.frameParent5,
+.frameParent6 {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
-.frameParent7 {
+.frameParent6 {
   width: 293.1px;
   align-items: flex-start;
   gap: 11.51px 0;
@@ -1219,13 +1219,13 @@
   color: var(--color-gray-100);
   font-family: var(--font-poppins);
 }
-.frameParent6 {
+.frameParent5 {
   align-self: stretch;
   align-items: center;
   gap: 10px 0;
   opacity: 1;
 }
-.frameParent6.animate {
+.frameParent5.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
 }
 .digitalisationHasBeing {
@@ -1237,14 +1237,14 @@
   font-weight: 300;
   color: var(--color-whitesmoke-100);
 }
-.frameParent5,
+.frameParent4,
 .frameSection {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
 }
-.frameParent5 {
+.frameParent4 {
   align-self: stretch;
   gap: 12.96px 0;
   text-align: right;
@@ -1668,7 +1668,7 @@
   object-fit: cover;
   display: none;
 }
-.frameParent18,
+.frameParent17,
 .nowWereGroup,
 .nowWereParent {
   display: flex;
@@ -1680,11 +1680,11 @@
   justify-content: center;
   cursor: pointer;
 }
-.frameParent18,
+.frameParent17,
 .nowWereParent {
   justify-content: space-between;
 }
-.frameParent18 {
+.frameParent17 {
   align-self: stretch;
   height: 144px;
   font-size: var(--font-size-base);
@@ -1760,20 +1760,20 @@
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameParent17,
-.frameParent19,
+.frameParent16,
+.frameParent18,
 .nowWereParent2 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frameParent19 {
+.frameParent18 {
   flex: 1;
   flex-direction: column;
   gap: 34px 0;
   font-size: var(--font-size-mini);
 }
-.frameParent17 {
+.frameParent16 {
   align-self: stretch;
   flex-direction: row;
   gap: 0 2px;
@@ -1831,19 +1831,19 @@
   flex: 1;
   gap: 3px 0;
 }
-.frameParent16,
-.frameParent20 {
+.frameParent15,
+.frameParent19 {
   align-self: stretch;
   display: flex;
   align-items: flex-start;
 }
-.frameParent20 {
+.frameParent19 {
   flex-direction: row;
   justify-content: space-between;
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameParent16 {
+.frameParent15 {
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
@@ -2058,7 +2058,7 @@
   justify-content: flex-start;
   gap: 0 17px;
 }
-.frameParent21,
+.frameParent20,
 .nowWereParent9 {
   display: flex;
   flex-direction: column;
@@ -2072,7 +2072,7 @@
   padding: 0 var(--padding-8xs);
   gap: 10px 0;
 }
-.frameParent21 {
+.frameParent20 {
   height: 370px;
   flex: 1;
   padding: var(--padding-11xl);
@@ -2147,13 +2147,13 @@
   padding: var(--padding-3xs) var(--padding-211xl);
 }
 .footerComponent,
-.frameParent22,
+.frameParent21,
 .media {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
-.frameParent22 {
+.frameParent21 {
   align-self: stretch;
   align-items: center;
 }
@@ -2188,18 +2188,18 @@
   .galleryImages1 {
     display: flex;
   }
-  .frameGroup,
-  .frameParent2 {
+  .col1,
+  .frameParent1 {
     flex-direction: row;
     align-items: flex-start;
     justify-content: center;
     flex: unset;
     align-self: stretch;
   }
-  .frameParent {
+  .col1Parent {
     flex-direction: column;
   }
-  .frameParent5 {
+  .frameParent4 {
     flex-direction: row;
     align-items: flex-start;
     justify-content: center;
@@ -2207,8 +2207,8 @@
   .frameSection {
     flex-direction: column;
   }
-  .frameParent16,
-  .frameParent21,
+  .frameParent15,
+  .frameParent20,
   .transform {
     flex: unset;
     align-self: stretch;
@@ -2242,9 +2242,9 @@
   .nav1 {
     display: flex;
   }
-  .frameGroup,
-  .frameParent2,
-  .frameParent5 {
+  .col1,
+  .frameParent1,
+  .frameParent4 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -2282,7 +2282,7 @@
     display: none;
   }
   .blogNewsParent,
-  .frameParent {
+  .col1Parent {
     gap: 0 34px;
     padding: var(--padding-mini);
     box-sizing: border-box;

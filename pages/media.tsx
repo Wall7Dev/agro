@@ -656,9 +656,9 @@ const Media: NextPage = () => {
                 </p>
                 <p className={styles.learnRecentPractices}>News and Blogs</p>
               </b>
-              <section className={styles.frameParent} data-animate-on-scroll>
-                <section className={styles.frameGroup}>
-                  <div className={styles.frameContainer} data-animate-on-scroll>
+              <section className={styles.col1Parent} data-animate-on-scroll>
+                <section className={styles.col1}>
+                  <div className={styles.frameParent} data-animate-on-scroll>
                     <div
                       className={styles.mrCastroAwards1Parent}
                       onClick={onFrameContainerClick}
@@ -695,10 +695,12 @@ const Media: NextPage = () => {
                         <div
                           className={styles.agrospectrumLimitedWinsContainer}
                         >
+                          <p
+                            className={styles.learnRecentPractices}
+                          >{`Agrospectrum Limited wins two `}</p>
                           <p className={styles.learnRecentPractices}>
-                            Agrospectrum Limited wins two prestigious
+                            prestigious awards
                           </p>
-                          <p className={styles.learnRecentPractices}>awards</p>
                         </div>
                         <div className={styles.inTheGhanaianContainer}>
                           <p className={styles.learnRecentPractices}>
@@ -717,7 +719,7 @@ const Media: NextPage = () => {
                     </div>
                   </div>
                   <div
-                    className={styles.frameDiv}
+                    className={styles.frameGroup}
                     onClick={onFrameContainer12Click}
                     data-animate-on-scroll
                   >
@@ -728,14 +730,14 @@ const Media: NextPage = () => {
                         src="/image-3@2x.png"
                         onClick={onImage3Click}
                       />
-                      <div className={styles.frameWrapper1}>
+                      <div className={styles.frameContainer}>
                         <div className={styles.parent}>
                           <div className={styles.div}>20</div>
                           <div className={styles.dec}>DEC</div>
                         </div>
                       </div>
                     </div>
-                    <div className={styles.frameParent1}>
+                    <div className={styles.frameDiv}>
                       <div
                         className={styles.digitalisationAGameChangerParent}
                         onClick={onFrameContainer3Click}
@@ -767,9 +769,9 @@ const Media: NextPage = () => {
                     </div>
                   </div>
                 </section>
-                <div className={styles.frameParent2}>
+                <div className={styles.frameParent1}>
                   <div
-                    className={styles.frameParent3}
+                    className={styles.frameParent2}
                     onClick={onFrameContainer4Click}
                   >
                     <div
@@ -820,7 +822,7 @@ const Media: NextPage = () => {
                     </div>
                   </div>
                   <div
-                    className={styles.frameParent4}
+                    className={styles.frameParent3}
                     onClick={onFrameContainer14Click}
                   >
                     <div className={styles.download6Parent}>
@@ -830,7 +832,7 @@ const Media: NextPage = () => {
                         src="/download-68@2x.png"
                         onClick={onDownload6ImageClick}
                       />
-                      <div className={styles.frameWrapper1}>
+                      <div className={styles.frameContainer}>
                         <div className={styles.parent}>
                           <div className={styles.div2}>25</div>
                           <div className={styles.dec}>DEC</div>
@@ -883,8 +885,8 @@ const Media: NextPage = () => {
                 <p className={styles.learnRecentPractices}>News and Blogs</p>
               </b>
               <section className={styles.frameSection} data-animate-on-scroll>
-                <section className={styles.frameParent5}>
-                  <div className={styles.frameParent6} data-animate-on-scroll>
+                <section className={styles.frameParent4}>
+                  <div className={styles.frameParent5} data-animate-on-scroll>
                     <div className={styles.baseParent2}>
                       <img
                         className={styles.baseIcon}
@@ -901,7 +903,7 @@ const Media: NextPage = () => {
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
-                    <div className={styles.frameParent7}>
+                    <div className={styles.frameParent6}>
                       <div
                         className={styles.agrospectrumIsRevolutionizinParent}
                       >
@@ -933,7 +935,7 @@ const Media: NextPage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent6} data-animate-on-scroll>
+                  <div className={styles.frameParent5} data-animate-on-scroll>
                     <div className={styles.baseParent2}>
                       <img
                         className={styles.baseIcon}
@@ -950,7 +952,7 @@ const Media: NextPage = () => {
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
-                    <div className={styles.frameParent7}>
+                    <div className={styles.frameParent6}>
                       <div
                         className={styles.agrospectrumIsRevolutionizinParent}
                       >
@@ -974,7 +976,7 @@ const Media: NextPage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent6} data-animate-on-scroll>
+                  <div className={styles.frameParent5} data-animate-on-scroll>
                     <div className={styles.baseParent2}>
                       <img
                         className={styles.baseIcon}
@@ -991,7 +993,7 @@ const Media: NextPage = () => {
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
-                    <div className={styles.frameParent7}>
+                    <div className={styles.frameParent6}>
                       <div
                         className={styles.agrospectrumIsRevolutionizinParent}
                       >
@@ -1020,7 +1022,7 @@ const Media: NextPage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent6} data-animate-on-scroll>
+                  <div className={styles.frameParent5} data-animate-on-scroll>
                     <div className={styles.baseParent2}>
                       <img
                         className={styles.baseIcon}
@@ -1037,7 +1039,7 @@ const Media: NextPage = () => {
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
-                    <div className={styles.frameParent7}>
+                    <div className={styles.frameParent6}>
                       <div
                         className={styles.agrospectrumIsRevolutionizinParent}
                       >
@@ -1066,7 +1068,7 @@ const Media: NextPage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent6} data-animate-on-scroll>
+                  <div className={styles.frameParent5} data-animate-on-scroll>
                     <div className={styles.baseParent2}>
                       <img
                         className={styles.baseIcon}
@@ -1083,7 +1085,7 @@ const Media: NextPage = () => {
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
-                    <div className={styles.frameParent7}>
+                    <div className={styles.frameParent6}>
                       <div
                         className={styles.agrospectrumIsRevolutionizinParent}
                       >
@@ -1274,11 +1276,11 @@ const Media: NextPage = () => {
                   <div className={styles.getInTouch}>GET IN TOUCH</div>
                 </button>
               </div>
-              <div className={styles.frameParent16}>
-                <div className={styles.frameParent17}>
+              <div className={styles.frameParent15}>
+                <div className={styles.frameParent16}>
                   <div className={styles.nowWereParent}>
                     <div className={styles.nowWere2}>business</div>
-                    <div className={styles.frameParent18}>
+                    <div className={styles.frameParent17}>
                       <div className={styles.nowWereFrame}>
                         <div
                           className={styles.nowWere3}
@@ -1314,7 +1316,7 @@ const Media: NextPage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent19}>
+                  <div className={styles.frameParent18}>
                     <div className={styles.nowWereParent1}>
                       <div className={styles.nowWere7}>{`CONTACT US `}</div>
                       <div className={styles.nowWere8}>Agrospectrum Ltd.</div>
@@ -1329,7 +1331,7 @@ const Media: NextPage = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.frameParent20}>
+                <div className={styles.frameParent19}>
                   <div className={styles.nowWereParent4}>
                     <div className={styles.nowWere13}>BSL HEAD OFFICE</div>
                     <div className={styles.nowWere14}>No 24 Botwe</div>
@@ -1344,7 +1346,7 @@ const Media: NextPage = () => {
                   </div>
                 </div>
               </div>
-              <div className={styles.frameParent21}>
+              <div className={styles.frameParent20}>
                 <button className={styles.frameButton}>
                   <img
                     className={styles.frameItem}
@@ -1413,7 +1415,7 @@ const Media: NextPage = () => {
               </div>
             </div>
           </footer>
-          <div className={styles.frameParent22}>
+          <div className={styles.frameParent21}>
             <div className={styles.lineWrapper}>
               <div className={styles.frameInner} />
             </div>

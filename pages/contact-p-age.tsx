@@ -91,12 +91,12 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaChild}
             alt=""
-            src="/vector-21@2x.png"
+            src="/vector-213@2x.png"
           />
           <img
             className={styles.dktpTeamFaqCtaItem}
             alt=""
-            src="/vector-23.svg"
+            src="/vector-233.svg"
           />
           <div className={styles.outteam}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -109,7 +109,7 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaInner}
             alt=""
-            src="/vector-22.svg"
+            src="/vector-222.svg"
           />
           <div className={styles.cardgropupo} data-animate-on-scroll>
             <div className={styles.xorse}>
@@ -161,7 +161,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgChild}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2062@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustParent}>
                   <b
@@ -399,8 +399,8 @@ const ContactPAge: NextPage = () => {
           </div>
         </div>
         <div className={styles.ta}>
-          <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
-          <img className={styles.taItem} alt="" src="/vector-23.svg" />
+          <img className={styles.taChild} alt="" src="/vector-214@2x.png" />
+          <img className={styles.taItem} alt="" src="/vector-234.svg" />
           <div className={styles.outteam2}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
           </div>
@@ -409,7 +409,7 @@ const ContactPAge: NextPage = () => {
               Our Team - The big brains behind Agrospectrum
             </div>
           </div>
-          <img className={styles.taInner} alt="" src="/vector-22.svg" />
+          <img className={styles.taInner} alt="" src="/vector-223.svg" />
           <div className={styles.cardgropupo1} data-animate-on-scroll>
             <div className={styles.xorse1}>
               <div className={styles.xoseAhlijaTeam1}>
@@ -757,7 +757,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgInner}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2064@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustContainer}>
                   <b
