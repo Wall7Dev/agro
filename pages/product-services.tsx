@@ -38,7 +38,7 @@ const ProductServices: NextPage = () => {
         </div>
         <div className={styles.allherops420}>
           <div className={styles.bgBlurParent}>
-            <img className={styles.bgBlurIcon} alt="" src="/bg-blur.svg" />
+            <img className={styles.bgBlurIcon} alt="" src="/bg-blur2.svg" />
             <div className={styles.empoweringFarmersAndUnlockContainer}>
               <div className={styles.empoweringFarmersAndContainer}>
                 <p className={styles.empowering1}>{`Empowering `}</p>
