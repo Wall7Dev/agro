@@ -1762,7 +1762,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             <img
               className={styles.dktpTeamFaqCtaInner}
               alt=""
-              src="/vector-22.svg"
+              src="/vector-23.svg"
             />
             <div className={styles.cardgropupo} data-animate-on-scroll>
               <div className={styles.xorse}>

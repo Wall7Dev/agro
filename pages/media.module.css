@@ -720,25 +720,35 @@
   animation: 2s ease 0s 1 normal none shadow-drop-bottom;
   opacity: 1;
 }
-.span {
-  font-weight: 500;
-}
-.nov1 {
-  margin: 0;
-  font-size: var(--font-size-sm);
-}
-.nov {
+.div {
+  width: 31px;
   position: relative;
   text-transform: capitalize;
+  font-weight: 500;
+  height: 30px;
+  flex-shrink: 0;
 }
-.novWrapper {
+.div,
+.nov,
+.parent {
+  display: flex;
+  align-items: center;
+}
+.nov {
+  width: 28px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  text-transform: capitalize;
+  font-weight: 500;
+  height: 14px;
+  flex-shrink: 0;
+}
+.parent {
   position: absolute;
   top: 258px;
   left: -1.5px;
   background-color: var(--color-goldenrod-300);
-  display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   padding: var(--padding-3xs) var(--padding-xl);
 }
@@ -832,25 +842,31 @@
   cursor: pointer;
 }
 .dec,
-.div {
+.div1 {
   position: absolute;
   font-weight: 500;
+  display: flex;
+  align-items: center;
 }
-.div {
-  top: 0;
-  left: -2px;
+.div1 {
+  top: 5px;
+  left: -1.8px;
   text-transform: capitalize;
+  width: 34px;
+  height: 26px;
 }
 .dec {
-  top: 24px;
-  left: 2px;
+  top: 35px;
+  left: 1.2px;
   font-size: var(--font-size-sm);
   letter-spacing: -0.01em;
   line-height: 26px;
   text-align: left;
+  width: 29px;
+  height: 15px;
 }
 .frameContainer,
-.parent {
+.group {
   position: absolute;
   top: 6px;
   left: 16.2px;
@@ -931,27 +947,32 @@
   object-fit: cover;
   cursor: pointer;
 }
-.div1 {
-  top: 6px;
-  left: 16px;
-  text-transform: capitalize;
-  font-weight: 500;
-}
 .dec1,
-.div1,
-.group {
+.div2 {
   position: absolute;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.div2 {
+  top: 11px;
+  left: 17px;
+  text-transform: capitalize;
+  width: 32px;
+  height: 29px;
 }
 .dec1 {
-  top: 33px;
-  left: 18px;
+  top: 43px;
+  left: 19px;
   font-size: var(--font-size-sm);
   letter-spacing: -0.01em;
   line-height: 26px;
-  font-weight: 500;
   text-align: left;
+  width: 29px;
+  height: 12px;
 }
-.group {
+.container {
+  position: absolute;
   top: 253px;
   left: 8px;
   background-color: var(--color-goldenrod-300);
@@ -1019,12 +1040,29 @@
   object-fit: cover;
   cursor: pointer;
 }
-.div2 {
+.dec2,
+.div3 {
   position: absolute;
-  top: 0;
-  left: 0;
-  text-transform: capitalize;
   font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.div3 {
+  top: 5px;
+  left: 0.2px;
+  text-transform: capitalize;
+  width: 32px;
+  height: 24px;
+}
+.dec2 {
+  top: 34px;
+  left: 3.2px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01em;
+  line-height: 26px;
+  text-align: left;
+  width: 29px;
+  height: 15px;
 }
 .download6Parent {
   width: 420px;
@@ -1137,11 +1175,11 @@
   height: 43.4px;
 }
 .dec3,
-.div3 {
+.div4 {
   position: absolute;
   font-weight: 500;
 }
-.div3 {
+.div4 {
   top: 4px;
   left: 10.7px;
   text-transform: capitalize;

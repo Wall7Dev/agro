@@ -669,19 +669,9 @@ const Media: NextPage = () => {
                         src="/mr-castro-awards-12@2x.png"
                         onClick={onMrCastroAwards11Click}
                       />
-                      <div className={styles.novWrapper}>
-                        <div className={styles.nov}>
-                          <p className={styles.learnRecentPractices}>
-                            <span className={styles.span}>
-                              <span>23</span>
-                            </span>
-                          </p>
-                          <p className={styles.nov1}>
-                            <span className={styles.span}>
-                              <span>Nov</span>
-                            </span>
-                          </p>
-                        </div>
+                      <div className={styles.parent}>
+                        <div className={styles.div}>23</div>
+                        <div className={styles.nov}>Nov</div>
                       </div>
                     </div>
                     <div
@@ -731,8 +721,8 @@ const Media: NextPage = () => {
                         onClick={onImage3Click}
                       />
                       <div className={styles.frameContainer}>
-                        <div className={styles.parent}>
-                          <div className={styles.div}>20</div>
+                        <div className={styles.group}>
+                          <div className={styles.div1}>20</div>
                           <div className={styles.dec}>DEC</div>
                         </div>
                       </div>
@@ -784,8 +774,8 @@ const Media: NextPage = () => {
                         src="/image-1@2x.png"
                         onClick={onImage1Click}
                       />
-                      <div className={styles.group}>
-                        <div className={styles.div1}>25</div>
+                      <div className={styles.container}>
+                        <div className={styles.div2}>25</div>
                         <div className={styles.dec1}>DEC</div>
                       </div>
                     </div>
@@ -833,9 +823,9 @@ const Media: NextPage = () => {
                         onClick={onDownload6ImageClick}
                       />
                       <div className={styles.frameContainer}>
-                        <div className={styles.parent}>
-                          <div className={styles.div2}>25</div>
-                          <div className={styles.dec}>DEC</div>
+                        <div className={styles.group}>
+                          <div className={styles.div3}>25</div>
+                          <div className={styles.dec2}>DEC</div>
                         </div>
                       </div>
                     </div>
@@ -899,7 +889,7 @@ const Media: NextPage = () => {
                           alt=""
                           src="/vector-17.svg"
                         />
-                        <div className={styles.div3}>25</div>
+                        <div className={styles.div4}>25</div>
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
@@ -948,7 +938,7 @@ const Media: NextPage = () => {
                           alt=""
                           src="/vector-17.svg"
                         />
-                        <div className={styles.div3}>25</div>
+                        <div className={styles.div4}>25</div>
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
@@ -989,7 +979,7 @@ const Media: NextPage = () => {
                           alt=""
                           src="/vector-17.svg"
                         />
-                        <div className={styles.div3}>25</div>
+                        <div className={styles.div4}>25</div>
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
@@ -1035,7 +1025,7 @@ const Media: NextPage = () => {
                           alt=""
                           src="/vector-17.svg"
                         />
-                        <div className={styles.div3}>25</div>
+                        <div className={styles.div4}>25</div>
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
@@ -1081,7 +1071,7 @@ const Media: NextPage = () => {
                           alt=""
                           src="/vector-17.svg"
                         />
-                        <div className={styles.div3}>25</div>
+                        <div className={styles.div4}>25</div>
                         <div className={styles.dec3}>DEC</div>
                       </div>
                     </div>
