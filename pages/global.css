@@ -99,9 +99,6 @@ body {
   --font-size-5xl-7: 24.7px;
   --font-size-mini-8: 14.8px;
   --font-size-61xl: 80px;
-  --font-size-mini-5: 14.5px;
-  --font-size-smi-7: 12.7px;
-  --font-size-41xl: 60px;
   --font-size-44xl: 63px;
   --font-size-36xl: 55px;
   --font-size-16xl: 35px;
@@ -112,11 +109,14 @@ body {
   --font-size-107xl-5: 126.5px;
   --font-size-53xl: 72px;
   --font-size-43xl: 62px;
+  --font-size-41xl: 60px;
   --font-size-24xl: 43px;
   --font-size-5xs: 8px;
+  --font-size-smi-7: 12.7px;
   --font-size-3xs-3: 9.3px;
   --font-size-lg-7: 18.7px;
   --font-size-28xl: 47px;
+  --font-size-mini-5: 14.5px;
 
   /* Colors */
   --color-darkslategray-100: #003a2b;
@@ -173,11 +173,11 @@ body {
   --color-olivedrab-100: #9eb032;
   --color-yellowgreen-100: #c3db33;
   --color-yellowgreen-200: #bbd432;
-  --color-darkgoldenrod: rgba(179, 152, 12, 0.8);
   --color-firebrick: #c10202;
   --color-darkseagreen-100: #c3e8b7;
   --color-darkseagreen-200: #c3e7b6;
   --color-forestgreen: rgba(79, 148, 62, 0.6);
+  --color-darkgoldenrod: rgba(179, 152, 12, 0.8);
 
   /* Gaps */
   --gap-0: 0px;
@@ -290,13 +290,9 @@ body {
   --padding-21xl-7: 40.7px;
   --padding-sm: 14px;
   --padding-xs: 12px;
-  --padding-201xl: 220px;
-  --padding-3xs-1: 9.1px;
-  --padding-5xl-5: 24.5px;
-  --padding-base-4: 15.4px;
-  --padding-24xl: 43px;
   --padding-23xl: 42px;
   --padding-231xl: 250px;
+  --padding-201xl: 220px;
   --padding-5xl-3: 24.3px;
   --padding-4xs-1: 8.1px;
   --padding-46xl-6: 65.6px;
@@ -320,6 +316,10 @@ body {
   --padding-lgi: 19px;
   --padding-base: 16px;
   --padding-8xl: 27px;
+  --padding-24xl: 43px;
+  --padding-3xs-1: 9.1px;
+  --padding-5xl-5: 24.5px;
+  --padding-base-4: 15.4px;
 
   /* Border radiuses */
   --br-21xl-4: 40.4px;
@@ -342,7 +342,6 @@ body {
   --br-21xl: 40px;
   --br-31xl: 50px;
   --br-359xl-4: 378.4px;
-  --br-8xl-2: 27.2px;
   --br-base-1: 16.1px;
   --br-21xl-8: 40.8px;
   --br-29xl-9: 48.9px;
@@ -351,4 +350,5 @@ body {
   --br-6xl: 25px;
   --br-3xl: 22px;
   --br-10xl: 29px;
+  --br-8xl-2: 27.2px;
 }
