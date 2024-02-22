@@ -91,12 +91,12 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaChild}
             alt=""
-            src="/vector-213@2x.png"
+            src="/vector-21@2x.png"
           />
           <img
             className={styles.dktpTeamFaqCtaItem}
             alt=""
-            src="/vector-233.svg"
+            src="/vector-23.svg"
           />
           <div className={styles.outteam}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -109,7 +109,7 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaInner}
             alt=""
-            src="/vector-222.svg"
+            src="/vector-22.svg"
           />
           <div className={styles.cardgropupo} data-animate-on-scroll>
             <div className={styles.xorse}>
@@ -161,7 +161,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgChild}
                   alt=""
-                  src="/group-2062@2x.png"
+                  src="/group-206@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustParent}>
                   <b
@@ -399,8 +399,8 @@ const ContactPAge: NextPage = () => {
           </div>
         </div>
         <div className={styles.ta}>
-          <img className={styles.taChild} alt="" src="/vector-214@2x.png" />
-          <img className={styles.taItem} alt="" src="/vector-231.svg" />
+          <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
+          <img className={styles.taItem} alt="" src="/vector-23.svg" />
           <div className={styles.outteam2}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
           </div>
@@ -757,7 +757,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgInner}
                   alt=""
-                  src="/group-2064@2x.png"
+                  src="/group-206@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustContainer}>
                   <b
