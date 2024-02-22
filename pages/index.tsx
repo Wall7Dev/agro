@@ -2046,8 +2046,8 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
           </div>
           <div className={styles.ta}>
-            <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
-            <img className={styles.taItem} alt="" src="/vector-23.svg" />
+            <img className={styles.taChild} alt="" src="/vector-211@2x.png" />
+            <img className={styles.taItem} alt="" src="/vector-231.svg" />
             <div className={styles.outteam2}>
               <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
             </div>
@@ -2056,7 +2056,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 Our Team - The big brains behind Agrospectrum
               </div>
             </div>
-            <img className={styles.taInner} alt="" src="/vector-22.svg" />
+            <img className={styles.taInner} alt="" src="/vector-221.svg" />
             <div className={styles.cardgropupo1} data-animate-on-scroll>
               <div className={styles.xorse1}>
                 <div className={styles.xoseAhlijaTeam1}>
@@ -2351,7 +2351,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 Our Team - The big brains behind Agrospectrum
               </div>
             </div>
-            <img className={styles.child1} alt="" src="/vector-221.svg" />
+            <img className={styles.child1} alt="" src="/vector-2211.svg" />
             <div className={styles.cardgropupo2} data-animate-on-scroll>
               <div className={styles.xorse2}>
                 <div className={styles.xoseAhlijaTeam2}>

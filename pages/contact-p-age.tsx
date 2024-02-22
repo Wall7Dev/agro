@@ -91,12 +91,12 @@ const ContactPAge: NextPage = () => {
           <img
             className={styles.dktpTeamFaqCtaChild}
             alt=""
-            src="/vector-211@2x.png"
+            src="/vector-2111@2x.png"
           />
           <img
             className={styles.dktpTeamFaqCtaItem}
             alt=""
-            src="/vector-231.svg"
+            src="/vector-2311.svg"
           />
           <div className={styles.outteam}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -399,7 +399,7 @@ const ContactPAge: NextPage = () => {
           </div>
         </div>
         <div className={styles.ta}>
-          <img className={styles.taChild} alt="" src="/vector-2111@2x.png" />
+          <img className={styles.taChild} alt="" src="/vector-21111@2x.png" />
           <img className={styles.taItem} alt="" src="/vector-233.svg" />
           <div className={styles.outteam2}>
             <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -706,7 +706,7 @@ const ContactPAge: NextPage = () => {
               Our Team - The big brains behind Agrospectrum
             </div>
           </div>
-          <img className={styles.inner} alt="" src="/vector-221.svg" />
+          <img className={styles.inner} alt="" src="/vector-2211.svg" />
           <div className={styles.cardgropupo2} data-animate-on-scroll>
             <div className={styles.xorse2}>
               <div className={styles.xoseAhlijaTeam2}>
