@@ -1,0 +1,448 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes fade-in-bottom {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.affiliates {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.affiliatesWrapper,
+.greencardholderInner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.greencardholderInner {
+  flex-direction: column;
+  opacity: 1;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+  color: var(--color-darkolivegreen-400);
+}
+.greencardholderInner.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.bslMain1Icon {
+  width: 259px;
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.broadspectrumLimitedIs {
+  align-self: stretch;
+  position: relative;
+}
+.getInTouch {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 12.72px;
+  font-weight: 400;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  cursor: pointer;
+}
+.getInTouchWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 24.95049285888672px 49.90098571777344px;
+  background-color: transparent;
+  border-radius: 40.54px;
+  background: linear-gradient(93.32deg, #4f943e, #c1ad28);
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.getInTouchWrapper:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.bslMain1Parent,
+.greencardholderChild {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bslMain1Parent {
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkolivegreen-500);
+  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-19xl);
+  gap: 30px 0;
+}
+.greencardholderChild {
+  padding: var(--padding-3xs);
+  opacity: 1;
+}
+.greencardholderChild.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.spectrumMain1Icon {
+  width: 164px;
+  position: relative;
+  height: 41px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.connectingYouAt {
+  margin: 0;
+}
+.getInTouch1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 12.72px;
+  font-weight: 400;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  cursor: pointer;
+}
+.getInTouchContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 24.95049285888672px 49.90098571777344px;
+  background-color: transparent;
+  border-radius: 40.54px;
+  background: linear-gradient(93.32deg, #4f943e, #c1ad28);
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.getInTouchContainer:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.spectrumMain1Parent {
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkolivegreen-500);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-19xl);
+  gap: 30px 0;
+  opacity: 1;
+}
+.spectrumMain1Parent.animate {
+  animation: 2s ease 0s 1 normal forwards scale-up;
+}
+.isgMain1Icon {
+  width: 130px;
+  position: relative;
+  height: 62px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.getInTouch2 {
+  margin: 0;
+  height: 13px;
+  position: relative;
+  font-size: var(--font-size-mid);
+  line-height: 12.72px;
+  font-weight: 400;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  cursor: pointer;
+}
+.getInTouchFrame {
+  cursor: pointer;
+  border: 0;
+  padding: 24.95049285888672px 49.90098571777344px;
+  background-color: transparent;
+  border-radius: 40.54px;
+  background: linear-gradient(93.32deg, #4f943e, #c1ad28);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.isgMain1Parent {
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkolivegreen-500);
+  align-items: flex-start;
+  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-17xl);
+  gap: 30px 0;
+}
+.frameDiv,
+.instanceWrapper,
+.isgMain1Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.instanceWrapper {
+  align-items: flex-start;
+  padding: var(--padding-3xs);
+}
+.frameDiv {
+  align-items: center;
+  opacity: 1;
+}
+.frameDiv.animate {
+  animation: 4s ease 0s 1 normal forwards scale-up;
+}
+.bdpMain1Icon {
+  max-width: 100%;
+  overflow: hidden;
+  height: 52px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.getInTouch3 {
+  margin: 0;
+  height: 13px;
+  position: relative;
+  font-size: var(--font-size-lgi);
+  line-height: 12.72px;
+  font-weight: 400;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  cursor: pointer;
+}
+.frameButton {
+  cursor: pointer;
+  border: 0;
+  padding: 24.95049285888672px 49.90098571777344px;
+  background-color: transparent;
+  border-radius: 40.54px;
+  background: linear-gradient(93.32deg, #4f943e, #c1ad28);
+  height: 62.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frameButton:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.bdpMain1Parent,
+.greencardholder {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bdpMain1Parent {
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkolivegreen-500);
+  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-17xl);
+  gap: 30px 0;
+  opacity: 1;
+}
+.bdpMain1Parent.animate {
+  animation: 4s ease 0s 1 normal forwards scale-up;
+}
+.greencardholder {
+  flex: 1;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 45px 0;
+  min-width: 550px;
+  max-width: 1550px;
+}
+.containerOursubsidiar {
+  align-self: stretch;
+  background-color: var(--color-darkseagreen-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-131xl);
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.containerOursubsidiar.animate {
+  animation: 2s ease-in-out 0s 1 normal forwards fade-in-bottom;
+}
+@media screen and (max-width: 1200px) {
+  .getInTouchContainer,
+  .getInTouchFrame {
+    width: 250px;
+    height: 48px;
+  }
+  .frameButton {
+    width: 250px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .greencardholderInner {
+    display: flex;
+    align-self: stretch;
+    width: auto;
+    height: 147px;
+    padding: var(--padding-4xs) var(--padding-xl) var(--padding-xl);
+    box-sizing: border-box;
+    opacity: 0;
+  }
+  .greencardholderInner.animate {
+    animation: 1s ease-in-out 0s 1 normal forwards fade-in;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .greencardholderInner:hover {
+    filter: drop-shadow(0 4px 4px rgba(255, 248, 227, 0.25));
+  }
+  .bslMain1Icon {
+    width: 180px;
+    height: 38px;
+  }
+  .getInTouch {
+    font-size: var(--font-size-mid);
+    opacity: 0;
+  }
+  .getInTouch.animate {
+    animation: 1s ease 0s 1 normal forwards fade-in;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .getInTouchWrapper {
+    width: 200px;
+  }
+  .getInTouch1 {
+    line-height: 5px;
+  }
+  .getInTouch1,
+  .getInTouch2 {
+    font-size: var(--font-size-mid);
+  }
+  .getInTouchFrame {
+    width: 250px;
+    height: 48px;
+  }
+  .bdpMain1Icon {
+    height: 43px;
+  }
+  .getInTouch3 {
+    font-size: var(--font-size-mid);
+  }
+  .greencardholder {
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+    flex: unset;
+    align-self: stretch;
+  }
+  .containerOursubsidiar {
+    background-color: var(--color-darkseagreen-200);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-11xl) var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .affiliates {
+    font-size: var(--font-size-25xl);
+    opacity: 0;
+  }
+  .affiliates.animate,
+  .getInTouch1.animate {
+    animation: 1s ease 0s 1 normal forwards fade-in;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .greencardholderInner {
+    height: auto;
+    gap: 25px 0;
+  }
+  .getInTouch {
+    font-size: var(--font-size-base);
+  }
+  .getInTouchWrapper {
+    width: 200px;
+    height: 44px;
+  }
+  .getInTouch1 {
+    opacity: 0;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .getInTouch1,
+  .getInTouch2,
+  .getInTouch3 {
+    font-size: var(--font-size-base);
+  }
+  .containerOursubsidiar,
+  .greencardholder {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .containerOursubsidiar {
+    gap: 45px 10px;
+  }
+}

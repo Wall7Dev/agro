@@ -1,0 +1,350 @@
+.bgBlurIcon {
+  width: 417.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: -180.4px;
+  left: 263.6px;
+  height: 624.9px;
+  z-index: 0;
+}
+.empowering {
+  font-weight: 300;
+}
+.farmers {
+  font-weight: 800;
+}
+.empoweringFarmersAndContainer {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 111%;
+}
+.empoweringFarmersAndUnlockWrapper {
+  align-self: stretch;
+  filter: drop-shadow(0 2.2px 5.47px rgba(0, 0, 0, 0.25));
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5.467952728271484px;
+  z-index: 1;
+}
+.aRevolutionaryDigital {
+  width: 444px;
+  position: relative;
+  letter-spacing: 0.49px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-shadow: 0 2.2px 3.28px rgba(0, 0, 0, 0.25);
+}
+.aRevolutionaryDigitalInnoWrapper {
+  width: 477px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 65.61543273925781px;
+  box-sizing: border-box;
+  z-index: 2;
+  font-size: var(--font-size-sm);
+}
+.scrollDownChild {
+  width: 9.5px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod-300);
+  height: 9.5px;
+}
+.bgBlurParent,
+.scrollDown {
+  display: flex;
+  align-items: center;
+}
+.scrollDown {
+  border-radius: 16.05px;
+  border: 1.5px solid var(--color-goldenrod-300);
+  box-sizing: border-box;
+  height: 58.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24.321651458740234px 8.107217788696289px;
+  z-index: 3;
+}
+.bgBlurParent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  gap: 15px 0;
+}
+.allherops960 {
+  width: 960px;
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) var(--padding-61xl);
+  box-sizing: border-box;
+  background-image: url(/allherops960@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.empowering1 {
+  margin-block-start: 0;
+  margin-block-end: 4.43px;
+  font-weight: 300;
+}
+.span1 {
+  font-weight: 300;
+  font-family: var(--font-poppins);
+}
+.farmers1 {
+  margin-block-start: 0;
+  margin-block-end: 4.43px;
+}
+.andUnlockingGhanasAgricult {
+  margin: 0;
+}
+.empoweringFarmersAndUnlockContainer {
+  align-self: stretch;
+  filter: drop-shadow(0 2.2px 5.47px rgba(0, 0, 0, 0.25));
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5.467952728271484px var(--padding-mini);
+  z-index: 1;
+}
+.aRevolutionaryDigital1 {
+  width: 274px;
+  position: relative;
+  letter-spacing: 0.49px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-shadow: 0 2.2px 3.28px rgba(0, 0, 0, 0.25);
+}
+.aRevolutionaryDigitalInnoContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 65.61543273925781px;
+  z-index: 2;
+  font-size: var(--font-size-xs);
+}
+.allherops,
+.allherops420 {
+  flex-direction: column;
+  justify-content: center;
+}
+.allherops420 {
+  width: 420px;
+  overflow: hidden;
+  display: none;
+  align-items: center;
+  padding: var(--padding-11xl) var(--padding-21xl) var(--padding-21xl);
+  box-sizing: border-box;
+  background-image: url(/allherops420@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-5xl);
+}
+.allherops {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  text-align: center;
+  font-size: 39.4px;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.frame1082 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  height: 708px;
+  object-fit: cover;
+}
+.subsidy {
+  font-family: var(--font-poppins);
+}
+.p {
+  margin: 0;
+  font-weight: 200;
+}
+.subsidyProgram {
+  font-size: var(--font-size-44xl);
+  line-height: 96.75%;
+}
+.subsidyProgram,
+.theSubsidyIs {
+  align-self: stretch;
+  position: relative;
+}
+.subsidyProgramParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.climate,
+.frame1082Parent {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame1082Parent {
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-51xl);
+}
+.climate {
+  background-color: var(--color-darkolivegreen-600);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-201xl);
+  color: var(--color-white);
+}
+.span2 {
+  font-weight: 200;
+  font-family: var(--font-poppins);
+}
+.farmerKyc {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-44xl);
+  line-height: 96.75%;
+  color: var(--color-darkolivegreen-600);
+}
+.climate1,
+.productServices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.climate1 {
+  align-self: stretch;
+  background-color: var(--color-goldenrod-300);
+  padding: 0 var(--padding-201xl);
+}
+.productServices {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-300);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1200px) {
+  .empoweringFarmersAndContainer {
+    font-size: var(--font-size-46xl);
+  }
+  .allherops960 {
+    display: none;
+  }
+  .frame1082 {
+    height: 600px;
+  }
+  .climate,
+  .climate1 {
+    padding-left: var(--padding-71xl);
+    padding-right: var(--padding-71xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .allherops960 {
+    display: flex;
+    padding: var(--padding-21xl) 70px;
+    box-sizing: border-box;
+  }
+  .frame1082 {
+    height: 400px;
+    flex: unset;
+    align-self: stretch;
+  }
+  .subsidyProgram {
+    font-size: var(--font-size-36xl);
+  }
+  .subsidyProgramParent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame1082Parent {
+    flex-direction: column;
+  }
+  .climate {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .farmerKyc {
+    font-size: var(--font-size-36xl);
+  }
+  .climate1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .allherops960 {
+    display: none;
+  }
+  .allherops420,
+  .frame1082 {
+    display: flex;
+  }
+  .frame1082 {
+    height: 200px;
+  }
+  .subsidyProgram {
+    font-size: var(--font-size-16xl);
+    display: flex;
+  }
+  .theSubsidyIs {
+    font-size: var(--font-size-base);
+    display: flex;
+  }
+  .subsidyProgramParent {
+    display: flex;
+  }
+  .frame1082Parent {
+    display: flex;
+    gap: var(--gap-51xl);
+  }
+  .climate {
+    display: flex;
+    padding: var(--padding-11xl) var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .farmerKyc {
+    font-size: var(--font-size-16xl);
+    display: flex;
+  }
+  .climate1 {
+    display: flex;
+    padding: var(--padding-11xl) var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}

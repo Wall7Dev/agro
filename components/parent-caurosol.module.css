@@ -1,0 +1,233 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.leftGroupIcon {
+  width: 54.5px;
+  position: relative;
+  height: 54.5px;
+  object-fit: cover;
+  opacity: 0.78;
+}
+.mission1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-family: inherit;
+}
+.missionWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.leftGroupIcon1 {
+  width: 53.5px;
+  position: relative;
+  height: 54.5px;
+  object-fit: contain;
+  opacity: 0.78;
+}
+.leftGroupParent,
+.missionInner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.leftGroupParent {
+  flex: 1;
+  justify-content: space-between;
+}
+.missionInner {
+  align-self: stretch;
+  height: 159px;
+  justify-content: center;
+  opacity: 1;
+  cursor: pointer;
+}
+.child.animate,
+.inner.animate,
+.missionInner.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.toExtendDigitalization {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-2xl-8);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.mission {
+  width: 1728px;
+  background-color: var(--color-gray-600);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) var(--padding-181xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-121xl);
+  color: var(--color-goldenrod-100);
+  font-family: var(--font-poppins);
+}
+.integrity {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-family: inherit;
+}
+.integrityWrapper {
+  width: 707px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.leftGroupIcon3 {
+  width: 53.5px;
+  position: relative;
+  height: 54.5px;
+  object-fit: contain;
+  opacity: 0.78;
+  cursor: pointer;
+}
+.inner {
+  align-self: stretch;
+  height: 159px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+}
+.ourCredibilityAs {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  white-space: pre-wrap;
+  text-align: center;
+}
+.section {
+  width: 1701px;
+  background-color: var(--color-gray-600);
+  height: 345px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) var(--padding-181xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-121xl);
+  color: var(--color-darkgreen-200);
+  font-family: var(--font-poppins);
+}
+.resourcefulness {
+  margin: 0;
+  width: 1089px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.child,
+.resourcefulness,
+.section1 {
+  display: flex;
+  align-items: center;
+}
+.child {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  opacity: 1;
+}
+.section1 {
+  width: 1701px;
+  background-color: var(--color-gray-600);
+  height: 345px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) var(--padding-181xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-101xl);
+  color: var(--color-goldenrod-300);
+  font-family: var(--font-poppins);
+}
+.weOfferA {
+  margin: 0;
+}
+.weOfferAContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+}
+.parentCaurosol,
+.section2 {
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+}
+.section2 {
+  width: 1701px;
+  background-color: var(--color-gray-600);
+  height: 320px;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-61xl) var(--padding-181xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-121xl);
+  color: var(--color-darkgreen-200);
+  font-family: var(--font-poppins);
+}
+.parentCaurosol {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 1px;
+}
+@media screen and (max-width: 1200px) {
+  .parentCaurosol {
+    display: none;
+  }
+}
+@media screen and (max-width: 960px) {
+  .mission,
+  .section,
+  .section1,
+  .section2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 350px) {
+  .parentCaurosol {
+    display: none;
+  }
+}

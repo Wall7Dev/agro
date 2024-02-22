@@ -1,0 +1,195 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.whatWeOffer {
+  align-self: stretch;
+  height: 98px;
+  position: relative;
+  font-size: var(--font-size-46xl);
+  display: inline-block;
+  opacity: 1;
+}
+.productAndServicesSec4Inner.animate,
+.whatWeOffer.animate {
+  animation: 5s ease 0s 1 normal forwards scale-up;
+}
+.inTheHeart {
+  margin: 0;
+}
+.inTheHeartContainer {
+  flex: 1;
+  position: relative;
+}
+.inTheHeartOfGhanasVibranWrapper,
+.productAndServicesSec4Inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.productAndServicesSec4Inner {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 1;
+}
+.frameChild {
+  width: 587px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  opacity: 1;
+}
+.frameChild.animate {
+  animation: 3s ease 0s 1 normal forwards scale-up;
+}
+.inputCreditManagementSystem {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.frameItem {
+  width: 533px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod-300);
+  height: 5px;
+}
+.inputCreditManagementSystemParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px 0;
+  opacity: 1;
+  font-size: var(--font-size-9xl);
+}
+.inputCreditManagementSystemParent.animate {
+  animation: 4s ease 0s 1 normal forwards scale-up;
+}
+.theInputCredit {
+  height: 87px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  opacity: 1;
+}
+.theInputCredit.animate {
+  animation: 3s ease 0s 1 normal forwards scale-up;
+}
+.thisProductDigitalisesTheIWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  opacity: 1;
+}
+.thisProductDigitalisesTheIWrapper.animate {
+  animation: 4s ease 0s 1 normal forwards scale-up;
+}
+.frameGroup,
+.frameParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px 0;
+}
+.frameParent {
+  width: 1178px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 4px;
+  text-align: left;
+}
+.paginationsIcon {
+  width: 43.8px;
+  position: relative;
+  height: 16.4px;
+}
+.projectArrow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider {
+  width: 245.3px;
+  position: relative;
+  background-color: var(--color-gray-1300);
+  height: 1.6px;
+}
+.navigation,
+.projectArrowParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.navigation {
+  overflow: hidden;
+  justify-content: flex-start;
+}
+.projectArrowParent {
+  align-self: stretch;
+  justify-content: space-between;
+}
+.inputCreditManagementSystem1 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.thisProductAlsoContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  display: inline-block;
+  height: 100px;
+  flex-shrink: 0;
+}
+.inputCreditManagementSystemGroup,
+.productAndServicesSec4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px 0;
+  font-size: var(--font-size-15xl);
+  color: var(--color-goldenrod-300);
+}
+.productAndServicesSec4 {
+  background: linear-gradient(
+    180deg,
+    rgba(254, 202, 58, 0.75),
+    rgba(255, 255, 255, 0)
+  );
+  overflow: hidden;
+  padding: var(--padding-21xl) var(--padding-256xl);
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1200px) {
+  .productAndServicesSec4 {
+    display: none;
+  }
+}

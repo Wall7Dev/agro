@@ -1,0 +1,96 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.gradientmsgChild {
+  width: 560px;
+  position: relative;
+  height: 430.4px;
+  object-fit: cover;
+}
+.weSupportAgribusinessContainer {
+  align-self: stretch;
+  height: 150px;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 1;
+}
+.weSupportAgribusinessContainer.animate {
+  animation: 3s ease 0s 1 normal forwards scale-up;
+}
+.arrowIcon,
+.viewProducts {
+  position: relative;
+  cursor: pointer;
+}
+.arrowIcon {
+  width: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 14.7px;
+}
+.viewProducts {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.vectorParent {
+  border: 3px solid var(--color-seagreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xl) var(--padding-21xl);
+  gap: 0 10px;
+  cursor: pointer;
+}
+.weSupportAgribusinessIndustParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  gap: 50px 0;
+}
+.gradientmsg,
+.gradientmsgWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl);
+}
+.gradientmsgWrapper {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.base {
+  width: 500px;
+  position: relative;
+  background-color: var(--color-goldenrod-300);
+  height: 10px;
+}
+.cta {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-181xl);
+  z-index: 6;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-lexend-deca);
+}

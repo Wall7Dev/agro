@@ -1,0 +1,36 @@
+.roundplus2 {
+  border-radius: var(--br-11xl);
+  border: 2px solid var(--color-goldenrod-300);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid);
+  gap: 0 10px;
+}
+.roundplus2:active .combinedShapeIcon17 {
+  display: none;
+}
+.faq3:active .poppup33,
+.roundplus2,
+.roundplus2:active .rectangle41 {
+  display: flex;
+}
+.faq3,
+.whatDoesThePlatformDo2,
+.whereFrame2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.faq3,
+.whereFrame2 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.faq3 {
+  gap: 15px 0;
+  font-size: var(--font-size-xl);
+}

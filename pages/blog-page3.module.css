@@ -1,0 +1,246 @@
+@keyframes shadow-drop-bottom {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
+  }
+}
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.hot {
+  position: relative;
+  line-height: 100%;
+}
+.frameParent,
+.hotWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.hotWrapper {
+  background-color: var(--color-firebrick);
+  align-items: center;
+  padding: var(--padding-8xs);
+}
+.frameParent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 0 10px;
+}
+.agrospectrumLimitedWins {
+  align-self: stretch;
+  position: relative;
+  line-height: 100%;
+  font-weight: 800;
+  white-space: pre-wrap;
+}
+.november232023 {
+  width: 147px;
+  position: relative;
+  line-height: 100%;
+  font-weight: 200;
+  display: flex;
+  align-items: center;
+  height: 22px;
+  flex-shrink: 0;
+}
+.agrospectrumLimitedWinsTwoParent,
+.november232023Wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xs);
+}
+.agrospectrumLimitedWinsTwoParent {
+  flex-direction: column;
+  align-items: center;
+  gap: 5px 0;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+}
+.mrCastroAwards1 {
+  width: 1084px;
+  position: relative;
+  border-radius: var(--br-xl);
+  height: 618px;
+  object-fit: cover;
+}
+.mrCastroAwards1:hover {
+  animation: 2s ease 0s 1 normal none shadow-drop-bottom;
+  opacity: 1;
+}
+.agrospectrumLimitedA {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blankLine {
+  margin: 0;
+}
+.agrospectrumLimitedAContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  text-align: justify;
+}
+.gradientmsgChild {
+  width: 331.5px;
+  position: relative;
+  height: 291.1px;
+  object-fit: cover;
+}
+.weSupportAgribusinessContainer {
+  align-self: stretch;
+  height: 144px;
+  position: relative;
+  letter-spacing: -0.02em;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 1;
+}
+.weSupportAgribusinessContainer.animate {
+  animation: 3s ease 0s 1 normal forwards scale-up;
+}
+.frameChild {
+  width: 14px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 14.7px;
+  object-fit: cover;
+}
+.viewProducts {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.vectorParent {
+  border: 3px solid var(--color-seagreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xl) var(--padding-21xl);
+  gap: 0 10px;
+  cursor: pointer;
+  font-size: var(--font-size-mini);
+}
+.weSupportAgribusinessIndustParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl);
+  gap: 20px 0;
+}
+.gradientmsg {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 79px;
+}
+.blogpage1,
+.gradientmsgWrapper,
+.section6partners {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.gradientmsgWrapper {
+  align-self: stretch;
+  background-color: var(--color-darkgreen-100);
+  align-items: flex-start;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-19xl);
+  font-family: var(--font-lexend-deca);
+}
+.blogpage1,
+.section6partners {
+  overflow: hidden;
+  align-items: center;
+}
+.section6partners {
+  align-self: stretch;
+  padding: var(--padding-23xl) var(--padding-231xl);
+  gap: 30px 0;
+  background-image: url(/section6partners2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.blogpage1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkolivegreen-700);
+}
+@media screen and (max-width: 1200px) {
+  .gradientmsgChild {
+    width: 320px;
+    height: 280px;
+  }
+  .weSupportAgribusinessContainer {
+    font-size: var(--font-size-9xl);
+  }
+  .section6partners {
+    gap: 30px 0;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: var(--padding-131xl);
+    padding-right: var(--padding-131xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .gradientmsgChild {
+    width: 250px;
+    height: 250px;
+  }
+  .weSupportAgribusinessContainer {
+    font-size: var(--font-size-3xl);
+  }
+  .section6partners {
+    padding-left: var(--padding-41xl);
+    padding-right: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .agrospectrumLimitedWins {
+    font-size: var(--font-size-lg);
+  }
+  .mrCastroAwards1 {
+    height: 400px;
+  }
+  .weSupportAgribusinessContainer {
+    font-size: var(--font-size-lg);
+  }
+  .weSupportAgribusinessIndustParent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .gradientmsg {
+    flex-direction: column;
+  }
+  .section6partners {
+    display: flex;
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,95 @@
+.download2Icon,
+.download5Icon {
+  position: absolute;
+  top: 15.8px;
+  left: 1631.9px;
+  width: 52.1px;
+  height: 52.1px;
+  object-fit: cover;
+}
+.download5Icon {
+  top: 16.7px;
+  left: 290.6px;
+  width: 87.4px;
+  height: 57.1px;
+}
+.download3Icon,
+.download5Icon1,
+.downloadIcon {
+  position: absolute;
+  top: 5.8px;
+  left: 1501.7px;
+  width: 57.1px;
+  height: 63px;
+  object-fit: cover;
+}
+.download3Icon,
+.download5Icon1 {
+  top: 12.5px;
+  left: 26px;
+  width: 70.6px;
+  height: 58.8px;
+}
+.download3Icon {
+  top: 20px;
+  left: 162.1px;
+  width: 49.6px;
+  height: 48.7px;
+}
+.captureIcon,
+.imagesIcon,
+.mofaColorIcon {
+  position: absolute;
+  top: 10.8px;
+  left: 432.5px;
+  width: 141.9px;
+  height: 62.2px;
+  object-fit: cover;
+}
+.imagesIcon,
+.mofaColorIcon {
+  top: 16.7px;
+  left: 623.2px;
+  width: 248.6px;
+  height: 52.1px;
+}
+.imagesIcon {
+  top: 24.2px;
+  left: 907.1px;
+  width: 115.9px;
+  height: 39.5px;
+  mix-blend-mode: difference;
+}
+.download1Icon,
+.download6Icon,
+.images1Icon {
+  position: absolute;
+  top: 11.6px;
+  left: 1053.2px;
+  width: 104.1px;
+  height: 59.6px;
+  object-fit: cover;
+}
+.download1Icon,
+.images1Icon {
+  top: -0.1px;
+  left: 1198.5px;
+  width: 84px;
+  height: 84px;
+}
+.download1Icon {
+  top: 15px;
+  left: 1327px;
+  width: 137.7px;
+  height: 54.6px;
+}
+.dsktopBanner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(90.01deg, #fbfbfb, #a1b5a1);
+  box-shadow: 0 4px 62px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(60px);
+  width: 1722px;
+  height: 84px;
+}
