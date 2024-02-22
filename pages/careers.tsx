@@ -619,119 +619,125 @@ const Careers: NextPage = () => {
           </div>
         </section>
         <div className={styles.footerComponent}>
-          <div className={styles.logoAutoscrollframe}>
-            <div className={styles.dsktopBanner2}>
-              <img
-                className={styles.download2Icon}
-                alt=""
-                src="/download-211@2x.png"
-              />
-              <img
-                className={styles.download5Icon}
-                alt=""
-                src="/download-523@2x.png"
-              />
-              <img
-                className={styles.downloadIcon}
-                alt=""
-                src="/download11@2x.png"
-              />
-              <img
-                className={styles.download5Icon1}
-                alt=""
-                src="/download-524@2x.png"
-              />
-              <img
-                className={styles.download3Icon}
-                alt=""
-                src="/download-312@2x.png"
-              />
-              <img
-                className={styles.captureIcon}
-                alt=""
-                src="/capture11@2x.png"
-              />
-              <img
-                className={styles.mofaColorIcon}
-                alt=""
-                src="/mofa-color11@2x.png"
-              />
-              <img className={styles.imagesIcon} alt="" src="/images9@2x.png" />
-              <img
-                className={styles.download6Icon}
-                alt=""
-                src="/download-612@2x.png"
-              />
-              <img
-                className={styles.images1Icon}
-                alt=""
-                src="/images-110@2x.png"
-              />
-              <img
-                className={styles.download1Icon}
-                alt=""
-                src="/download-112@2x.png"
-              />
-            </div>
-            <section className={styles.dsktopBanner1}>
-              <img
-                className={styles.download5Icon2}
-                alt=""
-                src="/download-525@2x.png"
-              />
-              <img
-                className={styles.download3Icon1}
-                alt=""
-                src="/download-313@2x.png"
-              />
-              <img
-                className={styles.download5Icon3}
-                alt=""
-                src="/download-526@2x.png"
-              />
-              <img
-                className={styles.captureIcon1}
-                alt=""
-                src="/capture12@2x.png"
-              />
-              <img
-                className={styles.mofaColorIcon1}
-                alt=""
-                src="/mofa-color12@2x.png"
-              />
-              <img
-                className={styles.imagesIcon1}
-                alt=""
-                src="/images10@2x.png"
-              />
-              <img
-                className={styles.download6Icon1}
-                alt=""
-                src="/download-613@2x.png"
-              />
-              <img
-                className={styles.download1Icon1}
-                alt=""
-                src="/download-113@2x.png"
-              />
-              <img
-                className={styles.downloadIcon1}
-                alt=""
-                src="/download12@2x.png"
-              />
-              <img
-                className={styles.download2Icon1}
-                alt=""
-                src="/download-212@2x.png"
-              />
-              <img
-                className={styles.images1Icon1}
-                alt=""
-                src="/images-110@2x.png"
-              />
-            </section>
-          </div>
           <footer className={styles.footer}>
+            <div className={styles.component1}>
+              <div className={styles.frameParent1}>
+                <div className={styles.download5Parent}>
+                  <img
+                    className={styles.download5Icon}
+                    alt=""
+                    src="/download-5@2x.png"
+                  />
+                  <img
+                    className={styles.download5Icon1}
+                    alt=""
+                    src="/download-5@2x.png"
+                  />
+                  <img
+                    className={styles.captureIcon}
+                    alt=""
+                    src="/capture@2x.png"
+                  />
+                  <img
+                    className={styles.mofaColorIcon}
+                    alt=""
+                    src="/mofa-color@2x.png"
+                  />
+                  <img
+                    className={styles.download3Icon}
+                    alt=""
+                    src="/download-3@2x.png"
+                  />
+                  <img
+                    className={styles.imagesIcon}
+                    alt=""
+                    src="/images@2x.png"
+                  />
+                  <img
+                    className={styles.download6Icon}
+                    alt=""
+                    src="/download-6@2x.png"
+                  />
+                  <img
+                    className={styles.download1Icon}
+                    alt=""
+                    src="/download-1@2x.png"
+                  />
+                  <img
+                    className={styles.downloadIcon}
+                    alt=""
+                    src="/download@2x.png"
+                  />
+                  <img
+                    className={styles.images1Icon}
+                    alt=""
+                    src="/images-1@2x.png"
+                  />
+                  <img
+                    className={styles.download2Icon}
+                    alt=""
+                    src="/download-2@2x.png"
+                  />
+                </div>
+                <div className={styles.download5Group}>
+                  <img
+                    className={styles.download5Icon}
+                    alt=""
+                    src="/download-5@2x.png"
+                  />
+                  <img
+                    className={styles.download5Icon1}
+                    alt=""
+                    src="/download-5@2x.png"
+                  />
+                  <img
+                    className={styles.captureIcon}
+                    alt=""
+                    src="/capture@2x.png"
+                  />
+                  <img
+                    className={styles.mofaColorIcon}
+                    alt=""
+                    src="/mofa-color@2x.png"
+                  />
+                  <img
+                    className={styles.download3Icon}
+                    alt=""
+                    src="/download-3@2x.png"
+                  />
+                  <img
+                    className={styles.imagesIcon}
+                    alt=""
+                    src="/images@2x.png"
+                  />
+                  <img
+                    className={styles.download6Icon}
+                    alt=""
+                    src="/download-6@2x.png"
+                  />
+                  <img
+                    className={styles.download1Icon}
+                    alt=""
+                    src="/download-1@2x.png"
+                  />
+                  <img
+                    className={styles.downloadIcon}
+                    alt=""
+                    src="/download@2x.png"
+                  />
+                  <img
+                    className={styles.images1Icon}
+                    alt=""
+                    src="/images-1@2x.png"
+                  />
+                  <img
+                    className={styles.download2Icon}
+                    alt=""
+                    src="/download-2@2x.png"
+                  />
+                </div>
+              </div>
+            </div>
             <div
               className={styles.transformParent}
               id="footercontent"
@@ -774,11 +780,11 @@ const Careers: NextPage = () => {
                   <div className={styles.getInTouch}>GET IN TOUCH</div>
                 </button>
               </div>
-              <div className={styles.frameParent1}>
-                <div className={styles.frameParent2}>
+              <div className={styles.frameParent2}>
+                <div className={styles.frameParent3}>
                   <div className={styles.nowWereParent}>
                     <div className={styles.nowWere2}>business</div>
-                    <div className={styles.frameParent3}>
+                    <div className={styles.frameParent4}>
                       <div className={styles.nowWereFrame}>
                         <div
                           className={styles.nowWere3}
@@ -809,12 +815,12 @@ const Careers: NextPage = () => {
                         <img
                           className={styles.frameItem}
                           alt=""
-                          src="/line-111@2x.png"
+                          src="/line-1@2x.png"
                         />
                       </div>
                     </div>
                   </div>
-                  <div className={styles.frameParent4}>
+                  <div className={styles.frameParent5}>
                     <div className={styles.nowWereParent1}>
                       <div className={styles.nowWere7}>{`CONTACT US `}</div>
                       <div className={styles.nowWere8}>Agrospectrum Ltd.</div>
@@ -829,7 +835,7 @@ const Careers: NextPage = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.frameParent5}>
+                <div className={styles.frameParent6}>
                   <div className={styles.nowWereParent4}>
                     <div className={styles.nowWere13}>BSL HEAD OFFICE</div>
                     <div className={styles.nowWere14}>No 24 Botwe</div>
@@ -844,7 +850,7 @@ const Careers: NextPage = () => {
                   </div>
                 </div>
               </div>
-              <div className={styles.frameParent6}>
+              <div className={styles.frameParent7}>
                 <button className={styles.vectorParent}>
                   <img
                     className={styles.frameInner}

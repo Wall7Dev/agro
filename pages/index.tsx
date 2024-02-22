@@ -2046,8 +2046,8 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
           </div>
           <div className={styles.ta}>
-            <img className={styles.taChild} alt="" src="/vector-211@2x.png" />
-            <img className={styles.taItem} alt="" src="/vector-231.svg" />
+            <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
+            <img className={styles.taItem} alt="" src="/vector-23.svg" />
             <div className={styles.outteam2}>
               <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
             </div>

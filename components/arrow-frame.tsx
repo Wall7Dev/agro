@@ -42,7 +42,6 @@ const ArrowFrame: NextPage = () => {
           onClick={onIsg1ImageClick}
         />
       </div>
-      <img className={styles.images21} alt="" src="/images-2-13@2x.png" />
     </button>
   );
 };

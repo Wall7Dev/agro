@@ -129,7 +129,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-6xl) var(--padding-21xl);
+  padding: var(--padding-xl) var(--padding-21xl);
   gap: 0 10px;
   cursor: pointer;
   font-size: var(--font-size-mini);

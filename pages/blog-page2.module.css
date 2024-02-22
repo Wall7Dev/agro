@@ -617,7 +617,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-6xl) var(--padding-21xl);
+  padding: var(--padding-xl) var(--padding-21xl);
   gap: 0 10px;
   cursor: pointer;
   font-size: var(--font-size-mini);
@@ -628,8 +628,8 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-xl);
-  gap: 20px 0;
+  padding: var(--padding-mini) var(--padding-xl);
+  gap: 25px 0;
 }
 .gradientmsg {
   align-self: stretch;
@@ -746,196 +746,110 @@
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
-.download2Icon,
-.download5Icon {
-  position: absolute;
-  top: 15.8px;
-  left: 1631.9px;
-  width: 52.1px;
-  height: 52.1px;
-  object-fit: cover;
-}
-.download5Icon {
-  top: 16.7px;
-  left: 290.6px;
-  width: 87.4px;
-  height: 57.1px;
-}
-.download3Icon,
-.download5Icon1,
-.downloadIcon {
-  position: absolute;
-  top: 5.8px;
-  left: 1501.7px;
-  width: 57.1px;
-  height: 63px;
-  object-fit: cover;
-}
-.download3Icon,
+.captureIcon,
+.download5Icon,
 .download5Icon1 {
-  top: 12.5px;
-  left: 26px;
+  position: absolute;
+  top: 12.6px;
+  left: 0;
   width: 70.6px;
   height: 58.8px;
-}
-.download3Icon {
-  top: 20px;
-  left: 162.1px;
-  width: 49.6px;
-  height: 48.7px;
+  object-fit: cover;
 }
 .captureIcon,
-.imagesIcon,
-.mofaColorIcon {
-  position: absolute;
-  top: 10.8px;
-  left: 432.5px;
-  width: 141.9px;
-  height: 62.2px;
-  object-fit: cover;
-}
-.imagesIcon,
-.mofaColorIcon {
-  top: 16.7px;
-  left: 623.2px;
-  width: 248.6px;
-  height: 52.1px;
-}
-.imagesIcon {
-  top: 24.2px;
-  left: 907.1px;
-  width: 115.9px;
-  height: 39.5px;
-  mix-blend-mode: difference;
-}
-.download1Icon,
-.download6Icon,
-.images1Icon {
-  position: absolute;
-  top: 11.6px;
-  left: 1053.2px;
-  width: 104.1px;
-  height: 59.6px;
-  object-fit: cover;
-}
-.download1Icon,
-.images1Icon {
-  top: -0.1px;
-  left: 1198.5px;
-  width: 84px;
-  height: 84px;
-}
-.download1Icon {
-  top: 15px;
-  left: 1327px;
-  width: 137.7px;
-  height: 54.6px;
-}
-.dsktopBanner2 {
-  position: absolute;
-  top: 0;
-  left: 1722px;
-  background: linear-gradient(90deg, #a1b5a1, #fbfbfb);
-  box-shadow: 0 4px 62px rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(60px);
-  width: 1722px;
-  height: 84px;
-  display: none;
-}
-.download3Icon1,
-.download5Icon2,
-.download5Icon3 {
-  width: 70.6px;
-  position: relative;
-  height: 58.8px;
-  object-fit: cover;
-  z-index: 0;
-}
-.download3Icon1,
-.download5Icon3 {
-  width: 49.6px;
-  height: 48.7px;
-  z-index: 1;
-}
-.download5Icon3 {
+.download5Icon1 {
+  top: 13.4px;
+  left: 125.7px;
   width: 87.4px;
   height: 57.1px;
-  z-index: 2;
 }
-.captureIcon1,
-.imagesIcon1,
-.mofaColorIcon1 {
+.captureIcon {
+  top: 10.9px;
+  left: 268.1px;
   width: 141.9px;
-  position: relative;
   height: 62.2px;
-  object-fit: cover;
-  z-index: 3;
 }
-.imagesIcon1,
-.mofaColorIcon1 {
+.download3Icon,
+.imagesIcon,
+.mofaColorIcon {
+  position: absolute;
+  top: 16px;
+  left: 465.1px;
   width: 248.6px;
   height: 52.1px;
-  z-index: 4;
+  object-fit: cover;
 }
-.imagesIcon1 {
+.download3Icon,
+.imagesIcon {
+  top: 17.6px;
+  left: 768.9px;
+  width: 49.6px;
+  height: 48.7px;
+}
+.imagesIcon {
+  top: 22.3px;
+  left: 873.5px;
   width: 115.9px;
   height: 39.5px;
   mix-blend-mode: difference;
-  z-index: 5;
 }
-.download1Icon1,
-.download6Icon1 {
+.download1Icon,
+.download6Icon {
+  position: absolute;
+  top: 12.2px;
+  left: 1044.5px;
   width: 104.1px;
-  position: relative;
   height: 59.6px;
   object-fit: cover;
-  z-index: 6;
 }
-.download1Icon1 {
+.download1Icon {
+  top: 14.7px;
+  left: 1203.8px;
   width: 137.7px;
   height: 54.6px;
-  z-index: 7;
 }
-.download2Icon1,
-.downloadIcon1,
-.images1Icon1 {
+.download2Icon,
+.downloadIcon,
+.images1Icon {
+  position: absolute;
+  top: 10.5px;
+  left: 1396.6px;
   width: 57.1px;
-  position: relative;
   height: 63px;
   object-fit: cover;
-  z-index: 8;
 }
-.download2Icon1,
-.images1Icon1 {
+.download2Icon,
+.images1Icon {
+  top: 0;
+  left: 1508.8px;
+  width: 84px;
+  height: 84px;
+}
+.download2Icon {
+  top: 16px;
+  left: 1647.9px;
   width: 52.1px;
   height: 52.1px;
-  z-index: 9;
 }
-.images1Icon1 {
-  width: 84px;
-  position: absolute;
-  margin: 0 !important;
-  top: -0.1px;
-  left: 1198.5px;
-  height: 84px;
-  z-index: 10;
-}
-.dsktopBanner1 {
+.download5Group,
+.download5Parent,
+.frameGroup {
   position: absolute;
   top: 0;
-  left: 0;
-  background: linear-gradient(90.01deg, #fbfbfb, #a1b5a1);
-  box-shadow: 0 4px 62px rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(60px);
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-  padding: var(--padding-7xs) var(--padding-7xl);
-  gap: 0 66px;
+  left: 1765px;
+  width: 1700px;
+  height: 84px;
 }
-.logoAutoscrollframe {
-  align-self: stretch;
+.download5Group,
+.frameGroup {
+  left: 0;
+}
+.frameGroup {
+  left: -31px;
+  width: 3467px;
+}
+.component1 {
+  width: 1758px;
   position: relative;
   background: linear-gradient(90deg, #fbfbfb, rgba(161, 181, 161, 0.99));
   height: 84px;
@@ -1109,7 +1023,7 @@
   object-fit: cover;
   display: none;
 }
-.frameDiv,
+.frameParent1,
 .nowWereGroup,
 .nowWereParent {
   display: flex;
@@ -1121,11 +1035,11 @@
   justify-content: center;
   cursor: pointer;
 }
-.frameDiv,
+.frameParent1,
 .nowWereParent {
   justify-content: space-between;
 }
-.frameDiv {
+.frameParent1 {
   align-self: stretch;
   height: 144px;
   font-size: var(--font-size-base);
@@ -1201,20 +1115,20 @@
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameContainer,
-.frameParent1,
+.frameDiv,
+.frameParent2,
 .nowWereParent2 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frameParent1 {
+.frameParent2 {
   flex: 1;
   flex-direction: column;
   gap: 34px 0;
   font-size: var(--font-size-mini);
 }
-.frameContainer {
+.frameDiv {
   align-self: stretch;
   flex-direction: row;
   gap: 0 2px;
@@ -1272,19 +1186,19 @@
   flex: 1;
   gap: 3px 0;
 }
-.frameGroup,
-.frameParent2 {
+.frameContainer,
+.frameParent3 {
   align-self: stretch;
   display: flex;
   align-items: flex-start;
 }
-.frameParent2 {
+.frameParent3 {
   flex-direction: row;
   justify-content: space-between;
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameGroup {
+.frameContainer {
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
@@ -1499,7 +1413,7 @@
   justify-content: flex-start;
   gap: 0 17px;
 }
-.frameParent3,
+.frameParent4,
 .nowWereParent9 {
   display: flex;
   flex-direction: column;
@@ -1513,7 +1427,7 @@
   padding: 0 var(--padding-8xs);
   gap: 10px 0;
 }
-.frameParent3 {
+.frameParent4 {
   height: 370px;
   flex: 1;
   padding: var(--padding-11xl);
@@ -1541,7 +1455,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-11xl) var(--padding-61xl);
+  padding: 0 var(--padding-61xl);
+  gap: var(--gap-3xs);
   text-align: left;
   font-size: var(--font-size-15xl);
   color: var(--color-seagreen);
@@ -1587,13 +1502,13 @@
   justify-content: space-between;
   padding: var(--padding-3xs) var(--padding-211xl);
 }
-.frameParent4 {
+.frameParent5 {
   align-self: stretch;
   align-items: center;
 }
 .blogpage2,
 .footerComponent,
-.frameParent4 {
+.frameParent5 {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -1635,8 +1550,8 @@
     padding-right: var(--padding-131xl);
     box-sizing: border-box;
   }
-  .frameGroup,
-  .frameParent3,
+  .frameContainer,
+  .frameParent4,
   .transform {
     flex: unset;
     align-self: stretch;

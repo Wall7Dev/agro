@@ -6,6 +6,116 @@
     transform: scale(1);
   }
 }
+.captureIcon,
+.download5Icon,
+.download5Icon1 {
+  position: absolute;
+  top: 12.6px;
+  left: 0;
+  width: 70.6px;
+  height: 58.8px;
+  object-fit: cover;
+}
+.captureIcon,
+.download5Icon1 {
+  top: 13.4px;
+  left: 125.7px;
+  width: 87.4px;
+  height: 57.1px;
+}
+.captureIcon {
+  top: 10.9px;
+  left: 268.1px;
+  width: 141.9px;
+  height: 62.2px;
+}
+.download3Icon,
+.imagesIcon,
+.mofaColorIcon {
+  position: absolute;
+  top: 16px;
+  left: 465.1px;
+  width: 248.6px;
+  height: 52.1px;
+  object-fit: cover;
+}
+.download3Icon,
+.imagesIcon {
+  top: 17.6px;
+  left: 768.9px;
+  width: 49.6px;
+  height: 48.7px;
+}
+.imagesIcon {
+  top: 22.3px;
+  left: 873.5px;
+  width: 115.9px;
+  height: 39.5px;
+  mix-blend-mode: difference;
+}
+.download1Icon,
+.download6Icon {
+  position: absolute;
+  top: 12.2px;
+  left: 1044.5px;
+  width: 104.1px;
+  height: 59.6px;
+  object-fit: cover;
+}
+.download1Icon {
+  top: 14.7px;
+  left: 1203.8px;
+  width: 137.7px;
+  height: 54.6px;
+}
+.download2Icon,
+.downloadIcon,
+.images1Icon {
+  position: absolute;
+  top: 10.5px;
+  left: 1396.6px;
+  width: 57.1px;
+  height: 63px;
+  object-fit: cover;
+}
+.download2Icon,
+.images1Icon {
+  top: 0;
+  left: 1508.8px;
+  width: 84px;
+  height: 84px;
+}
+.download2Icon {
+  top: 16px;
+  left: 1647.9px;
+  width: 52.1px;
+  height: 52.1px;
+}
+.download5Group,
+.download5Parent,
+.frameParent {
+  position: absolute;
+  top: 0;
+  left: 1765px;
+  width: 1700px;
+  height: 84px;
+}
+.download5Group,
+.frameParent {
+  left: 0;
+}
+.frameParent {
+  left: -31px;
+  width: 3467px;
+}
+.component1 {
+  width: 1758px;
+  position: relative;
+  background: linear-gradient(90deg, #fbfbfb, rgba(161, 181, 161, 0.99));
+  height: 84px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
 .nowWere {
   position: relative;
   letter-spacing: 0.9px;
@@ -147,12 +257,12 @@
   height: 28px;
 }
 .nowWere6,
-.nowWereWrapper1 {
+.nowWereWrapper2 {
   align-self: stretch;
   display: flex;
   align-items: center;
 }
-.nowWereWrapper1 {
+.nowWereWrapper2 {
   height: 35px;
   flex-direction: row;
   justify-content: flex-start;
@@ -176,7 +286,7 @@
   object-fit: cover;
   display: none;
 }
-.frameContainer,
+.frameDiv,
 .nowWereGroup,
 .nowWereParent {
   display: flex;
@@ -191,11 +301,11 @@
 .nowWereGroup:hover .frameChild {
   display: flex;
 }
-.frameContainer,
+.frameDiv,
 .nowWereParent {
   justify-content: space-between;
 }
-.frameContainer {
+.frameDiv {
   align-self: stretch;
   height: 144px;
   font-size: var(--font-size-base);
@@ -271,7 +381,7 @@
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameGroup,
+.frameContainer,
 .frameParent1,
 .nowWereParent2 {
   display: flex;
@@ -284,7 +394,7 @@
   gap: 34px 0;
   font-size: var(--font-size-mini);
 }
-.frameGroup {
+.frameContainer {
   align-self: stretch;
   flex-direction: row;
   gap: 0 2px;
@@ -342,7 +452,7 @@
   flex: 1;
   gap: 3px 0;
 }
-.frameParent,
+.frameGroup,
 .frameParent2 {
   align-self: stretch;
   display: flex;
@@ -354,7 +464,7 @@
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frameParent {
+.frameGroup {
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
@@ -611,14 +721,15 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-11xl) var(--padding-61xl);
+  padding: 0 var(--padding-61xl);
+  gap: var(--gap-3xs);
   text-align: left;
   font-size: var(--font-size-15xl);
   color: var(--color-seagreen);
   font-family: var(--font-poppins);
 }
 @media screen and (max-width: 1200px) {
-  .frameParent,
+  .frameGroup,
   .frameParent3,
   .transform {
     flex: unset;
