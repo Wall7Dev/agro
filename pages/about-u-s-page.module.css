@@ -33,7 +33,7 @@
   font-weight: 300;
 }
 .weAreTransformingContainer {
-  height: 174px;
+  height: 165px;
   flex: 1;
   position: relative;
   line-height: 100%;
@@ -50,7 +50,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: 0 98.74285888671875px;
+  padding: 0 93.6685791015625px;
   opacity: 0;
 }
 .weAreTransformingAfricanAgWrapper.animate {
@@ -66,14 +66,14 @@
   align-self: stretch;
   overflow: hidden;
   justify-content: center;
-  padding: 32.914283752441406px 0;
+  padding: 31.222856521606445px 0;
   background-image: url(/herosec@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   mix-blend-mode: hard-light;
   text-align: center;
-  font-size: var(--font-size-38xl-6);
+  font-size: var(--font-size-35xl-6);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

@@ -47,7 +47,7 @@ const SearchBar: NextPage = () => {
           <div className={styles.frameWrapper}>
             <div className={styles.nationwideParent}>
               <div className={styles.nationwide1}>@nationwide</div>
-              <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon} alt="" src="/base1@2x.png" />
               <div className={styles.aCreditProgramContainer}>
                 <span
                   className={styles.aCreditProgram}
@@ -78,7 +78,7 @@ const SearchBar: NextPage = () => {
         >
           <div className={styles.nationwideParent}>
             <div className={styles.northernGhana}>@Northern Ghana</div>
-            <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+            <img className={styles.baseIcon} alt="" src="/base2@2x.png" />
             <div className={styles.anEnumerationProgram}>
               An enumeration program by the Government of Ghana through the
               Ministry of Food and Agriculture that profiles farmers for
@@ -96,7 +96,7 @@ const SearchBar: NextPage = () => {
           </div>
           <div className={styles.nationwideParent}>
             <div className={styles.nationwide2}>@Nationwide</div>
-            <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+            <img className={styles.baseIcon} alt="" src="/base3@2x.png" />
             <div
               className={styles.ourClimateSmartSolution}
             >{`Our climate-smart solution empowers farmers across languages with vital information like weather forecasts, disaster preparedness & agro-advice.`}</div>
@@ -118,7 +118,7 @@ const SearchBar: NextPage = () => {
         >
           <div className={styles.nationwideParent}>
             <div className={styles.nationwide3}>@Nationwide</div>
-            <img className={styles.baseIcon4} alt="" src="/base@2x.png" />
+            <img className={styles.baseIcon4} alt="" src="/base4@2x.png" />
             <div
               className={styles.imagineAFuture}
             >{`Imagine a future of digitization of the agribusiness were reliable technology become your allies for informed decision making `}</div>
@@ -134,7 +134,7 @@ const SearchBar: NextPage = () => {
           <div className={styles.frameWrapper1}>
             <div className={styles.nationwideParent}>
               <div className={styles.savanna}>@Savanna</div>
-              <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+              <img className={styles.baseIcon} alt="" src="/base5@2x.png" />
               <div className={styles.runByOurContainer}>
                 <p className={styles.runByOurClientsMayAndLot}>
                   <span

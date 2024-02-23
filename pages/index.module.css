@@ -400,7 +400,7 @@
   line-height: 120%;
 }
 .weProvideAnContainer:hover {
-  font-size: var(--font-size-8xl);
+  font-size: 27px;
 }
 .weProvideAnEcosystemForAlWrapper {
   align-self: stretch;
@@ -753,7 +753,7 @@
   justify-content: center;
   padding: 6.473318099975586px;
   opacity: 1;
-  font-size: 12.9px;
+  font-size: var(--font-size-smi-9);
 }
 .pageNumbers2.animate,
 .weProvideAnEcosystemForAlFrame.animate {
@@ -918,7 +918,7 @@
   justify-content: center;
   padding: 9.41960620880127px 2.8320765495300293px;
   opacity: 1;
-  font-size: 9.4px;
+  font-size: var(--font-size-3xs-4);
 }
 .agrospectrumLimitedIsALeadWrapper.animate,
 .pageNumbers3.animate {
@@ -1081,7 +1081,7 @@
   padding: 7.90634298324585px 2.3771021366119385px;
   opacity: 1;
   text-align: left;
-  font-size: var(--font-size-5xs-9);
+  font-size: 7.9px;
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
@@ -1626,7 +1626,7 @@
   justify-content: flex-start;
   padding: 21.128795623779297px 46.48334503173828px;
   box-sizing: border-box;
-  font-size: 15.6px;
+  font-size: var(--font-size-base-6);
 }
 .statsSection {
   align-self: stretch;
@@ -1700,7 +1700,7 @@
   justify-content: flex-start;
   gap: 1.68px 0;
   opacity: 1;
-  font-size: 15.6px;
+  font-size: var(--font-size-base-6);
 }
 .inputCreditManagementSystemParent.animate {
   animation: 4s ease 0s 1 normal forwards scale-up;
@@ -2006,7 +2006,7 @@
   width: 246.2px;
   height: 50.1px;
   opacity: 1;
-  font-size: var(--font-size-6xs-8);
+  font-size: 6.8px;
   color: var(--color-goldenrod-300);
 }
 .inputCreditManagementSystemParent1.animate {
@@ -3376,7 +3376,7 @@
 .allowsOrganizations {
   align-self: stretch;
   position: relative;
-  font-size: 15.8px;
+  font-size: var(--font-size-base-8);
   line-height: 25.3px;
 }
 .frequently {
@@ -3454,7 +3454,7 @@
   font-weight: 100;
 }
 .blankLine {
-  font-size: 15.8px;
+  font-size: var(--font-size-base-8);
 }
 .whatDoesTheContainer {
   flex: 1;
@@ -3584,7 +3584,7 @@
 }
 .blankLine3 {
   white-space: pre-wrap;
-  font-size: 15.8px;
+  font-size: var(--font-size-base-8);
 }
 .blankLine3,
 .weOfferA5 {
@@ -3939,7 +3939,7 @@
   width: 184.8px;
   position: relative;
   height: 228.5px;
-  font-size: 15.4px;
+  font-size: var(--font-size-base-4);
 }
 .ottisApalooTeam1:hover {
   animation: 2s ease 0s 1 normal none scale-up;
@@ -4148,7 +4148,7 @@
   justify-content: center;
   padding: 21.96454620361328px;
   box-sizing: border-box;
-  font-size: 15.4px;
+  font-size: var(--font-size-base-4);
 }
 .faq12,
 .roundplus6 {
@@ -4193,7 +4193,7 @@
   justify-content: center;
   padding: 21.96454620361328px;
   box-sizing: border-box;
-  font-size: 15.4px;
+  font-size: var(--font-size-base-4);
 }
 .faq21 {
   align-self: stretch;
@@ -4248,7 +4248,7 @@
 .whatAreSome1 {
   margin-block-start: 0;
   margin-block-end: 1.65px;
-  font-size: 15.4px;
+  font-size: var(--font-size-base-4);
   font-weight: 100;
   white-space: pre-wrap;
 }
@@ -4660,7 +4660,7 @@
   padding: 4.7002949714660645px 7.520471572875977px;
   gap: 0 1.88px;
   cursor: pointer;
-  font-size: 2.8px;
+  font-size: var(--font-size-10xs-8);
 }
 .weSupportAgribusinessIndustContainer {
   flex: 1;
@@ -5010,7 +5010,7 @@
   box-sizing: border-box;
   position: relative;
   gap: 3.76px;
-  font-size: 7.5px;
+  font-size: var(--font-size-5xs-5);
 }
 .homepage,
 .outTeam {

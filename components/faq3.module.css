@@ -32,5 +32,5 @@
 }
 .faq3 {
   gap: 11.86px 0;
-  font-size: 15.8px;
+  font-size: var(--font-size-base-8);
 }

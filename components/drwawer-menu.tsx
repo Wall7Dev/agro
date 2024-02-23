@@ -156,7 +156,7 @@ const DrwawerMenu: NextPage<DrwawerMenuType> = ({ onClose }) => {
               <img
                 className={styles.images21}
                 alt=""
-                src="/images-2-1@2x.png"
+                src="/images-2-14@2x.png"
               />
             </button>
           </div>
@@ -205,19 +205,19 @@ const DrwawerMenu: NextPage<DrwawerMenuType> = ({ onClose }) => {
             <img
               className={styles.bdp1Icon}
               alt=""
-              src="/bdp-1@2x.png"
+              src="/bdp-11@2x.png"
               onClick={onClose}
             />
             <img
               className={styles.spectrum1Icon}
               alt=""
-              src="/spectrum-1@2x.png"
+              src="/spectrum-11@2x.png"
               onClick={onClose}
             />
             <img
               className={styles.isg1Icon}
               alt=""
-              src="/isg-1@2x.png"
+              src="/isg-11@2x.png"
               onClick={onClose}
             />
             <img

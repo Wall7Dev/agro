@@ -83,14 +83,17 @@ const LeaderSections: NextPage = () => {
             >{`Razak is an accomplished business leader with 20+ years of experience in creating enabling environments and building high-performance teams. He is passionate about the technology ecosystem and has helped to grow many tech businesses both in the public and private sectors globally. More specifically, `}</div>
           </div>
           <div className={styles.card1}>
-            <div className={styles.razakAwudulaiWrapper} data-animate-on-scroll>
-              <div className={styles.razakAwudulai}>
-                <img className={styles.baseIcon} alt="" src="/base1@2x.png" />
-                <div className={styles.razakAwudulaiInner}>
-                  <div className={styles.frameWrapper}>
-                    <div className={styles.block1Parent}>
-                      <div className={styles.block1}>
-                        <div className={styles.rectangle} />
+            <div
+              className={styles.castroDansoTeamWrapper}
+              data-animate-on-scroll
+            >
+              <div className={styles.castroDansoTeam}>
+                <img className={styles.baseIcon1} alt="" src="/base@2x.png" />
+                <div className={styles.castroDansoTeamInner}>
+                  <div className={styles.frameContainer}>
+                    <div className={styles.block1Group}>
+                      <div className={styles.block11}>
+                        <div className={styles.rectangle1} />
                       </div>
                       <div className={styles.frameGroup}>
                         <div className={styles.razakAwudulaiContainer}>

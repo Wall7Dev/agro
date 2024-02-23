@@ -6,120 +6,10 @@
     transform: scale(1);
   }
 }
-.captureIcon,
-.download5Icon,
-.download5Icon1 {
-  position: absolute;
-  top: 10.3px;
-  left: 0;
-  width: 57.6px;
-  height: 48px;
-  object-fit: cover;
-}
-.captureIcon,
-.download5Icon1 {
-  top: 11px;
-  left: 102.6px;
-  width: 71.3px;
-  height: 46.7px;
-}
-.captureIcon {
-  top: 8.9px;
-  left: 219px;
-  width: 115.9px;
-  height: 50.8px;
-}
-.download3Icon,
-.imagesIcon,
-.mofaColorIcon {
-  position: absolute;
-  top: 13px;
-  left: 379.9px;
-  width: 203.1px;
-  height: 42.5px;
-  object-fit: cover;
-}
-.download3Icon,
-.imagesIcon {
-  top: 14.4px;
-  left: 628px;
-  width: 40.5px;
-  height: 39.8px;
-}
-.imagesIcon {
-  top: 18.2px;
-  left: 713.5px;
-  width: 94.7px;
-  height: 32.2px;
-  mix-blend-mode: difference;
-}
-.download1Icon,
-.download6Icon {
-  position: absolute;
-  top: 9.9px;
-  left: 853.2px;
-  width: 85.1px;
-  height: 48.7px;
-  object-fit: cover;
-}
-.download1Icon {
-  top: 12px;
-  left: 983.2px;
-  width: 112.5px;
-  height: 44.6px;
-}
-.download2Icon,
-.downloadIcon,
-.images1Icon {
-  position: absolute;
-  top: 8.6px;
-  left: 1140.7px;
-  width: 46.7px;
-  height: 51.5px;
-  object-fit: cover;
-}
-.download2Icon,
-.images1Icon {
-  top: 0;
-  left: 1232.4px;
-  width: 68.6px;
-  height: 68.6px;
-}
-.download2Icon {
-  top: 13px;
-  left: 1346px;
-  width: 42.5px;
-  height: 42.5px;
-}
-.download5Group,
-.download5Parent,
-.frameParent {
-  position: absolute;
-  top: 0;
-  left: 1441.6px;
-  width: 1388.5px;
-  height: 68.6px;
-}
-.download5Group,
-.frameParent {
-  left: 0;
-}
-.frameParent {
-  left: -25.3px;
-  width: 2831.8px;
-}
-.component1 {
-  width: 1435.9px;
-  position: relative;
-  background: linear-gradient(90deg, #fbfbfb, rgba(161, 181, 161, 0.99));
-  height: 68.6px;
-  overflow: hidden;
-  flex-shrink: 0;
-}
 .nowWere {
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 37.57px;
+  letter-spacing: 0.7px;
+  line-height: 35.64px;
   text-transform: uppercase;
 }
 .nowWereWrapper {
@@ -128,13 +18,13 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: 8.167895317077637px;
+  padding: 7.748156547546387px;
 }
 .nowWere1 {
   flex: 1;
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 37.57px;
+  letter-spacing: 0.7px;
+  line-height: 35.64px;
   text-transform: uppercase;
   font-weight: 800;
 }
@@ -144,8 +34,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: 8.167895317077637px;
-  font-size: var(--font-size-17xl-8);
+  padding: 7.748156547546387px;
+  font-size: var(--font-size-15xl-9);
 }
 .transformYourAgricultural {
   margin: 0;
@@ -156,7 +46,7 @@
 .nuncUltricesTellusContainer {
   flex: 1;
   position: relative;
-  line-height: 26.14px;
+  line-height: 24.79px;
 }
 .nuncUltricesTellusWrapper {
   align-self: stretch;
@@ -164,14 +54,14 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8.167895317077637px 8.167895317077637px;
-  font-size: var(--font-size-base-3);
+  padding: 0 7.748156547546387px 7.748156547546387px;
+  font-size: var(--font-size-base-5);
   color: var(--color-gainsboro-200);
 }
 .getInTouch {
   position: relative;
-  font-size: var(--font-size-base-3);
-  line-height: 10.39px;
+  font-size: var(--font-size-base-5);
+  line-height: 9.86px;
   font-family: var(--font-poppins);
   color: var(--color-white);
   text-align: left;
@@ -182,12 +72,12 @@
 .getInTouchWrapper {
   cursor: pointer;
   border: 0;
-  padding: 20.379302978515625px 40.75860595703125px;
+  padding: 19.332033157348633px 38.664066314697266px;
   background-color: transparent;
-  width: 201.2px;
-  border-radius: 33.12px;
+  width: 190.9px;
+  border-radius: 31.41px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
-  height: 51.5px;
+  height: 48.8px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -204,22 +94,22 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 16.335790634155273px 0 32.67158126831055px;
-  gap: 6.53px 0;
+  padding: 15.496313095092773px 0 30.992626190185547px;
+  gap: 6.2px 0;
   color: var(--color-white);
 }
 .nowWere2,
 .nowWere3 {
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 19.6px;
+  letter-spacing: 0.7px;
+  line-height: 18.6px;
   text-transform: uppercase;
   font-weight: 500;
 }
 .nowWere2 {
-  width: 77.6px;
+  width: 73.6px;
   display: inline-block;
-  height: 37.6px;
+  height: 35.6px;
   flex-shrink: 0;
 }
 .nowWere3 {
@@ -235,7 +125,7 @@
 }
 .nowWereFrame {
   align-self: stretch;
-  height: 23.7px;
+  height: 22.5px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -248,45 +138,45 @@
 .nowWere5 {
   flex: 1;
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 19.6px;
+  letter-spacing: 0.7px;
+  line-height: 18.6px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 22.9px;
+  height: 21.7px;
 }
 .nowWere6,
-.nowWereWrapper2 {
+.nowWereWrapper1 {
   align-self: stretch;
   display: flex;
   align-items: center;
 }
-.nowWereWrapper2 {
-  height: 28.6px;
+.nowWereWrapper1 {
+  height: 27.1px;
   flex-direction: row;
   justify-content: flex-start;
-  padding: 8.167895317077637px 0;
+  padding: 7.748156547546387px 0;
   box-sizing: border-box;
 }
 .nowWere6 {
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 19.6px;
+  letter-spacing: 0.7px;
+  line-height: 18.6px;
   text-transform: uppercase;
   font-weight: 500;
-  height: 26.1px;
+  height: 24.8px;
   flex-shrink: 0;
   cursor: pointer;
 }
 .frameChild {
-  width: 67.8px;
+  width: 64.3px;
   height: 0;
   position: relative;
   object-fit: cover;
   display: none;
 }
-.frameDiv,
+.frameContainer,
 .nowWereGroup,
 .nowWereParent {
   display: flex;
@@ -301,38 +191,38 @@
 .nowWereGroup:hover .frameChild {
   display: flex;
 }
-.frameDiv,
+.frameContainer,
 .nowWereParent {
   justify-content: space-between;
 }
-.frameDiv {
+.frameContainer {
   align-self: stretch;
-  height: 117.6px;
-  font-size: var(--font-size-sm-1);
+  height: 111.6px;
+  font-size: var(--font-size-smi-4);
   color: var(--color-white);
 }
 .nowWereParent {
   flex: 1;
-  height: 167.4px;
+  height: 158.8px;
 }
 .nowWere7,
 .nowWere8 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.74px;
+  letter-spacing: 0.7px;
 }
 .nowWere7 {
-  line-height: 37.57px;
+  line-height: 35.64px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 37.6px;
+  height: 35.6px;
   flex-shrink: 0;
 }
 .nowWere8 {
-  font-size: var(--font-size-sm-1);
-  line-height: 19.6px;
+  font-size: var(--font-size-smi-4);
+  line-height: 18.6px;
   text-transform: capitalize;
   font-weight: 600;
   color: var(--color-white);
@@ -343,25 +233,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 3.27px 0;
+  gap: 3.1px 0;
 }
 .nowWere10,
 .nowWere9 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.74px;
+  letter-spacing: 0.7px;
 }
 .nowWere9 {
-  line-height: 37.57px;
+  line-height: 35.64px;
   text-transform: uppercase;
   font-weight: 600;
   display: flex;
   align-items: center;
-  height: 29.4px;
+  height: 27.9px;
   flex-shrink: 0;
 }
 .nowWere10 {
-  line-height: 19.6px;
+  line-height: 18.6px;
   text-transform: capitalize;
   font-weight: 500;
 }
@@ -374,14 +264,14 @@
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 10.62px 0;
+  gap: 10.07px 0;
 }
 .nowWereParent2 {
-  gap: 5.72px 0;
-  font-size: var(--font-size-sm-1);
+  gap: 5.42px 0;
+  font-size: var(--font-size-smi-4);
   color: var(--color-white);
 }
-.frameContainer,
+.frameGroup,
 .frameParent1,
 .nowWereParent2 {
   display: flex;
@@ -391,20 +281,20 @@
 .frameParent1 {
   flex: 1;
   flex-direction: column;
-  gap: 27.77px 0;
-  font-size: var(--font-size-smi-3);
+  gap: 26.34px 0;
+  font-size: var(--font-size-xs-6);
 }
-.frameContainer {
+.frameGroup {
   align-self: stretch;
   flex-direction: row;
-  gap: 0 1.63px;
+  gap: 0 1.55px;
 }
 .nowWere13,
 .nowWere14 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 37.57px;
+  letter-spacing: 0.7px;
+  line-height: 35.64px;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -419,14 +309,14 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 8.17px 0;
+  gap: 7.75px 0;
 }
 .nowWere17,
 .nowWere18 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.74px;
-  line-height: 37.57px;
+  letter-spacing: 0.7px;
+  line-height: 35.64px;
   text-transform: capitalize;
   font-weight: 600;
 }
@@ -434,7 +324,7 @@
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 22.1px;
+  height: 20.9px;
   flex-shrink: 0;
 }
 .nowWereParent5,
@@ -446,13 +336,13 @@
 }
 .nowWereParent6 {
   align-self: stretch;
-  gap: 5.72px 0;
+  gap: 5.42px 0;
 }
 .nowWereParent5 {
   flex: 1;
-  gap: 2.45px 0;
+  gap: 2.32px 0;
 }
-.frameGroup,
+.frameParent,
 .frameParent2 {
   align-self: stretch;
   display: flex;
@@ -461,16 +351,16 @@
 .frameParent2 {
   flex-direction: row;
   justify-content: space-between;
-  font-size: var(--font-size-sm-1);
+  font-size: var(--font-size-smi-4);
   color: var(--color-white);
 }
-.frameGroup {
+.frameParent {
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 0 24.503686904907227px;
-  gap: 32.67px 0;
-  font-size: var(--font-size-xs-4);
+  padding: 0 23.244470596313477px;
+  gap: 30.99px 0;
+  font-size: var(--font-size-2xs-8);
 }
 .frameItem,
 .nowWere19 {
@@ -478,16 +368,16 @@
   cursor: pointer;
 }
 .frameItem {
-  width: 17.2px;
+  width: 16.3px;
   max-height: 100%;
 }
 .frameItem:hover {
   width: 24px;
 }
 .nowWere19 {
-  font-size: var(--font-size-mini-7);
-  letter-spacing: 0.94px;
-  line-height: 47.98px;
+  font-size: var(--font-size-sm-9);
+  letter-spacing: 0.89px;
+  line-height: 45.51px;
   text-transform: uppercase;
   font-weight: 500;
   font-family: var(--font-poppins);
@@ -509,16 +399,16 @@
   background-color: transparent;
   flex-direction: row;
   justify-content: flex-start;
-  gap: 0 16.34px;
+  gap: 0 15.5px;
 }
 .nowWere21 {
   position: absolute;
-  height: 203.17%;
-  width: 96.15%;
-  top: -51.58%;
-  left: -0.7%;
-  letter-spacing: 0.94px;
-  line-height: 47.98px;
+  height: 203.83%;
+  width: 96.16%;
+  top: -51.67%;
+  left: -0.71%;
+  letter-spacing: 0.89px;
+  line-height: 45.51px;
   text-transform: uppercase;
   font-weight: 500;
 }
@@ -528,31 +418,31 @@
   position: relative;
 }
 .nowWere20 {
-  height: 22.1px;
+  height: 20.9px;
 }
 .nowWere22 {
-  letter-spacing: 1.1px;
-  line-height: 56.05px;
+  letter-spacing: 1.04px;
+  line-height: 53.17px;
   text-transform: capitalize;
   font-weight: 500;
   color: var(--color-white);
 }
 .nowWereParent7 {
   align-self: stretch;
-  height: 48.2px;
+  height: 45.7px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 8.17px 0;
+  gap: 7.75px 0;
 }
 .nowWere24 {
   position: absolute;
-  width: 96.15%;
-  top: -58.02%;
-  left: -0.79%;
-  letter-spacing: 0.94px;
-  line-height: 47.98px;
+  width: 96.14%;
+  top: -62.69%;
+  left: -0.78%;
+  letter-spacing: 0.89px;
+  line-height: 45.51px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
@@ -561,115 +451,115 @@
 .nowWere23 {
   align-self: stretch;
   position: relative;
-  height: 21.2px;
+  height: 20.1px;
 }
 .nowWere26 {
   position: absolute;
-  top: 5.7px;
+  top: 5.4px;
   left: -0.8px;
-  letter-spacing: 0.94px;
-  line-height: 47.98px;
+  letter-spacing: 0.89px;
+  line-height: 45.51px;
   text-transform: lowercase;
   font-weight: 500;
 }
 .nowWere25 {
   align-self: stretch;
   position: relative;
-  height: 21.2px;
+  height: 20.1px;
   color: var(--color-white);
 }
 .nowWereParent8 {
-  width: 215.6px;
+  width: 204.6px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 8.17px 0;
+  gap: 7.75px 0;
 }
 .nowWere28 {
   position: absolute;
-  top: -25.71%;
+  top: -28.81%;
   left: 0;
-  letter-spacing: 0.94px;
-  line-height: 47.98px;
+  letter-spacing: 0.89px;
+  line-height: 45.51px;
   text-transform: uppercase;
   font-weight: 500;
 }
 .groupIcon,
 .nowWere27 {
-  width: 107px;
+  width: 101.5px;
   position: relative;
-  height: 31.9px;
+  height: 30.2px;
 }
 .groupIcon {
-  width: 11.4px;
-  height: 12.3px;
+  width: 10.8px;
+  height: 11.6px;
 }
 .instagram {
-  width: 37.8px;
-  border-radius: 26.04px;
+  width: 35.9px;
+  border-radius: var(--br-5xl-7);
   background-color: var(--color-darkgray-300);
-  height: 38.2px;
+  height: 36.3px;
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 16.275175094604492px;
+  padding: 15.438812255859375px;
   box-sizing: border-box;
 }
 .vectorIcon {
-  width: 6.4px;
+  width: 6px;
   position: relative;
-  height: 12.3px;
+  height: 11.6px;
 }
 .vectorWrapper {
-  width: 38.7px;
-  border-radius: 30.11px;
+  width: 36.7px;
+  border-radius: 28.56px;
   background-color: var(--color-darkgray-300);
-  height: 39.9px;
+  height: 37.8px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 16.275175094604492px 20.343969345092773px;
+  padding: 15.438812255859375px 19.29851531982422px;
   box-sizing: border-box;
 }
 .vectorIcon1 {
-  width: 13.6px;
+  width: 12.9px;
   position: relative;
-  height: 11.4px;
+  height: 10.8px;
 }
 .frame {
-  width: 37px;
-  border-radius: var(--br-28xl-6);
+  width: 35.1px;
+  border-radius: 45.16px;
   background-color: var(--color-darkgray-300);
-  height: 37px;
+  height: 35.1px;
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 16.275175094604492px 14.240778923034668px;
+  padding: 15.438812255859375px 13.508960723876953px;
   box-sizing: border-box;
 }
 .vectorIcon2 {
-  width: 13.2px;
+  width: 12.5px;
   position: relative;
-  height: 12.3px;
+  height: 11.6px;
 }
 .vectorContainer {
-  width: 40.3px;
-  border-radius: 32.96px;
+  width: 38.2px;
+  border-radius: 31.26px;
   background-color: var(--color-darkgray-300);
-  height: 39.9px;
+  height: 37.8px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 16.275175094604492px;
+  padding: 15.438812255859375px;
   box-sizing: border-box;
 }
 .instagramParent {
@@ -677,7 +567,7 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: flex-start;
-  gap: 0 13.89px;
+  gap: 0 13.17px;
 }
 .frameParent3,
 .nowWereParent9 {
@@ -689,16 +579,16 @@
 }
 .nowWereParent9 {
   align-self: stretch;
-  height: 80.9px;
-  padding: 0 4.083947658538818px;
-  gap: 8.17px 0;
+  height: 76.7px;
+  padding: 0 3.8740782737731934px;
+  gap: 7.75px 0;
 }
 .frameParent3 {
-  height: 302.2px;
+  height: 286.7px;
   flex: 1;
-  padding: 24.503686904907227px;
-  gap: 24.5px 0;
-  font-size: var(--font-size-sm-1);
+  padding: 23.244470596313477px;
+  gap: 23.24px 0;
+  font-size: var(--font-size-smi-4);
 }
 .footer,
 .transformParent {
@@ -709,7 +599,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  padding: 32.67158126831055px 0;
+  padding: 30.992626190185547px 0;
   opacity: 1;
 }
 .transformParent.animate {
@@ -721,15 +611,14 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 65.3431625366211px;
-  gap: 8.17px;
+  padding: 0 61.985252380371094px;
   text-align: left;
-  font-size: var(--font-size-8xl-8);
+  font-size: var(--font-size-7xl-3);
   color: var(--color-seagreen);
   font-family: var(--font-poppins);
 }
 @media screen and (max-width: 1200px) {
-  .frameGroup,
+  .frameParent,
   .frameParent3,
   .transform {
     flex: unset;

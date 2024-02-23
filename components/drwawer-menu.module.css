@@ -177,7 +177,7 @@
 .contactusContainer {
   cursor: pointer;
   border: 1px solid #3d4700;
-  padding: 12px var(--padding-xl);
+  padding: var(--padding-xs) var(--padding-xl);
   background-color: var(--color-white);
   width: 160px;
   border-radius: var(--br-31xl);

@@ -69,108 +69,6 @@ const Footer: NextPage = () => {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.component1}>
-        <div className={styles.frameParent}>
-          <div className={styles.download5Parent}>
-            <img
-              className={styles.download5Icon}
-              alt=""
-              src="/download-54@2x.png"
-            />
-            <img
-              className={styles.download5Icon1}
-              alt=""
-              src="/download-55@2x.png"
-            />
-            <img className={styles.captureIcon} alt="" src="/capture2@2x.png" />
-            <img
-              className={styles.mofaColorIcon}
-              alt=""
-              src="/mofa-color2@2x.png"
-            />
-            <img
-              className={styles.download3Icon}
-              alt=""
-              src="/download-32@2x.png"
-            />
-            <img className={styles.imagesIcon} alt="" src="/images2@2x.png" />
-            <img
-              className={styles.download6Icon}
-              alt=""
-              src="/download-62@2x.png"
-            />
-            <img
-              className={styles.download1Icon}
-              alt=""
-              src="/download-12@2x.png"
-            />
-            <img
-              className={styles.downloadIcon}
-              alt=""
-              src="/download2@2x.png"
-            />
-            <img
-              className={styles.images1Icon}
-              alt=""
-              src="/images-12@2x.png"
-            />
-            <img
-              className={styles.download2Icon}
-              alt=""
-              src="/download-22@2x.png"
-            />
-          </div>
-          <div className={styles.download5Group}>
-            <img
-              className={styles.download5Icon}
-              alt=""
-              src="/download-56@2x.png"
-            />
-            <img
-              className={styles.download5Icon1}
-              alt=""
-              src="/download-57@2x.png"
-            />
-            <img className={styles.captureIcon} alt="" src="/capture3@2x.png" />
-            <img
-              className={styles.mofaColorIcon}
-              alt=""
-              src="/mofa-color3@2x.png"
-            />
-            <img
-              className={styles.download3Icon}
-              alt=""
-              src="/download-33@2x.png"
-            />
-            <img className={styles.imagesIcon} alt="" src="/images3@2x.png" />
-            <img
-              className={styles.download6Icon}
-              alt=""
-              src="/download-63@2x.png"
-            />
-            <img
-              className={styles.download1Icon}
-              alt=""
-              src="/download-13@2x.png"
-            />
-            <img
-              className={styles.downloadIcon}
-              alt=""
-              src="/download3@2x.png"
-            />
-            <img
-              className={styles.images1Icon}
-              alt=""
-              src="/images-13@2x.png"
-            />
-            <img
-              className={styles.download2Icon}
-              alt=""
-              src="/download-23@2x.png"
-            />
-          </div>
-        </div>
-      </div>
       <div
         className={styles.transformParent}
         id="footercontent"
@@ -208,11 +106,11 @@ const Footer: NextPage = () => {
             <div className={styles.getInTouch}>GET IN TOUCH</div>
           </button>
         </div>
-        <div className={styles.frameGroup}>
-          <div className={styles.frameContainer}>
+        <div className={styles.frameParent}>
+          <div className={styles.frameGroup}>
             <div className={styles.nowWereParent}>
               <div className={styles.nowWere2}>business</div>
-              <div className={styles.frameDiv}>
+              <div className={styles.frameContainer}>
                 <div className={styles.nowWereFrame}>
                   <div className={styles.nowWere3} onClick={onNowWereTextClick}>
                     CAREERS
@@ -224,7 +122,7 @@ const Footer: NextPage = () => {
                     onClick={onNowWereText2Click}
                   >{`ABOUT US `}</div>
                 </div>
-                <div className={styles.nowWereWrapper2}>
+                <div className={styles.nowWereWrapper1}>
                   <div className={styles.nowWere5}>PRIVACY POLICY</div>
                 </div>
                 <div
@@ -240,7 +138,7 @@ const Footer: NextPage = () => {
                   <img
                     className={styles.frameChild}
                     alt=""
-                    src="/line-15@2x.png"
+                    src="/line-1@2x.png"
                   />
                 </div>
               </div>
@@ -280,7 +178,7 @@ const Footer: NextPage = () => {
             <img
               className={styles.frameItem}
               alt=""
-              src="/arrow-101.svg"
+              src="/arrow-10.svg"
               onClick={onArrowIconClick}
             />
             <div className={styles.nowWere19} onClick={onNowWereText4Click}>
@@ -307,16 +205,16 @@ const Footer: NextPage = () => {
             </div>
             <div className={styles.instagramParent}>
               <div className={styles.instagram}>
-                <img className={styles.groupIcon} alt="" src="/group1.svg" />
+                <img className={styles.groupIcon} alt="" src="/group.svg" />
               </div>
               <div className={styles.vectorWrapper}>
-                <img className={styles.vectorIcon} alt="" src="/vector3.svg" />
+                <img className={styles.vectorIcon} alt="" src="/vector.svg" />
               </div>
               <div className={styles.frame}>
-                <img className={styles.vectorIcon1} alt="" src="/vector4.svg" />
+                <img className={styles.vectorIcon1} alt="" src="/vector.svg" />
               </div>
               <div className={styles.vectorContainer}>
-                <img className={styles.vectorIcon2} alt="" src="/vector5.svg" />
+                <img className={styles.vectorIcon2} alt="" src="/vector.svg" />
               </div>
             </div>
           </div>

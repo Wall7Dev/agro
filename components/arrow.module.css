@@ -1,11 +1,11 @@
 .vectorIcon {
   position: absolute;
-  height: 97.37%;
-  width: 97.37%;
-  top: 0.66%;
-  right: 1.97%;
-  bottom: 1.97%;
-  left: 0.66%;
+  height: 97.69%;
+  width: 97.69%;
+  top: 0.69%;
+  right: 1.62%;
+  bottom: 1.62%;
+  left: 0.69%;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -18,20 +18,20 @@
 }
 .path2Icon {
   position: absolute;
-  height: 21.05%;
-  width: 10.53%;
-  top: -61.84%;
-  right: 142.98%;
-  bottom: 140.79%;
-  left: -53.51%;
+  height: 21.06%;
+  width: 10.42%;
+  top: -61.81%;
+  right: 143.06%;
+  bottom: 140.74%;
+  left: -53.47%;
   max-width: 100%;
   max-height: 100%;
   transform: rotate(180deg);
 }
 .navRightsvgFill {
-  width: 45.6px;
+  width: 43.2px;
   position: relative;
-  height: 45.6px;
+  height: 43.2px;
   flex-shrink: 0;
   transform: rotate(-180deg);
 }
@@ -42,39 +42,39 @@
   text-transform: lowercase;
 }
 .faq {
-  width: 327.3px;
+  width: 310.5px;
   position: relative;
-  letter-spacing: 2.53px;
-  line-height: 26.99px;
+  letter-spacing: 2.4px;
+  line-height: 25.61px;
   display: inline-block;
   flex-shrink: 0;
 }
 .path2Icon1,
 .vectorIcon1 {
   position: absolute;
-  height: 97.37%;
-  width: 97.37%;
-  top: 1.32%;
-  right: -0.44%;
-  bottom: 1.32%;
-  left: 3.07%;
+  height: 97.69%;
+  width: 97.69%;
+  top: 1.16%;
+  right: -0.69%;
+  bottom: 1.16%;
+  left: 3.01%;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
 }
 .path2Icon1 {
-  height: 21.05%;
-  width: 10.53%;
-  top: 41.23%;
-  right: 43.86%;
-  bottom: 37.72%;
-  left: 45.61%;
+  height: 21.06%;
+  width: 10.42%;
+  top: 41.2%;
+  right: 43.98%;
+  bottom: 37.73%;
+  left: 45.6%;
   cursor: pointer;
 }
 .navRightsvgFill1 {
-  width: 45.6px;
+  width: 43.2px;
   position: relative;
-  height: 45.6px;
+  height: 43.2px;
   overflow: hidden;
   flex-shrink: 0;
   cursor: pointer;
@@ -86,7 +86,7 @@
   align-items: center;
   justify-content: space-between;
   text-align: center;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-base-2);
   color: var(--color-darkslategray-300);
   font-family: var(--font-poppins);
 }

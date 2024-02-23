@@ -20,11 +20,11 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.333333015441895px;
-  font-size: var(--font-size-xl);
+  padding: 7.905092716217041px;
+  font-size: var(--font-size-lgi);
 }
 .general {
-  width: 69.2px;
+  width: 65.6px;
   position: relative;
   letter-spacing: 0.04em;
   display: inline-block;
@@ -33,14 +33,14 @@
 .business,
 .generalWrapper {
   flex: 1;
-  border-radius: 16.67px;
+  border-radius: 15.81px;
   border: 0.8px solid var(--color-darkslategray-400);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.333333015441895px 35.83333206176758px;
+  padding: 7.905092716217041px 33.99189758300781px;
 }
 .business {
   border: 0.8px solid var(--color-darkgoldenrod);
@@ -62,31 +62,29 @@
   border: 0.8px solid var(--color-darkslategray-400);
   outline: 0;
   font-family: var(--font-poppins);
+  font-size: var(--font-size-smi-6);
   background-color: transparent;
+  border-radius: 23.72px;
   overflow: hidden;
   align-items: center;
+  padding: 13.4386568069458px 21.34375px;
   color: var(--color-gray-800);
-}
-.contactFormChild {
-  font-size: var(--font-size-sm-3);
-  border-radius: var(--br-6xl);
-  padding: 14.166666030883789px var(--padding-3xl-5);
 }
 .frameInput,
 .frameTextarea {
-  font-size: var(--font-size-xs-7);
-  border-radius: 24.17px;
+  font-size: var(--font-size-xs-1);
+  border-radius: 22.92px;
   box-sizing: border-box;
-  height: 53.3px;
+  height: 50.6px;
   flex-shrink: 0;
-  padding: var(--padding-3xs) 14.166666030883789px;
+  padding: 9.486111640930176px 13.4386568069458px;
 }
 .frameTextarea {
-  font-size: var(--font-size-sm-3);
-  border-radius: 18.33px;
-  height: 130.8px;
+  font-size: var(--font-size-smi-6);
+  border-radius: 17.39px;
+  height: 124.1px;
   align-items: flex-start;
-  padding: 13.333333015441895px var(--padding-3xl-5);
+  padding: 12.648148536682129px 21.34375px;
 }
 .send {
   position: relative;
@@ -98,13 +96,13 @@
   color: var(--color-gray-500);
 }
 .sendWrapper {
-  border-radius: 20.83px;
+  border-radius: 19.76px;
   background: linear-gradient(102.84deg, #449341, #bdb32c);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.333333015441895px 20.833332061767578px;
+  padding: 7.905092716217041px 19.762731552124023px;
 }
 .sendWrapper:hover {
   background-color: var(--color-white);
@@ -122,15 +120,15 @@
 }
 .contactForm {
   flex: 1;
-  border-radius: 30.83px;
+  border-radius: 29.25px;
   background-color: var(--color-whitesmoke-200);
   border: 0.8px solid var(--color-gray-200);
   overflow: hidden;
-  padding: 15.833333015441895px var(--padding-mini);
-  gap: 29.17px 0;
+  padding: 15.019676208496094px 14.229166984558105px;
+  gap: 27.67px 0;
   opacity: 0;
   text-align: left;
-  font-size: var(--font-size-mini);
+  font-size: var(--font-size-mini-2);
   color: var(--color-black);
   font-family: var(--font-poppins);
 }

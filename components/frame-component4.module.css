@@ -36,9 +36,9 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: 8.333333015441895px;
+  padding: 7.905092716217041px;
   opacity: 1;
-  font-size: var(--font-size-47xl-7);
+  font-size: var(--font-size-44xl-2);
   color: var(--color-goldenrod-100);
 }
 .makeAnEnquiryWrapper.animate {
@@ -78,7 +78,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 5px 0;
+  gap: 4.74px 0;
   color: var(--color-white);
 }
 .div,
@@ -101,7 +101,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 15.83px 0;
+  gap: 15.02px 0;
   opacity: 1;
 }
 .phoneParent.animate {
@@ -129,7 +129,7 @@
 .emailParent {
   align-self: stretch;
   align-items: flex-start;
-  gap: 15.83px 0;
+  gap: 15.02px 0;
   opacity: 0;
 }
 .emailParent.animate {
@@ -138,10 +138,10 @@
 .frameParent {
   flex: 1;
   align-items: center;
-  padding: 16.66666603088379px 0;
-  gap: 28.33px 0;
+  padding: 15.810185432434082px 0;
+  gap: 26.88px 0;
   text-align: left;
-  font-size: var(--font-size-6xl);
+  font-size: var(--font-size-4xl-7);
   color: var(--color-darkgray-100);
   font-family: var(--font-poppins);
 }
