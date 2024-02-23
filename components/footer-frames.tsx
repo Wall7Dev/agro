@@ -57,7 +57,7 @@ const FooterFrames: NextPage<FooterFramesType> = ({
         </div>
         <div className={styles.instagramParent}>
           <div className={styles.instagram}>
-            <img className={styles.groupIcon} alt="" src="/group6.svg" />
+            <img className={styles.groupIcon} alt="" src="/group61.svg" />
           </div>
           <div className={styles.vectorWrapper}>
             <img className={styles.vectorIcon} alt="" src="/vector23.svg" />

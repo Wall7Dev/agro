@@ -69,7 +69,7 @@ const BlogPage3: NextPage = () => {
         <img
           className={styles.mrCastroAwards1}
           alt=""
-          src="/mr-castro-awards-1@2x.png"
+          src="/mr-castro-awards-13@2x.png"
         />
         <div className={styles.agrospectrumLimitedAContainer}>
           <p className={styles.agrospectrumLimitedA}>
@@ -150,7 +150,7 @@ const BlogPage3: NextPage = () => {
             <img
               className={styles.gradientmsgChild}
               alt=""
-              src="/group-206@2x.png"
+              src="/group-2063@2x.png"
             />
             <div className={styles.weSupportAgribusinessIndustParent}>
               <b
@@ -170,7 +170,7 @@ const BlogPage3: NextPage = () => {
                 <img
                   className={styles.frameChild}
                   alt=""
-                  src="/arrow-9@2x.png"
+                  src="/arrow-96@2x.png"
                 />
                 <div className={styles.viewProducts}>view produCts</div>
               </div>

@@ -21,7 +21,7 @@ const ArrowFrame: NextPage = () => {
         <img
           className={styles.oursubsiadiriesChild}
           alt=""
-          src="/group-93911.svg"
+          src="/group-939111.svg"
         />
         <img
           className={styles.bdp1Icon}

@@ -235,31 +235,31 @@ const ManagementTeam: NextPage = () => {
                     <img
                       className={styles.clipPathGroup}
                       alt=""
-                      src="/clip-path-group.svg"
+                      src="/clip-path-group47.svg"
                       onClick={onClipPathGroupClick}
                     />
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group64@2x.png"
                       onClick={onClipPathGroup1Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group65@2x.png"
                       onClick={onClipPathGroup2Click}
                     />
                     <img
                       className={styles.oursubsidiarylogosChild}
                       alt=""
-                      src="/group-939.svg"
+                      src="/group-93912.svg"
                     />
                   </div>
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-1@2x.png"
+                    src="/images-2-123@2x.png"
                   />
                 </button>
                 <div
@@ -290,7 +290,7 @@ const ManagementTeam: NextPage = () => {
                   <img
                     className={styles.homecChild}
                     alt=""
-                    src="/line-1@2x.png"
+                    src="/line-119@2x.png"
                   />
                 </div>
                 <button className={styles.aboutus} onClick={onAboutUsClick}>
@@ -303,7 +303,7 @@ const ManagementTeam: NextPage = () => {
                   <img
                     className={styles.aboutusChild}
                     alt=""
-                    src="/line-1@2x.png"
+                    src="/line-120@2x.png"
                   />
                 </button>
                 <button
@@ -368,25 +368,25 @@ const ManagementTeam: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group66@2x.png"
                       onClick={onClipPathGroup12Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group67@2x.png"
                       onClick={onClipPathGroup22Click}
                     />
                     <img
                       className={styles.oursubsidiarylogosChild}
                       alt=""
-                      src="/group-939.svg"
+                      src="/group-93911.svg"
                     />
                   </div>
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-1@2x.png"
+                    src="/images-2-124@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -435,25 +435,25 @@ const ManagementTeam: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group66@2x.png"
                       onClick={onClipPathGroup13Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group67@2x.png"
                       onClick={onClipPathGroup23Click}
                     />
                     <img
                       className={styles.oursubsidiarylogosChild}
                       alt=""
-                      src="/group-939.svg"
+                      src="/group-93911.svg"
                     />
                   </div>
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-1@2x.png"
+                    src="/images-2-124@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -496,31 +496,31 @@ const ManagementTeam: NextPage = () => {
                     <img
                       className={styles.clipPathGroup}
                       alt=""
-                      src="/clip-path-group.svg"
+                      src="/clip-path-group59.svg"
                       onClick={onClipPathGroup5Click}
                     />
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group68@2x.png"
                       onClick={onClipPathGroup14Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group69@2x.png"
                       onClick={onClipPathGroup24Click}
                     />
                     <img
                       className={styles.oursubsidiarylogosChild}
                       alt=""
-                      src="/group-939.svg"
+                      src="/group-93911.svg"
                     />
                   </div>
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-1@2x.png"
+                    src="/images-2-125@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -535,7 +535,7 @@ const ManagementTeam: NextPage = () => {
               <img
                 className={styles.rightnavlinkIcon}
                 alt=""
-                src="/rightnavlink@2x.png"
+                src="/rightnavlink7@2x.png"
               />
             </div>
           </nav>
@@ -543,7 +543,7 @@ const ManagementTeam: NextPage = () => {
         <img
           className={styles.managementTeamItem}
           alt=""
-          src="/ellipse-2.svg"
+          src="/ellipse-21.svg"
         />
         <img
           className={styles.managementTeamInner}
@@ -658,7 +658,7 @@ const ManagementTeam: NextPage = () => {
                     <img
                       className={styles.baseIcon}
                       alt=""
-                      src="/base@2x.png"
+                      src="/base22@2x.png"
                     />
                     <div className={styles.razakAwudulaiParent}>
                       <div className={styles.samuelOsewKwatia}>
@@ -879,114 +879,114 @@ const ManagementTeam: NextPage = () => {
                 <img
                   className={styles.download5Icon}
                   alt=""
-                  src="/download-5@2x.png"
+                  src="/download-530@2x.png"
                 />
                 <img
                   className={styles.download5Icon1}
                   alt=""
-                  src="/download-5@2x.png"
+                  src="/download-531@2x.png"
                 />
                 <img
                   className={styles.captureIcon}
                   alt=""
-                  src="/capture@2x.png"
+                  src="/capture15@2x.png"
                 />
                 <img
                   className={styles.mofaColorIcon}
                   alt=""
-                  src="/mofa-color@2x.png"
+                  src="/mofa-color15@2x.png"
                 />
                 <img
                   className={styles.download3Icon}
                   alt=""
-                  src="/download-3@2x.png"
+                  src="/download-315@2x.png"
                 />
                 <img
                   className={styles.imagesIcon}
                   alt=""
-                  src="/images@2x.png"
+                  src="/images14@2x.png"
                 />
                 <img
                   className={styles.download6Icon}
                   alt=""
-                  src="/download-6@2x.png"
+                  src="/download-616@2x.png"
                 />
                 <img
                   className={styles.download1Icon}
                   alt=""
-                  src="/download-1@2x.png"
+                  src="/download-115@2x.png"
                 />
                 <img
                   className={styles.downloadIcon}
                   alt=""
-                  src="/download@2x.png"
+                  src="/download15@2x.png"
                 />
                 <img
                   className={styles.images1Icon}
                   alt=""
-                  src="/images-1@2x.png"
+                  src="/images-115@2x.png"
                 />
                 <img
                   className={styles.download2Icon}
                   alt=""
-                  src="/download-2@2x.png"
+                  src="/download-215@2x.png"
                 />
               </div>
               <div className={styles.download5Group}>
                 <img
                   className={styles.download5Icon}
                   alt=""
-                  src="/download-5@2x.png"
+                  src="/download-532@2x.png"
                 />
                 <img
                   className={styles.download5Icon1}
                   alt=""
-                  src="/download-5@2x.png"
+                  src="/download-533@2x.png"
                 />
                 <img
                   className={styles.captureIcon}
                   alt=""
-                  src="/capture@2x.png"
+                  src="/capture16@2x.png"
                 />
                 <img
                   className={styles.mofaColorIcon}
                   alt=""
-                  src="/mofa-color@2x.png"
+                  src="/mofa-color16@2x.png"
                 />
                 <img
                   className={styles.download3Icon}
                   alt=""
-                  src="/download-3@2x.png"
+                  src="/download-316@2x.png"
                 />
                 <img
                   className={styles.imagesIcon}
                   alt=""
-                  src="/images@2x.png"
+                  src="/images15@2x.png"
                 />
                 <img
                   className={styles.download6Icon}
                   alt=""
-                  src="/download-6@2x.png"
+                  src="/download-617@2x.png"
                 />
                 <img
                   className={styles.download1Icon}
                   alt=""
-                  src="/download-1@2x.png"
+                  src="/download-116@2x.png"
                 />
                 <img
                   className={styles.downloadIcon}
                   alt=""
-                  src="/download@2x.png"
+                  src="/download16@2x.png"
                 />
                 <img
                   className={styles.images1Icon}
                   alt=""
-                  src="/images-1@2x.png"
+                  src="/images-116@2x.png"
                 />
                 <img
                   className={styles.download2Icon}
                   alt=""
-                  src="/download-2@2x.png"
+                  src="/download-216@2x.png"
                 />
               </div>
             </div>
@@ -1069,7 +1069,7 @@ const ManagementTeam: NextPage = () => {
                         <img
                           className={styles.frameChild}
                           alt=""
-                          src="/line-1@2x.png"
+                          src="/line-121@2x.png"
                         />
                       </div>
                     </div>
@@ -1144,28 +1144,28 @@ const ManagementTeam: NextPage = () => {
                       <img
                         className={styles.groupIcon1}
                         alt=""
-                        src="/group.svg"
+                        src="/group6.svg"
                       />
                     </div>
                     <div className={styles.vectorWrapper}>
                       <img
                         className={styles.vectorIcon}
                         alt=""
-                        src="/vector.svg"
+                        src="/vector12.svg"
                       />
                     </div>
                     <div className={styles.frame}>
                       <img
                         className={styles.vectorIcon1}
                         alt=""
-                        src="/vector.svg"
+                        src="/vector13.svg"
                       />
                     </div>
                     <div className={styles.vectorContainer}>
                       <img
                         className={styles.vectorIcon2}
                         alt=""
-                        src="/vector.svg"
+                        src="/vector14.svg"
                       />
                     </div>
                   </div>

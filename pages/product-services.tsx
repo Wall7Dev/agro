@@ -14,7 +14,7 @@ const ProductServices: NextPage = () => {
         <Component />
         <div className={styles.allherops960}>
           <div className={styles.bgBlurParent}>
-            <img className={styles.bgBlurIcon} alt="" src="/bg-blur.svg" />
+            <img className={styles.bgBlurIcon} alt="" src="/bg-blur2.svg" />
             <div className={styles.empoweringFarmersAndUnlockWrapper}>
               <div className={styles.empoweringFarmersAndContainer}>
                 <span className={styles.empowering}>{`Empowering `}</span>
@@ -38,7 +38,7 @@ const ProductServices: NextPage = () => {
         </div>
         <div className={styles.allherops420}>
           <div className={styles.bgBlurParent}>
-            <img className={styles.bgBlurIcon} alt="" src="/bg-blur.svg" />
+            <img className={styles.bgBlurIcon} alt="" src="/bg-blur3.svg" />
             <div className={styles.empoweringFarmersAndUnlockContainer}>
               <div className={styles.empoweringFarmersAndContainer}>
                 <p className={styles.empowering1}>{`Empowering `}</p>
@@ -113,11 +113,11 @@ const ProductServices: NextPage = () => {
               other institutions can adopt to collect data devoid of errors.
             </div>
           </div>
-          <img className={styles.frame1082} alt="" src="/frame-108-2@2x.png" />
+          <img className={styles.frame1082} alt="" src="/frame-108-21@2x.png" />
         </div>
       </div>
       <Climate
-        frame1082="/frame-108-2@2x.png"
+        frame1082="/frame-108-22@2x.png"
         inputCredit="Input-Credit"
         managementSystem="  management System 
 "
@@ -126,7 +126,7 @@ const ProductServices: NextPage = () => {
       />
       <Aggregation />
       <Climate
-        frame1082="/frame-108-2@2x.png"
+        frame1082="/frame-108-24@2x.png"
         inputCredit="Climate"
         managementSystem=" Smart Agric program"
         theInputCreditManagementS="This solution by Agrospectrum limited focuses on providing climate friendly agricultural information, predict weather, disaster risk mitigation and agronomic advice through channels like Interactive Voice Recognition (IVR), a call centre and SMS a to farmers intermittently in various languages."
@@ -155,7 +155,7 @@ const ProductServices: NextPage = () => {
               million farmers in the five northern regions.
             </div>
           </div>
-          <img className={styles.frame1082} alt="" src="/frame-108-2@2x.png" />
+          <img className={styles.frame1082} alt="" src="/frame-108-25@2x.png" />
         </div>
       </div>
       <FOOTERCOMPONENT1 />

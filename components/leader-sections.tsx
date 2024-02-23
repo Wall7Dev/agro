@@ -88,7 +88,7 @@ const LeaderSections: NextPage = () => {
               data-animate-on-scroll
             >
               <div className={styles.castroDansoTeam}>
-                <img className={styles.baseIcon1} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon1} alt="" src="/base1@2x.png" />
                 <div className={styles.castroDansoTeamInner}>
                   <div className={styles.frameContainer}>
                     <div className={styles.block1Group}>

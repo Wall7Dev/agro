@@ -138,7 +138,7 @@ const Footer: NextPage = () => {
                   <img
                     className={styles.frameChild}
                     alt=""
-                    src="/line-1@2x.png"
+                    src="/line-17@2x.png"
                   />
                 </div>
               </div>
@@ -178,7 +178,7 @@ const Footer: NextPage = () => {
             <img
               className={styles.frameItem}
               alt=""
-              src="/arrow-10.svg"
+              src="/arrow-102.svg"
               onClick={onArrowIconClick}
             />
             <div className={styles.nowWere19} onClick={onNowWereText4Click}>
@@ -205,16 +205,16 @@ const Footer: NextPage = () => {
             </div>
             <div className={styles.instagramParent}>
               <div className={styles.instagram}>
-                <img className={styles.groupIcon} alt="" src="/group.svg" />
+                <img className={styles.groupIcon} alt="" src="/group1.svg" />
               </div>
               <div className={styles.vectorWrapper}>
-                <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+                <img className={styles.vectorIcon} alt="" src="/vector3.svg" />
               </div>
               <div className={styles.frame}>
-                <img className={styles.vectorIcon1} alt="" src="/vector.svg" />
+                <img className={styles.vectorIcon1} alt="" src="/vector4.svg" />
               </div>
               <div className={styles.vectorContainer}>
-                <img className={styles.vectorIcon2} alt="" src="/vector.svg" />
+                <img className={styles.vectorIcon2} alt="" src="/vector5.svg" />
               </div>
             </div>
           </div>

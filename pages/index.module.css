@@ -352,14 +352,14 @@
   line-height: 81.07px;
 }
 .platformWrapper {
-  width: 424.7px;
+  width: 339px;
   border-radius: 10.13px;
   background-color: var(--color-goldenrod-300);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 5.06683874130249px 10.13367748260498px;
+  padding: 0 10.13367748260498px;
   box-sizing: border-box;
 }
 .platformWrapper:hover {
@@ -368,7 +368,6 @@
 .forTheFuture {
   flex: 1;
   position: relative;
-  font-size: var(--font-size-51xl);
   letter-spacing: 0.41px;
   line-height: 81.07px;
   white-space: pre-wrap;
@@ -386,7 +385,6 @@
   gap: 0 15.2px;
   opacity: 1;
   text-align: center;
-  font-size: 81.1px;
 }
 .frameParent.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
@@ -398,9 +396,11 @@
   align-self: stretch;
   position: relative;
   line-height: 120%;
+  font-weight: 300;
+  text-shadow: 0 4px 10.4px rgba(0, 0, 0, 0.25);
 }
 .weProvideAnContainer:hover {
-  font-size: 27px;
+  font-size: var(--font-size-4xl);
 }
 .weProvideAnEcosystemForAlWrapper {
   align-self: stretch;
@@ -492,21 +492,20 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 32.149009704589844px 628.3565673828125px 32.149009704589844px
-    434.1372985839844px;
+  padding: 32.149009704589844px 628.3565673828125px 32.149009704589844px 470px;
 }
 .desktop {
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 91.39732360839844px 171.3699951171875px;
+  padding: 91.39732360839844px 171.3699951171875px 91.39732360839844px 180px;
   gap: 11.42px 0;
   background-image: url(/desktop@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   text-align: left;
-  font-size: 74px;
+  font-size: var(--font-size-49xl);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
@@ -2945,7 +2944,7 @@
 }
 .ourprojectframeParent,
 .section6partners {
-  overflow: hidden;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -2956,13 +2955,11 @@
   background-position: top;
 }
 .ourprojectframeParent {
-  align-self: stretch;
+  overflow: hidden;
   gap: 6.33px 0;
   background-image: url(/frame-1211@3x.png);
 }
 .section6partners {
-  width: 1366px;
-  box-sizing: border-box;
   background-image: url(/section6partners@3x.png);
   z-index: 11;
 }
@@ -4943,20 +4940,20 @@
 }
 .faq42 {
   align-self: stretch;
+  display: flex;
   flex-direction: column;
   gap: 2.82px 0;
 }
 .faq42,
 .faq52,
-.faqs2,
 .roundplus14 {
-  display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
 .roundplus14 {
   border-radius: 5.64px;
   border: 0.4px solid var(--color-goldenrod-300);
+  display: flex;
   flex-direction: row;
   padding: 3.196200370788574px;
   gap: 0 1.88px;
@@ -4968,16 +4965,31 @@
 .roundplus14:active .rectangle53 {
   display: flex;
 }
-.faq52,
-.faqs2 {
-  align-self: stretch;
+.faq52 {
   flex-direction: column;
   gap: 2.82px 0;
 }
+.faq52,
+.faqframe2,
 .faqs2 {
+  align-self: stretch;
+  display: flex;
+}
+.faqs2 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
   gap: 3.76px 0;
   text-align: left;
   font-size: var(--font-size-8xs-5);
+}
+.faqframe2 {
+  overflow: hidden;
+  justify-content: center;
+  padding: 1.8801178932189941px 75.20471954345703px;
+  gap: 1.88px 0;
+  z-index: 7;
+  font-size: var(--font-size-9xs-6);
 }
 .div13,
 .faqframe2,
@@ -4986,26 +4998,12 @@
   flex-direction: column;
   align-items: center;
 }
-.faqframe2 {
-  align-self: stretch;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  padding: 1.8801178932189941px 75.20471954345703px;
-  gap: 1.88px 0;
-  z-index: 7;
-  font-size: var(--font-size-9xs-6);
-}
-.div13,
-.homepage,
-.outTeam {
-  justify-content: flex-start;
-}
 .div13 {
   width: 332px;
   background-color: var(--color-darkolivegreen-600);
   overflow: hidden;
   display: none;
+  justify-content: flex-start;
   padding: 11.280706405639648px 0;
   box-sizing: border-box;
   position: relative;
@@ -5018,6 +5016,7 @@
 }
 .outTeam {
   align-self: stretch;
+  justify-content: flex-start;
   z-index: 12;
 }
 .homepage {
@@ -5030,7 +5029,9 @@
     #165b10 73.18%,
     rgba(15, 62, 6, 0.98) 88.18%
   );
+  height: 6356.1px;
   overflow: hidden;
+  justify-content: space-between;
   text-align: center;
   font-size: 31.6px;
   color: var(--color-white);
