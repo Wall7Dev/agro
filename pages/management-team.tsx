@@ -884,7 +884,7 @@ const ManagementTeam: NextPage = () => {
                 <img
                   className={styles.download5Icon1}
                   alt=""
-                  src="/download-531@2x.png"
+                  src="/download-5311@2x.png"
                 />
                 <img
                   className={styles.captureIcon}

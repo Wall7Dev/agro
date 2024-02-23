@@ -782,7 +782,7 @@ const BlogPage2: NextPage = () => {
                 <img
                   className={styles.download5Icon1}
                   alt=""
-                  src="/download-541@2x.png"
+                  src="/download-5411@2x.png"
                 />
                 <img
                   className={styles.captureIcon}
@@ -807,7 +807,7 @@ const BlogPage2: NextPage = () => {
                 <img
                   className={styles.download6Icon}
                   alt=""
-                  src="/download-621@2x.png"
+                  src="/download-6211@2x.png"
                 />
                 <img
                   className={styles.download1Icon}

@@ -559,7 +559,7 @@ const Projectspartners: NextPage = () => {
                     <img
                       className={styles.baseIcon}
                       alt=""
-                      src="/base7@2x.png"
+                      src="/base71@2x.png"
                     />
                     <div className={styles.aFlagshipProgram}>
                       A flagship program of the MoFA(Ghana) that used
@@ -581,7 +581,7 @@ const Projectspartners: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base8@2x.png"
+                        src="/base81@2x.png"
                       />
                       <div className={styles.aCreditProgramContainer}>
                         <span
@@ -618,7 +618,7 @@ const Projectspartners: NextPage = () => {
                     <img
                       className={styles.baseIcon}
                       alt=""
-                      src="/base9@2x.png"
+                      src="/base91@2x.png"
                     />
                     <div className={styles.anEnumerationProgram}>
                       An enumeration program by the Government of Ghana through
@@ -640,7 +640,7 @@ const Projectspartners: NextPage = () => {
                     <img
                       className={styles.baseIcon}
                       alt=""
-                      src="/base10@2x.png"
+                      src="/base101@2x.png"
                     />
                     <div
                       className={styles.ourClimateSmartSolution}
@@ -666,7 +666,7 @@ const Projectspartners: NextPage = () => {
                     <img
                       className={styles.baseIcon4}
                       alt=""
-                      src="/base11@2x.png"
+                      src="/base111@2x.png"
                     />
                     <div
                       className={styles.imagineAFuture}
@@ -686,7 +686,7 @@ const Projectspartners: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base12@2x.png"
+                        src="/base121@2x.png"
                       />
                       <div className={styles.runByOurContainer}>
                         <p className={styles.runByOurClientsMayAndLot}>
@@ -722,7 +722,7 @@ const Projectspartners: NextPage = () => {
                 <img
                   className={styles.projectArrowChild}
                   alt=""
-                  src="/frame-1210@2x.png"
+                  src="/frame-12101@2x.png"
                 />
                 <div className={styles.navigation}>
                   <div className={styles.divider} />
@@ -777,7 +777,7 @@ const Projectspartners: NextPage = () => {
                       <img
                         className={styles.ignitiaLogo1Icon}
                         alt=""
-                        src="/ignitialogo-1@2x.png"
+                        src="/ignitialogo-11@2x.png"
                       />
                     </section>
                     <section className={styles.download1Parent}>
@@ -882,7 +882,7 @@ const Projectspartners: NextPage = () => {
                 <img
                   className={styles.download5Icon3}
                   alt=""
-                  src="/download-521@2x.png"
+                  src="/download-5211@2x.png"
                 />
                 <img
                   className={styles.captureIcon1}
@@ -907,7 +907,7 @@ const Projectspartners: NextPage = () => {
                 <img
                   className={styles.download6Icon1}
                   alt=""
-                  src="/download-611@2x.png"
+                  src="/download-6111@2x.png"
                 />
                 <img
                   className={styles.download1Icon1}

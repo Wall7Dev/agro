@@ -663,7 +663,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
               <img
                 className={styles.scrooldowncontainerChild1}
                 alt=""
-                src="/frame-7@2x.png"
+                src="/frame-74@2x.png"
                 data-animate-on-scroll
               />
             </div>
@@ -1116,7 +1116,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
               <img
                 className={styles.frameChild}
                 alt=""
-                src="/frame-94@2x.png"
+                src="/frame-941@2x.png"
                 data-animate-on-scroll
               />
               <div className={styles.frameParent6}>
@@ -1205,7 +1205,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
               <img
                 className={styles.whatWeOfferChild}
                 alt=""
-                src="/frame-94@2x.png"
+                src="/frame-942@2x.png"
                 data-animate-on-scroll
               />
               <div
@@ -1285,7 +1285,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                   <img
                     className={styles.frameInner}
                     alt=""
-                    src="/frame-94@2x.png"
+                    src="/frame-943@2x.png"
                     data-animate-on-scroll
                   />
                   <div className={styles.frameParent9} data-animate-on-scroll>
@@ -1350,7 +1350,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                   <img
                     className={styles.frameChild2}
                     alt=""
-                    src="/frame-94@2x.png"
+                    src="/frame-944@2x.png"
                     data-animate-on-scroll
                   />
                   <div className={styles.frameParent12} data-animate-on-scroll>
@@ -1419,7 +1419,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group8@2x.png"
                 />
                 <div className={styles.missionWrapper}>
                   <h1 className={styles.mission}>Mission</h1>
@@ -1427,7 +1427,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon1}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group9@2x.png"
                 />
               </div>
             </div>
@@ -1442,7 +1442,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group10@2x.png"
                 />
                 <div className={styles.missionWrapper}>
                   <h1 className={styles.mission}>Integrity</h1>
@@ -1450,7 +1450,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon3}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group11@2x.png"
                   onClick={onLeftGroupIcon3Click}
                 />
               </div>
@@ -1467,7 +1467,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group12@2x.png"
                 />
                 <div className={styles.logorightnavlink}>
                   <h1 className={styles.resourcefulness}>Resourcefulness</h1>
@@ -1475,7 +1475,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon1}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group13@2x.png"
                 />
               </div>
             </div>
@@ -1491,7 +1491,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group14@2x.png"
                 />
                 <div className={styles.missionWrapper}>
                   <h1 className={styles.mission}>Innovation</h1>
@@ -1499,7 +1499,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon1}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group15@2x.png"
                 />
               </div>
             </div>
@@ -1524,7 +1524,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon8}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group16@2x.png"
                 />
                 <div className={styles.missionContainer}>
                   <h1 className={styles.mission}>Mission</h1>
@@ -1532,7 +1532,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon9}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group17@2x.png"
                 />
               </div>
             </div>
@@ -1547,7 +1547,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon8}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group18@2x.png"
                 />
                 <div className={styles.missionContainer}>
                   <h1 className={styles.mission}>Integrity</h1>
@@ -1555,7 +1555,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon11}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group19@2x.png"
                   onClick={onLeftGroupIcon11Click}
                 />
               </div>
@@ -1572,7 +1572,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon8}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group20@2x.png"
                 />
                 <div className={styles.logorightnavlink}>
                   <h1 className={styles.resourcefulness1}>Resourcefulness</h1>
@@ -1580,7 +1580,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon9}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group21@2x.png"
                 />
               </div>
             </div>
@@ -1596,7 +1596,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon8}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group22@2x.png"
                 />
                 <div className={styles.missionContainer}>
                   <h1 className={styles.mission}>Innovation</h1>
@@ -1604,7 +1604,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon9}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group23@2x.png"
                 />
               </div>
             </div>
@@ -1629,7 +1629,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon16}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group24@2x.png"
                 />
                 <div className={styles.missionFrame}>
                   <h1 className={styles.mission}>Mission</h1>
@@ -1637,7 +1637,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon17}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group25@2x.png"
                 />
               </div>
             </div>
@@ -1652,7 +1652,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon16}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group26@2x.png"
                 />
                 <div className={styles.missionFrame}>
                   <h1 className={styles.mission}>Integrity</h1>
@@ -1660,7 +1660,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon19}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group27@2x.png"
                   onClick={onLeftGroupIcon19Click}
                 />
               </div>
@@ -1677,7 +1677,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon16}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group28@2x.png"
                 />
                 <div className={styles.logorightnavlink}>
                   <h1 className={styles.resourcefulness2}>Resourcefulness</h1>
@@ -1685,7 +1685,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon17}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group29@2x.png"
                 />
               </div>
             </div>
@@ -1701,7 +1701,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon16}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group30@2x.png"
                 />
                 <div className={styles.missionFrame}>
                   <h1 className={styles.mission}>Innovation</h1>
@@ -1709,7 +1709,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 <img
                   className={styles.leftGroupIcon17}
                   alt=""
-                  src="/left-group@2x.png"
+                  src="/left-group31@2x.png"
                 />
               </div>
             </div>
@@ -1757,7 +1757,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             <div className={styles.cardgropupo} data-animate-on-scroll>
               <div className={styles.xorse}>
                 <div className={styles.xoseAhlijaTeam}>
-                  <img className={styles.baseIcon} alt="" src="/base@2x.png" />
+                  <img className={styles.baseIcon} alt="" src="/base6@2x.png" />
                   <div className={styles.block1Parent}>
                     <div className={styles.block1}>
                       <div className={styles.rectangle} />
@@ -1774,7 +1774,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.castro}>
-                <img className={styles.baseIcon1} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon1} alt="" src="/base7@2x.png" />
                 <div className={styles.block11}>
                   <div className={styles.rectangle1} />
                 </div>
@@ -1786,7 +1786,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.ottisApalooTeam}>
-                <img className={styles.baseIcon2} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon2} alt="" src="/base8@2x.png" />
                 <div className={styles.block1Group}>
                   <div className={styles.block12}>
                     <div className={styles.rectangle2} />
@@ -2036,7 +2036,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
           </div>
           <div className={styles.ta}>
-            <img className={styles.taChild} alt="" src="/vector-21@2x.png" />
+            <img className={styles.taChild} alt="" src="/vector-211@2x.png" />
             <img className={styles.taItem} alt="" src="/vector-231.svg" />
             <div className={styles.outteam2}>
               <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -2050,7 +2050,11 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             <div className={styles.cardgropupo1} data-animate-on-scroll>
               <div className={styles.xorse1}>
                 <div className={styles.xoseAhlijaTeam1}>
-                  <img className={styles.baseIcon3} alt="" src="/base@2x.png" />
+                  <img
+                    className={styles.baseIcon3}
+                    alt=""
+                    src="/base9@2x.png"
+                  />
                   <div className={styles.block1Container}>
                     <div className={styles.block13}>
                       <div className={styles.rectangle13} />
@@ -2067,7 +2071,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.castro1}>
-                <img className={styles.baseIcon4} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon4} alt="" src="/base10@2x.png" />
                 <div className={styles.block14}>
                   <div className={styles.rectangle14} />
                 </div>
@@ -2079,7 +2083,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.ottisApalooTeam1}>
-                <img className={styles.baseIcon5} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon5} alt="" src="/base11@2x.png" />
                 <div className={styles.block1Parent1}>
                   <div className={styles.block15}>
                     <div className={styles.rectangle15} />
@@ -2327,7 +2331,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
           </div>
           <div className={styles.div13}>
-            <img className={styles.item} alt="" src="/vector-21@2x.png" />
+            <img className={styles.item} alt="" src="/vector-212@2x.png" />
             <img className={styles.vectorIcon} alt="" src="/vector-232.svg" />
             <div className={styles.outteam4}>
               <div className={styles.ourTeam}>{`Our Team & Experts`}</div>
@@ -2341,7 +2345,11 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             <div className={styles.cardgropupo2} data-animate-on-scroll>
               <div className={styles.xorse2}>
                 <div className={styles.xoseAhlijaTeam2}>
-                  <img className={styles.baseIcon6} alt="" src="/base@2x.png" />
+                  <img
+                    className={styles.baseIcon6}
+                    alt=""
+                    src="/base12@2x.png"
+                  />
                   <div className={styles.block1Parent2}>
                     <div className={styles.block16}>
                       <div className={styles.rectangle26} />
@@ -2358,7 +2366,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.castro2}>
-                <img className={styles.baseIcon7} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon7} alt="" src="/base13@2x.png" />
                 <div className={styles.block17}>
                   <div className={styles.rectangle27} />
                 </div>
@@ -2370,7 +2378,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                 </div>
               </div>
               <div className={styles.ottisApalooTeam2}>
-                <img className={styles.baseIcon8} alt="" src="/base@2x.png" />
+                <img className={styles.baseIcon8} alt="" src="/base14@2x.png" />
                 <div className={styles.block1Parent3}>
                   <div className={styles.block18}>
                     <div className={styles.rectangle28} />
@@ -2388,7 +2396,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                   <img
                     className={styles.gradientmsgInner}
                     alt=""
-                    src="/group-206@2x.png"
+                    src="/group-2061@2x.png"
                   />
                   <div className={styles.weSupportAgribusinessIndustContainer}>
                     <b

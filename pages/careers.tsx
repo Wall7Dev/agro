@@ -635,17 +635,17 @@ const Careers: NextPage = () => {
                 <img
                   className={styles.captureIcon}
                   alt=""
-                  src="/capture11@2x.png"
+                  src="/capture111@2x.png"
                 />
                 <img
                   className={styles.mofaColorIcon}
                   alt=""
-                  src="/mofa-color11@2x.png"
+                  src="/mofa-color111@2x.png"
                 />
                 <img
                   className={styles.download3Icon}
                   alt=""
-                  src="/download-311@2x.png"
+                  src="/download-3111@2x.png"
                 />
                 <img
                   className={styles.imagesIcon}
@@ -660,22 +660,22 @@ const Careers: NextPage = () => {
                 <img
                   className={styles.download1Icon}
                   alt=""
-                  src="/download-111@2x.png"
+                  src="/download-1111@2x.png"
                 />
                 <img
                   className={styles.downloadIcon}
                   alt=""
-                  src="/download11@2x.png"
+                  src="/download111@2x.png"
                 />
                 <img
                   className={styles.images1Icon}
                   alt=""
-                  src="/images-111@2x.png"
+                  src="/images-1111@2x.png"
                 />
                 <img
                   className={styles.download2Icon}
                   alt=""
-                  src="/download-211@2x.png"
+                  src="/download-2111@2x.png"
                 />
               </div>
               <div className={styles.download5Group}>
@@ -707,7 +707,7 @@ const Careers: NextPage = () => {
                 <img
                   className={styles.imagesIcon}
                   alt=""
-                  src="/images11@2x.png"
+                  src="/images111@2x.png"
                 />
                 <img
                   className={styles.download6Icon}

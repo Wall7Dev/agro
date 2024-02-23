@@ -780,17 +780,17 @@ const BlogPage1: NextPage = () => {
                 <img
                   className={styles.captureIcon}
                   alt=""
-                  src="/capture21@2x.png"
+                  src="/capture211@2x.png"
                 />
                 <img
                   className={styles.mofaColorIcon}
                   alt=""
-                  src="/mofa-color21@2x.png"
+                  src="/mofa-color211@2x.png"
                 />
                 <img
                   className={styles.download3Icon}
                   alt=""
-                  src="/download-321@2x.png"
+                  src="/download-3211@2x.png"
                 />
                 <img
                   className={styles.imagesIcon}
@@ -805,22 +805,22 @@ const BlogPage1: NextPage = () => {
                 <img
                   className={styles.download1Icon}
                   alt=""
-                  src="/download-121@2x.png"
+                  src="/download-1211@2x.png"
                 />
                 <img
                   className={styles.downloadIcon}
                   alt=""
-                  src="/download21@2x.png"
+                  src="/download211@2x.png"
                 />
                 <img
                   className={styles.images1Icon}
                   alt=""
-                  src="/images-121@2x.png"
+                  src="/images-1211@2x.png"
                 />
                 <img
                   className={styles.download2Icon}
                   alt=""
-                  src="/download-221@2x.png"
+                  src="/download-2211@2x.png"
                 />
               </div>
               <div className={styles.download5Group}>

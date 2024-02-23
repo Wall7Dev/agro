@@ -881,7 +881,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base2@2x.png"
+                        src="/base21@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
@@ -930,7 +930,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base3@2x.png"
+                        src="/base31@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
@@ -971,7 +971,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base4@2x.png"
+                        src="/base41@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
@@ -1017,7 +1017,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base5@2x.png"
+                        src="/base51@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
@@ -1063,7 +1063,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base6@2x.png"
+                        src="/base61@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
