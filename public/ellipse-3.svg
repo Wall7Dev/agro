@@ -1,7 +1,7 @@
-<svg width="960" height="960" viewBox="0 0 960 960" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path opacity="0.553" d="M480 960C745.097 960 960 745.097 960 480C960 214.903 745.097 0 480 0C214.903 0 0 214.903 0 480C0 745.097 214.903 960 480 960Z" fill="url(#paint0_radial_1870_15761)"/>
+<svg width="801" height="800" viewBox="0 0 801 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.553" d="M400.167 800C621.08 800 800.167 620.914 800.167 400C800.167 179.086 621.08 0 400.167 0C179.253 0 0.166504 179.086 0.166504 400C0.166504 620.914 179.253 800 400.167 800Z" fill="url(#paint0_radial_1870_15761)"/>
 <defs>
-<radialGradient id="paint0_radial_1870_15761" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(480 480) scale(480)">
+<radialGradient id="paint0_radial_1870_15761" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400.167 400) scale(400)">
 <stop stop-color="#454545"/>
 <stop offset="1" stop-color="#A3A3A3" stop-opacity="0"/>
 </radialGradient>

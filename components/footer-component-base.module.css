@@ -178,7 +178,7 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: var(--padding-3xs) var(--padding-211xl);
+  padding: var(--padding-3xs) 230px;
 }
 .footerComponent,
 .frameGroup {

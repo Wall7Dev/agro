@@ -7,7 +7,7 @@
   }
 }
 .trustUs {
-  font-size: var(--font-size-3xl);
+  font-size: 15.5px;
 }
 .theRenownCompaniesContainer {
   align-self: stretch;
@@ -17,33 +17,33 @@
 }
 .download3Icon,
 .download5Icon {
-  width: 92px;
+  width: 64.7px;
   position: relative;
-  height: 76.7px;
+  height: 53.9px;
   object-fit: cover;
 }
 .download3Icon {
-  width: 59.8px;
-  height: 63.6px;
+  width: 42.1px;
+  height: 44.7px;
 }
 .download5Parent {
-  width: 292px;
+  width: 205.3px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0 89px;
+  gap: 0 62.58px;
 }
 .captureIcon,
 .download6Icon {
-  width: 171.4px;
+  width: 120.5px;
   position: relative;
-  height: 81.1px;
+  height: 57px;
   object-fit: cover;
 }
 .download6Icon {
-  width: 135.9px;
-  height: 77.8px;
+  width: 95.5px;
+  height: 54.7px;
 }
 .captureParent,
 .frameGroup {
@@ -51,28 +51,28 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  gap: 0 68px;
+  gap: 0 47.81px;
 }
 .frameGroup {
   align-self: stretch;
-  gap: 0 92px;
+  gap: 0 64.69px;
 }
 .download2Icon,
 .download5Icon1,
 .ignitiaLogo1Icon {
-  width: 88.2px;
+  width: 62px;
   position: relative;
-  height: 62.5px;
+  height: 43.9px;
   object-fit: cover;
 }
 .download2Icon,
 .ignitiaLogo1Icon {
-  width: 65.7px;
-  height: 71.2px;
+  width: 46.2px;
+  height: 50.1px;
 }
 .ignitiaLogo1Icon {
-  width: 142.5px;
-  height: 57.1px;
+  width: 100.2px;
+  height: 40.2px;
 }
 .download5Group {
   flex: 1;
@@ -80,42 +80,42 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0 45px;
+  gap: 0 31.64px;
 }
 .download1Icon,
 .images1Icon {
-  width: 140px;
+  width: 98.4px;
   position: relative;
-  height: 59.9px;
+  height: 42.1px;
   object-fit: cover;
 }
 .images1Icon {
-  width: 85.4px;
-  height: 92.2px;
+  width: 60px;
+  height: 64.8px;
 }
 .agromite {
   position: absolute;
-  top: 62.5px;
-  left: 4.9px;
+  top: 43.9px;
+  left: 3.5px;
   letter-spacing: 0.1em;
   font-weight: 500;
   display: flex;
   align-items: center;
-  width: 46.9px;
-  height: 9px;
+  width: 33px;
+  height: 6.4px;
 }
 .downloadIcon {
   position: absolute;
   top: 0;
   left: 0;
-  width: 55.9px;
-  height: 61.7px;
+  width: 39.3px;
+  height: 43.4px;
   object-fit: cover;
 }
 .agromiteParent {
-  width: 55.9px;
+  width: 39.3px;
   position: relative;
-  height: 71.5px;
+  height: 50.3px;
 }
 .download1Parent,
 .frameContainer {
@@ -126,21 +126,21 @@
 .download1Parent {
   flex: 1;
   align-items: center;
-  gap: 0 43.76px;
+  gap: 0 30.77px;
   text-align: left;
-  font-size: var(--font-size-5xs-6);
+  font-size: var(--font-size-7xs-3);
   color: var(--color-black);
   font-family: var(--font-montserrat);
 }
 .frameContainer {
   align-self: stretch;
   align-items: flex-start;
-  gap: 0 92px;
+  gap: 0 64.69px;
 }
 .mofaColorIcon {
-  width: 303.5px;
+  width: 213.4px;
   position: relative;
-  height: 67.9px;
+  height: 47.8px;
   object-fit: cover;
 }
 .frameParent,
@@ -154,8 +154,8 @@
   align-self: stretch;
 }
 .frameParent {
-  width: 974.1px;
-  gap: var(--gap-11xl);
+  width: 684.9px;
+  gap: 21.09px;
   opacity: 1;
 }
 .frameParent.animate {
@@ -172,9 +172,9 @@
 .theRenownCompaniesThatTrusParent {
   flex-direction: column;
   justify-content: flex-start;
-  gap: 35px 0;
+  gap: 24.61px 0;
   text-align: center;
-  font-size: var(--font-size-lgi);
+  font-size: var(--font-size-sm-4);
   color: var(--color-darkolivegreen-100);
   font-family: var(--font-poppins);
 }
@@ -199,7 +199,7 @@
     align-self: stretch;
     width: auto;
     flex-direction: row;
-    gap: 0 92px;
+    gap: 0 64.69px;
     padding: var(--padding-3xs) var(--padding-mini);
     box-sizing: border-box;
   }
@@ -217,14 +217,14 @@
 }
 @media screen and (max-width: 960px) {
   .download5Parent {
-    gap: 0 89px;
+    gap: 0 62.58px;
   }
   .captureParent {
-    gap: 0 68px;
+    gap: 0 47.81px;
   }
   .frameGroup {
     flex-direction: row;
-    gap: 0 92px;
+    gap: 0 64.69px;
   }
   .download1Parent,
   .download5Group {

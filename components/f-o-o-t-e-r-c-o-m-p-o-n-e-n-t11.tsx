@@ -76,106 +76,106 @@ const FOOTERCOMPONENT11: NextPage = () => {
               <img
                 className={styles.download5Icon}
                 alt=""
-                src="/download-520@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.download5Icon1}
                 alt=""
-                src="/download-521@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.captureIcon}
                 alt=""
-                src="/capture12@2x.png"
+                src="/capture@2x.png"
               />
               <img
                 className={styles.mofaColorIcon}
                 alt=""
-                src="/mofa-color11@2x.png"
+                src="/mofa-color@2x.png"
               />
               <img
                 className={styles.download3Icon}
                 alt=""
-                src="/download-310@2x.png"
+                src="/download-3@2x.png"
               />
-              <img className={styles.imagesIcon} alt="" src="/images8@2x.png" />
+              <img className={styles.imagesIcon} alt="" src="/images@2x.png" />
               <img
                 className={styles.download6Icon}
                 alt=""
-                src="/download-611@2x.png"
+                src="/download-6@2x.png"
               />
               <img
                 className={styles.download1Icon}
                 alt=""
-                src="/download-111@2x.png"
+                src="/download-1@2x.png"
               />
               <img
                 className={styles.downloadIcon}
                 alt=""
-                src="/download13@2x.png"
+                src="/download@2x.png"
               />
               <img
                 className={styles.images1Icon}
                 alt=""
-                src="/images-111@2x.png"
+                src="/images-1@2x.png"
               />
               <img
                 className={styles.download2Icon}
                 alt=""
-                src="/download-211@2x.png"
+                src="/download-2@2x.png"
               />
             </div>
             <div className={styles.download5Group}>
               <img
                 className={styles.download5Icon}
                 alt=""
-                src="/download-520@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.download5Icon1}
                 alt=""
-                src="/download-521@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.captureIcon}
                 alt=""
-                src="/capture12@2x.png"
+                src="/capture@2x.png"
               />
               <img
                 className={styles.mofaColorIcon}
                 alt=""
-                src="/mofa-color11@2x.png"
+                src="/mofa-color@2x.png"
               />
               <img
                 className={styles.download3Icon}
                 alt=""
-                src="/download-310@2x.png"
+                src="/download-3@2x.png"
               />
-              <img className={styles.imagesIcon} alt="" src="/images8@2x.png" />
+              <img className={styles.imagesIcon} alt="" src="/images@2x.png" />
               <img
                 className={styles.download6Icon}
                 alt=""
-                src="/download-611@2x.png"
+                src="/download-6@2x.png"
               />
               <img
                 className={styles.download1Icon}
                 alt=""
-                src="/download-111@2x.png"
+                src="/download-1@2x.png"
               />
               <img
                 className={styles.downloadIcon}
                 alt=""
-                src="/download13@2x.png"
+                src="/download@2x.png"
               />
               <img
                 className={styles.images1Icon}
                 alt=""
-                src="/images-111@2x.png"
+                src="/images-1@2x.png"
               />
               <img
                 className={styles.download2Icon}
                 alt=""
-                src="/download-211@2x.png"
+                src="/download-2@2x.png"
               />
             </div>
           </div>
@@ -257,7 +257,7 @@ const FOOTERCOMPONENT11: NextPage = () => {
                     <img
                       className={styles.frameChild}
                       alt=""
-                      src="/line-115@2x.png"
+                      src="/line-1@2x.png"
                     />
                   </div>
                 </div>
@@ -333,14 +333,14 @@ const FOOTERCOMPONENT11: NextPage = () => {
                   <img
                     className={styles.vectorIcon1}
                     alt=""
-                    src="/vector1.svg"
+                    src="/vector.svg"
                   />
                 </div>
                 <div className={styles.vectorContainer}>
                   <img
                     className={styles.vectorIcon2}
                     alt=""
-                    src="/vector2.svg"
+                    src="/vector.svg"
                   />
                 </div>
               </div>

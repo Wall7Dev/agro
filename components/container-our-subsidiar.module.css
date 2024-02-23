@@ -37,16 +37,16 @@
   flex-direction: column;
   opacity: 1;
   text-align: center;
-  font-size: var(--font-size-51xl);
+  font-size: var(--font-size-38xl-6);
   color: var(--color-darkolivegreen-400);
 }
 .greencardholderInner.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .bslMain1Icon {
-  width: 259px;
+  width: 213.1px;
   position: relative;
-  height: 44px;
+  height: 36.2px;
   overflow: hidden;
   flex-shrink: 0;
   object-fit: cover;
@@ -58,8 +58,8 @@
 .getInTouch {
   margin: 0;
   position: relative;
-  font-size: var(--font-size-xl);
-  line-height: 12.72px;
+  font-size: var(--font-size-base-4);
+  line-height: 10.47px;
   font-weight: 400;
   font-family: var(--font-poppins);
   color: var(--color-white);
@@ -69,11 +69,11 @@
 .getInTouchWrapper {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.530691146850586px 41.06138229370117px;
   background-color: transparent;
-  border-radius: 40.54px;
+  border-radius: 33.36px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
-  height: 44px;
+  height: 36.2px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -86,29 +86,31 @@
 }
 .bslMain1Parent,
 .greencardholderChild {
-  align-self: stretch;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
 }
 .bslMain1Parent {
-  border-radius: var(--br-mini);
+  width: 1143.8px;
+  border-radius: 12.34px;
   background-color: var(--color-darkolivegreen-500);
-  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-19xl);
-  gap: 30px 0;
+  padding: 28.799999237060547px 28.799999237060547px 31.268571853637695px;
+  box-sizing: border-box;
+  gap: 24.69px 0;
 }
 .greencardholderChild {
-  padding: var(--padding-3xs);
+  align-self: stretch;
+  padding: 8.228570938110352px;
   opacity: 1;
 }
 .greencardholderChild.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .spectrumMain1Icon {
-  width: 164px;
+  width: 134.9px;
   position: relative;
-  height: 41px;
+  height: 33.7px;
   overflow: hidden;
   flex-shrink: 0;
   object-fit: cover;
@@ -119,8 +121,8 @@
 .getInTouch1 {
   margin: 0;
   position: relative;
-  font-size: var(--font-size-xl);
-  line-height: 12.72px;
+  font-size: var(--font-size-base-4);
+  line-height: 10.47px;
   font-weight: 400;
   font-family: var(--font-poppins);
   color: var(--color-white);
@@ -130,11 +132,11 @@
 .getInTouchContainer {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.530691146850586px 41.06138229370117px;
   background-color: transparent;
-  border-radius: 40.54px;
+  border-radius: 33.36px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
-  height: 48px;
+  height: 39.5px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -147,33 +149,33 @@
 }
 .spectrumMain1Parent {
   align-self: stretch;
-  border-radius: var(--br-mini);
+  border-radius: 12.34px;
   background-color: var(--color-darkolivegreen-500);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-19xl);
-  gap: 30px 0;
+  padding: 28.799999237060547px 28.799999237060547px 31.268571853637695px;
+  gap: 24.69px 0;
   opacity: 1;
 }
 .spectrumMain1Parent.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
 }
 .isgMain1Icon {
-  width: 130px;
+  width: 107px;
   position: relative;
-  height: 62px;
+  height: 51px;
   overflow: hidden;
   flex-shrink: 0;
   object-fit: cover;
 }
 .getInTouch2 {
   margin: 0;
-  height: 13px;
+  height: 11px;
   position: relative;
-  font-size: var(--font-size-mid);
-  line-height: 12.72px;
+  font-size: var(--font-size-sm);
+  line-height: 10.47px;
   font-weight: 400;
   font-family: var(--font-poppins);
   color: var(--color-white);
@@ -184,33 +186,38 @@
 .getInTouchFrame {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.530691146850586px 41.06138229370117px;
   background-color: transparent;
-  border-radius: 40.54px;
+  border-radius: 33.36px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
-.isgMain1Parent {
-  border-radius: var(--br-mini);
-  background-color: var(--color-darkolivegreen-500);
-  align-items: flex-start;
-  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-17xl);
-  gap: 30px 0;
-}
 .frameDiv,
 .instanceWrapper,
 .isgMain1Parent {
-  align-self: stretch;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
+.isgMain1Parent {
+  width: 1143.8px;
+  border-radius: 12.34px;
+  background-color: var(--color-darkolivegreen-500);
+  align-items: flex-start;
+  padding: 28.799999237060547px 28.799999237060547px 29.62285614013672px;
+  box-sizing: border-box;
+  gap: 24.69px 0;
+}
+.frameDiv,
+.instanceWrapper {
+  align-self: stretch;
+}
 .instanceWrapper {
   align-items: flex-start;
-  padding: var(--padding-3xs);
+  padding: 8.228570938110352px;
 }
 .frameDiv {
   align-items: center;
@@ -222,16 +229,16 @@
 .bdpMain1Icon {
   max-width: 100%;
   overflow: hidden;
-  height: 52px;
+  height: 42.8px;
   flex-shrink: 0;
   object-fit: cover;
 }
 .getInTouch3 {
   margin: 0;
-  height: 13px;
+  height: 11px;
   position: relative;
-  font-size: var(--font-size-lgi);
-  line-height: 12.72px;
+  font-size: var(--font-size-base-6);
+  line-height: 10.47px;
   font-weight: 400;
   font-family: var(--font-poppins);
   color: var(--color-white);
@@ -242,11 +249,11 @@
 .frameButton {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.530691146850586px 41.06138229370117px;
   background-color: transparent;
-  border-radius: 40.54px;
+  border-radius: 33.36px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
-  height: 62.9px;
+  height: 51.8px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -266,10 +273,10 @@
 }
 .bdpMain1Parent {
   align-self: stretch;
-  border-radius: var(--br-mini);
+  border-radius: 12.34px;
   background-color: var(--color-darkolivegreen-500);
-  padding: var(--padding-16xl) var(--padding-16xl) var(--padding-17xl);
-  gap: 30px 0;
+  padding: 28.799999237060547px 28.799999237060547px 29.62285614013672px;
+  gap: 24.69px 0;
   opacity: 1;
 }
 .bdpMain1Parent.animate {
@@ -277,11 +284,11 @@
 }
 .greencardholder {
   flex: 1;
-  padding: 0 var(--padding-xl);
+  padding: 0 16.457141876220703px;
   box-sizing: border-box;
-  gap: 45px 0;
-  min-width: 550px;
-  max-width: 1550px;
+  gap: 37.03px 0;
+  min-width: 452.5714416503906px;
+  max-width: 1275.4285888671875px;
 }
 .containerOursubsidiar {
   align-self: stretch;
@@ -291,10 +298,10 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-41xl) var(--padding-131xl);
+  padding: 49.371429443359375px 123.42857360839844px;
   opacity: 0;
   text-align: left;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-sm-2);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
@@ -411,7 +418,7 @@
   }
   .greencardholderInner {
     height: auto;
-    gap: 25px 0;
+    gap: 20.57px 0;
   }
   .getInTouch {
     font-size: var(--font-size-base);
@@ -443,6 +450,6 @@
     box-sizing: border-box;
   }
   .containerOursubsidiar {
-    gap: 45px 10px;
+    gap: 45px 8.23px;
   }
 }

@@ -7,17 +7,17 @@
   }
 }
 .gradientmsgChild {
-  width: 560px;
+  width: 466.7px;
   position: relative;
-  height: 430.4px;
+  height: 358.8px;
   object-fit: cover;
 }
 .weSupportAgribusinessContainer {
   align-self: stretch;
-  height: 150px;
+  height: 126px;
   position: relative;
   letter-spacing: -0.02em;
-  line-height: 50px;
+  line-height: 41.67px;
   text-transform: capitalize;
   display: inline-block;
   opacity: 1;
@@ -31,23 +31,23 @@
   cursor: pointer;
 }
 .arrowIcon {
-  width: 14px;
+  width: 11.7px;
   max-width: 100%;
   overflow: hidden;
-  height: 14.7px;
+  height: 12.3px;
 }
 .viewProducts {
   text-transform: uppercase;
   font-weight: 600;
 }
 .vectorParent {
-  border: 3px solid var(--color-seagreen);
+  border: 2.5px solid var(--color-seagreen);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-6xl) var(--padding-21xl);
-  gap: 0 10px;
+  padding: 20.836627960205078px 33.33860397338867px;
+  gap: 0 8.33px;
   cursor: pointer;
 }
 .weSupportAgribusinessIndustParent {
@@ -56,8 +56,8 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 var(--padding-xl);
-  gap: 50px 0;
+  padding: 0 16.669301986694336px;
+  gap: 41.67px 0;
 }
 .gradientmsg,
 .gradientmsgWrapper {
@@ -66,20 +66,20 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  padding: 0 var(--padding-xl);
+  padding: 0 16.669301986694336px;
 }
 .gradientmsgWrapper {
   background-color: var(--color-white);
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-3xs);
+  padding: 8.334650993347168px;
 }
 .base {
-  width: 500px;
+  width: 416.7px;
   position: relative;
   background-color: var(--color-goldenrod-300);
-  height: 10px;
+  height: 8.3px;
 }
 .cta {
   align-self: stretch;
@@ -87,10 +87,10 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-41xl) var(--padding-181xl);
+  padding: 50.00790786743164px 166.69302368164062px;
   z-index: 6;
   text-align: left;
-  font-size: var(--font-size-mini);
+  font-size: var(--font-size-smi-5);
   color: var(--color-darkslategray-100);
   font-family: var(--font-lexend-deca);
 }

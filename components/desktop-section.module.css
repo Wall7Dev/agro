@@ -48,12 +48,12 @@
 }
 .bgBlur2,
 .bgBlurIcon {
-  width: 795.4px;
-  height: 1191px;
+  width: 662.8px;
+  height: 992.8px;
   position: absolute;
   margin: 0 !important;
-  top: 413px;
-  left: -177px;
+  top: 344.3px;
+  left: -147.5px;
   opacity: 0;
   z-index: 0;
 }
@@ -61,13 +61,13 @@
   animation: 13s ease 2s infinite normal forwards slide-in-top;
 }
 .bgBlur2 {
-  width: 650px;
-  height: 650px;
-  top: 1009px;
-  left: 1170px;
+  width: 541.7px;
+  height: 541.8px;
+  top: 841.1px;
+  left: 975px;
   border-radius: 50%;
   background-color: var(--color-goldenrod-600);
-  filter: blur(146.6px);
+  filter: blur(122.19px);
   z-index: 1;
 }
 .bgBlur2.animate {
@@ -85,7 +85,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.334650993347168px;
 }
 .agrospectrumLimitedIs {
   flex: 1;
@@ -97,8 +97,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
-  font-size: var(--font-size-base);
+  padding: 8.334650993347168px;
+  font-size: var(--font-size-sm-3);
   color: var(--color-white);
 }
 .introAgrospectrum {
@@ -108,8 +108,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-xl) var(--padding-100xl);
-  gap: 10px 0;
+  padding: 16.669301986694336px 99.18234252929688px;
+  gap: 8.33px 0;
   opacity: 1;
 }
 .introAgrospectrum.animate,
@@ -123,19 +123,19 @@
 .whyWorkWithContainer {
   margin: 0;
   align-self: stretch;
-  height: 150px;
+  height: 125px;
   position: relative;
-  font-size: var(--font-size-81xl);
+  font-size: var(--font-size-64xl-3);
   color: var(--color-goldenrod-100);
   display: inline-block;
   opacity: 1;
   font-family: inherit;
 }
 .frameChild {
-  width: 475px;
+  width: 395.8px;
   position: relative;
-  border-radius: var(--br-21xl);
-  height: 347px;
+  border-radius: 33.34px;
+  height: 289.3px;
   object-fit: cover;
 }
 .rectangleWrapper {
@@ -147,7 +147,7 @@
 }
 .weOfferA {
   align-self: stretch;
-  height: 108px;
+  height: 90px;
   position: relative;
   font-weight: 600;
   display: inline-block;
@@ -158,9 +158,9 @@
 }
 .inTheHeartContainer {
   align-self: stretch;
-  height: 110px;
+  height: 90px;
   position: relative;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini);
   display: inline-block;
   opacity: 1;
 }
@@ -173,7 +173,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 48px 0;
+  gap: 40.01px 0;
 }
 .frameParent,
 .frameWrapper {
@@ -184,12 +184,12 @@
 .frameWrapper {
   flex: 1;
   flex-direction: column;
-  padding: var(--padding-3xs);
+  padding: 8.334650993347168px;
 }
 .frameParent {
   align-self: stretch;
   flex-direction: row;
-  gap: var(--gap-57xl);
+  gap: 63.34px;
 }
 .ghanasAgriculturalSector,
 .unlockingGhanasAgriculturalContainer {
@@ -199,15 +199,15 @@
   opacity: 1;
 }
 .unlockingGhanasAgriculturalContainer {
-  height: 72px;
+  height: 60px;
   font-weight: 600;
 }
 .unlockingGhanasAgriculturalContainer.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .ghanasAgriculturalSector {
-  height: 132px;
-  font-size: var(--font-size-lg);
+  height: 108px;
+  font-size: var(--font-size-mini);
 }
 .ghanasAgriculturalSector.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
@@ -216,7 +216,7 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 15px 0;
+  gap: 12.5px 0;
 }
 .frameGroup,
 .rectangleContainer,
@@ -233,7 +233,7 @@
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
-  gap: 0 76px;
+  gap: 0 63.34px;
 }
 .featuresimages,
 .introAgrospectrumParent {
@@ -243,24 +243,24 @@
   justify-content: flex-start;
 }
 .featuresimages {
-  width: 1036px;
-  gap: 100px 0;
+  width: 863.3px;
+  gap: 83.35px 0;
   text-align: left;
-  font-size: var(--font-size-11xl);
+  font-size: var(--font-size-6xl);
   color: var(--color-white);
   font-family: var(--font-inter);
 }
 .introAgrospectrumParent {
-  gap: 30px 0;
+  gap: 25px 0;
   z-index: 2;
 }
 .desktopSection2Child {
-  width: 608px;
+  width: 506.7px;
   position: absolute;
   margin: 0 !important;
-  top: -121.9px;
-  left: 1253px;
-  height: 608px;
+  top: -101.6px;
+  left: 1044.2px;
+  height: 506.8px;
   z-index: 3;
 }
 .desktopSection2 {
@@ -271,11 +271,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-41xl) var(--padding-181xl) var(--padding-61xl);
+  padding: 50.00790786743164px 166.69302368164062px 66.67720794677734px;
   position: relative;
-  gap: var(--gap-3xs);
+  gap: 8.33px;
   text-align: center;
-  font-size: var(--font-size-15xl);
+  font-size: var(--font-size-9xl-3);
   color: var(--color-goldenrod-700);
   font-family: var(--font-poppins);
 }

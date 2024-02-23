@@ -7,9 +7,9 @@
   }
 }
 .leftGroupIcon {
-  width: 54.5px;
+  width: 45.4px;
   position: relative;
-  height: 54.5px;
+  height: 45.4px;
   object-fit: cover;
   opacity: 0.78;
 }
@@ -30,9 +30,9 @@
   justify-content: center;
 }
 .leftGroupIcon1 {
-  width: 53.5px;
+  width: 44.6px;
   position: relative;
-  height: 54.5px;
+  height: 45.4px;
   object-fit: contain;
   opacity: 0.78;
 }
@@ -48,7 +48,7 @@
 }
 .missionInner {
   align-self: stretch;
-  height: 159px;
+  height: 132.5px;
   justify-content: center;
   opacity: 1;
   cursor: pointer;
@@ -61,12 +61,12 @@
 .toExtendDigitalization {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-2xl-8);
+  font-size: var(--font-size-lg-2);
   font-family: var(--font-inter);
   color: var(--color-white);
 }
 .mission {
-  width: 1728px;
+  width: 1440px;
   background-color: var(--color-gray-600);
   overflow: hidden;
   flex-shrink: 0;
@@ -74,10 +74,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-61xl) var(--padding-181xl);
+  padding: 66.67720794677734px 166.69302368164062px;
   box-sizing: border-box;
   text-align: center;
-  font-size: var(--font-size-121xl);
+  font-size: var(--font-size-97xl-7);
   color: var(--color-goldenrod-100);
   font-family: var(--font-poppins);
 }
@@ -90,23 +90,23 @@
   font-family: inherit;
 }
 .integrityWrapper {
-  width: 707px;
+  width: 589.2px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
 }
 .leftGroupIcon3 {
-  width: 53.5px;
+  width: 44.6px;
   position: relative;
-  height: 54.5px;
+  height: 45.4px;
   object-fit: contain;
   opacity: 0.78;
   cursor: pointer;
 }
 .inner {
   align-self: stretch;
-  height: 159px;
+  height: 132.5px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -116,32 +116,32 @@
 .ourCredibilityAs {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-6xl);
+  font-size: var(--font-size-xl-8);
   font-family: var(--font-inter);
   color: var(--color-white);
   white-space: pre-wrap;
   text-align: center;
 }
 .section {
-  width: 1701px;
+  width: 1417.5px;
   background-color: var(--color-gray-600);
-  height: 345px;
+  height: 287.6px;
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-61xl) var(--padding-181xl);
+  padding: 66.67720794677734px 166.69302368164062px;
   box-sizing: border-box;
   text-align: left;
-  font-size: var(--font-size-121xl);
+  font-size: var(--font-size-97xl-7);
   color: var(--color-darkgreen-200);
   font-family: var(--font-poppins);
 }
 .resourcefulness {
   margin: 0;
-  width: 1089px;
+  width: 907.5px;
   position: relative;
   font-size: inherit;
   letter-spacing: 0.02em;
@@ -162,17 +162,17 @@
   opacity: 1;
 }
 .section1 {
-  width: 1701px;
+  width: 1417.5px;
   background-color: var(--color-gray-600);
-  height: 345px;
+  height: 287.6px;
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: column;
   justify-content: flex-start;
-  padding: var(--padding-61xl) var(--padding-181xl);
+  padding: 66.67720794677734px 166.69302368164062px;
   box-sizing: border-box;
   text-align: left;
-  font-size: var(--font-size-101xl);
+  font-size: var(--font-size-81xl);
   color: var(--color-goldenrod-300);
   font-family: var(--font-poppins);
 }
@@ -182,7 +182,7 @@
 .weOfferAContainer {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-6xl);
+  font-size: var(--font-size-xl-8);
   font-family: var(--font-inter);
   color: var(--color-white);
   text-align: center;
@@ -194,16 +194,16 @@
   justify-content: flex-start;
 }
 .section2 {
-  width: 1701px;
+  width: 1417.5px;
   background-color: var(--color-gray-600);
-  height: 320px;
+  height: 266.8px;
   flex-shrink: 0;
   flex-direction: column;
   align-items: center;
-  padding: var(--padding-61xl) var(--padding-181xl);
+  padding: 66.67720794677734px 166.69302368164062px;
   box-sizing: border-box;
   text-align: left;
-  font-size: var(--font-size-121xl);
+  font-size: var(--font-size-97xl-7);
   color: var(--color-darkgreen-200);
   font-family: var(--font-poppins);
 }
@@ -211,7 +211,7 @@
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
-  gap: 0 1px;
+  gap: 0 0.83px;
 }
 @media screen and (max-width: 1200px) {
   .parentCaurosol {

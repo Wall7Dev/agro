@@ -10,116 +10,116 @@
 .download5Icon,
 .download5Icon1 {
   position: absolute;
-  top: 12.6px;
+  top: 10.5px;
   left: 0;
-  width: 70.6px;
-  height: 58.8px;
+  width: 58.8px;
+  height: 49px;
   object-fit: cover;
 }
 .captureIcon,
 .download5Icon1 {
-  top: 13.4px;
-  left: 125.7px;
-  width: 87.4px;
-  height: 57.1px;
+  top: 11.2px;
+  left: 104.7px;
+  width: 72.8px;
+  height: 47.6px;
 }
 .captureIcon {
-  top: 10.9px;
-  left: 268.1px;
-  width: 141.9px;
-  height: 62.2px;
+  top: 9.1px;
+  left: 223.4px;
+  width: 118.3px;
+  height: 51.8px;
 }
 .download3Icon,
 .imagesIcon,
 .mofaColorIcon {
   position: absolute;
-  top: 16px;
-  left: 465.1px;
-  width: 248.6px;
-  height: 52.1px;
+  top: 13.3px;
+  left: 387.6px;
+  width: 207.2px;
+  height: 43.4px;
   object-fit: cover;
 }
 .download3Icon,
 .imagesIcon {
-  top: 17.6px;
-  left: 768.9px;
-  width: 49.6px;
-  height: 48.7px;
+  top: 14.7px;
+  left: 640.7px;
+  width: 41.3px;
+  height: 40.6px;
 }
 .imagesIcon {
-  top: 22.3px;
-  left: 873.5px;
-  width: 115.9px;
-  height: 39.5px;
+  top: 18.5px;
+  left: 727.9px;
+  width: 96.6px;
+  height: 32.9px;
   mix-blend-mode: difference;
 }
 .download1Icon,
 .download6Icon {
   position: absolute;
-  top: 12.2px;
-  left: 1044.5px;
-  width: 104.1px;
-  height: 59.6px;
+  top: 10.1px;
+  left: 870.4px;
+  width: 86.8px;
+  height: 49.7px;
   object-fit: cover;
 }
 .download1Icon {
-  top: 14.7px;
-  left: 1203.8px;
-  width: 137.7px;
-  height: 54.6px;
+  top: 12.2px;
+  left: 1003.1px;
+  width: 114.8px;
+  height: 45.5px;
 }
 .download2Icon,
 .downloadIcon,
 .images1Icon {
   position: absolute;
-  top: 10.5px;
-  left: 1396.6px;
-  width: 57.1px;
-  height: 63px;
+  top: 8.7px;
+  left: 1163.9px;
+  width: 47.6px;
+  height: 52.5px;
   object-fit: cover;
 }
 .download2Icon,
 .images1Icon {
   top: 0;
-  left: 1508.8px;
-  width: 84px;
-  height: 84px;
+  left: 1257.4px;
+  width: 70px;
+  height: 70px;
 }
 .download2Icon {
-  top: 16px;
-  left: 1647.9px;
-  width: 52.1px;
-  height: 52.1px;
+  top: 13.3px;
+  left: 1373.3px;
+  width: 43.4px;
+  height: 43.4px;
 }
 .download5Group,
 .download5Parent,
 .frameParent {
   position: absolute;
   top: 0;
-  left: 1765px;
-  width: 1700px;
-  height: 84px;
+  left: 1470.8px;
+  width: 1416.7px;
+  height: 70px;
 }
 .download5Group,
 .frameParent {
   left: 0;
 }
 .frameParent {
-  left: -31px;
-  width: 3467px;
+  left: -25.8px;
+  width: 2889.2px;
 }
 .component1 {
-  width: 1758px;
+  width: 1465px;
   position: relative;
   background: linear-gradient(90deg, #fbfbfb, rgba(161, 181, 161, 0.99));
-  height: 84px;
+  height: 70px;
   overflow: hidden;
   flex-shrink: 0;
 }
 .nowWere {
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 46px;
+  letter-spacing: 0.75px;
+  line-height: 38.33px;
   text-transform: uppercase;
 }
 .nowWereWrapper {
@@ -128,13 +128,13 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-3xs);
+  padding: 8.333333015441895px;
 }
 .nowWere1 {
   flex: 1;
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 46px;
+  letter-spacing: 0.75px;
+  line-height: 38.33px;
   text-transform: uppercase;
   font-weight: 800;
 }
@@ -144,8 +144,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-3xs);
-  font-size: var(--font-size-26xl);
+  padding: 8.333333015441895px;
+  font-size: var(--font-size-18xl-5);
 }
 .transformYourAgricultural {
   margin: 0;
@@ -156,7 +156,7 @@
 .nuncUltricesTellusContainer {
   flex: 1;
   position: relative;
-  line-height: 32px;
+  line-height: 26.67px;
 }
 .nuncUltricesTellusWrapper {
   align-self: stretch;
@@ -164,14 +164,14 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 var(--padding-3xs) var(--padding-3xs);
-  font-size: var(--font-size-xl);
+  padding: 0 8.333333015441895px 8.333333015441895px;
+  font-size: var(--font-size-base-7);
   color: var(--color-gainsboro-200);
 }
 .getInTouch {
   position: relative;
-  font-size: var(--font-size-xl);
-  line-height: 12.72px;
+  font-size: 16.6px;
+  line-height: 10.6px;
   font-family: var(--font-poppins);
   color: var(--color-white);
   text-align: left;
@@ -183,12 +183,12 @@
 .getInTouchWrapper {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.792076110839844px 41.58415222167969px;
   background-color: transparent;
-  width: 246.4px;
-  border-radius: 40.54px;
+  width: 205.3px;
+  border-radius: 33.79px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
-  height: 63px;
+  height: 52.5px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -205,22 +205,22 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-xl) 0 var(--padding-21xl);
-  gap: 8px 0;
+  padding: 16.66666603088379px 0 33.33333206176758px;
+  gap: 6.67px 0;
   color: var(--color-white);
 }
 .nowWere2,
 .nowWere3 {
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 24px;
+  letter-spacing: 0.75px;
+  line-height: 20px;
   text-transform: uppercase;
   font-weight: 500;
 }
 .nowWere2 {
-  width: 95px;
+  width: 79.2px;
   display: inline-block;
-  height: 46px;
+  height: 38.3px;
   flex-shrink: 0;
 }
 .nowWere3 {
@@ -236,7 +236,7 @@
 }
 .nowWereFrame {
   align-self: stretch;
-  height: 29px;
+  height: 24.2px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -249,13 +249,13 @@
 .nowWere5 {
   flex: 1;
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 24px;
+  letter-spacing: 0.75px;
+  line-height: 20px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 28px;
+  height: 23.3px;
 }
 .nowWere6,
 .nowWereWrapper2 {
@@ -264,24 +264,24 @@
   align-items: center;
 }
 .nowWereWrapper2 {
-  height: 35px;
+  height: 29.2px;
   flex-direction: row;
   justify-content: flex-start;
-  padding: var(--padding-3xs) 0;
+  padding: 8.333333015441895px 0;
   box-sizing: border-box;
 }
 .nowWere6 {
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 24px;
+  letter-spacing: 0.75px;
+  line-height: 20px;
   text-transform: uppercase;
   font-weight: 500;
-  height: 32px;
+  height: 26.7px;
   flex-shrink: 0;
   cursor: pointer;
 }
 .frameChild {
-  width: 83px;
+  width: 69.2px;
   height: 0;
   position: relative;
   object-fit: cover;
@@ -308,32 +308,32 @@
 }
 .frameDiv {
   align-self: stretch;
-  height: 144px;
-  font-size: var(--font-size-base);
+  height: 120px;
+  font-size: var(--font-size-sm-3);
   color: var(--color-white);
 }
 .nowWereParent {
   flex: 1;
-  height: 205px;
+  height: 170.8px;
 }
 .nowWere7,
 .nowWere8 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.9px;
+  letter-spacing: 0.75px;
 }
 .nowWere7 {
-  line-height: 46px;
+  line-height: 38.33px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 46px;
+  height: 38.3px;
   flex-shrink: 0;
 }
 .nowWere8 {
-  font-size: var(--font-size-base);
-  line-height: 24px;
+  font-size: var(--font-size-sm-3);
+  line-height: 20px;
   text-transform: capitalize;
   font-weight: 600;
   color: var(--color-white);
@@ -344,25 +344,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 4px 0;
+  gap: 3.33px 0;
 }
 .nowWere10,
 .nowWere9 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.9px;
+  letter-spacing: 0.75px;
 }
 .nowWere9 {
-  line-height: 46px;
+  line-height: 38.33px;
   text-transform: uppercase;
   font-weight: 600;
   display: flex;
   align-items: center;
-  height: 36px;
+  height: 30px;
   flex-shrink: 0;
 }
 .nowWere10 {
-  line-height: 24px;
+  line-height: 20px;
   text-transform: capitalize;
   font-weight: 500;
 }
@@ -375,11 +375,11 @@
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 13px 0;
+  gap: 10.83px 0;
 }
 .nowWereParent2 {
-  gap: 7px 0;
-  font-size: var(--font-size-base);
+  gap: 5.83px 0;
+  font-size: var(--font-size-sm-3);
   color: var(--color-white);
 }
 .frameContainer,
@@ -392,20 +392,20 @@
 .frameParent1 {
   flex: 1;
   flex-direction: column;
-  gap: 34px 0;
-  font-size: var(--font-size-mini);
+  gap: 28.33px 0;
+  font-size: var(--font-size-smi-5);
 }
 .frameContainer {
   align-self: stretch;
   flex-direction: row;
-  gap: 0 2px;
+  gap: 0 1.67px;
 }
 .nowWere13,
 .nowWere14 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 46px;
+  letter-spacing: 0.75px;
+  line-height: 38.33px;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -420,14 +420,14 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 10px 0;
+  gap: 8.33px 0;
 }
 .nowWere17,
 .nowWere18 {
   align-self: stretch;
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 46px;
+  letter-spacing: 0.75px;
+  line-height: 38.33px;
   text-transform: capitalize;
   font-weight: 600;
 }
@@ -435,7 +435,7 @@
   font-weight: 500;
   display: flex;
   align-items: center;
-  height: 27px;
+  height: 22.5px;
   flex-shrink: 0;
 }
 .nowWereParent5,
@@ -447,11 +447,11 @@
 }
 .nowWereParent6 {
   align-self: stretch;
-  gap: 7px 0;
+  gap: 5.83px 0;
 }
 .nowWereParent5 {
   flex: 1;
-  gap: 3px 0;
+  gap: 2.5px 0;
 }
 .frameGroup,
 .frameParent2 {
@@ -462,16 +462,16 @@
 .frameParent2 {
   flex-direction: row;
   justify-content: space-between;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-sm-3);
   color: var(--color-white);
 }
 .frameGroup {
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 0 var(--padding-11xl);
-  gap: 40px 0;
-  font-size: var(--font-size-sm);
+  padding: 0 var(--padding-6xl);
+  gap: 33.33px 0;
+  font-size: var(--font-size-xs-7);
 }
 .frameItem,
 .nowWere19 {
@@ -479,16 +479,16 @@
   cursor: pointer;
 }
 .frameItem {
-  width: 21px;
+  width: 17.5px;
   max-height: 100%;
 }
 .frameItem:hover {
   width: 24px;
 }
 .nowWere19 {
-  font-size: var(--font-size-lg);
-  letter-spacing: 1.15px;
-  line-height: 58.74px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.96px;
+  line-height: 48.95px;
   text-transform: uppercase;
   font-weight: 500;
   font-family: var(--font-poppins);
@@ -510,16 +510,16 @@
   background-color: transparent;
   flex-direction: row;
   justify-content: flex-start;
-  gap: 0 20px;
+  gap: 0 16.67px;
 }
 .nowWere21 {
   position: absolute;
-  height: 203.33%;
-  width: 96.15%;
-  top: -51.85%;
-  left: -0.71%;
-  letter-spacing: 1.15px;
-  line-height: 58.74px;
+  height: 203.56%;
+  width: 96.14%;
+  top: -51.56%;
+  left: -0.7%;
+  letter-spacing: 0.96px;
+  line-height: 48.95px;
   text-transform: uppercase;
   font-weight: 500;
 }
@@ -529,31 +529,31 @@
   position: relative;
 }
 .nowWere20 {
-  height: 27px;
+  height: 22.5px;
 }
 .nowWere22 {
-  letter-spacing: 1.34px;
-  line-height: 68.62px;
+  letter-spacing: 1.12px;
+  line-height: 57.19px;
   text-transform: capitalize;
   font-weight: 500;
   color: var(--color-white);
 }
 .nowWereParent7 {
   align-self: stretch;
-  height: 59px;
+  height: 49.2px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 10px 0;
+  gap: 8.33px 0;
 }
 .nowWere24 {
   position: absolute;
   width: 96.14%;
-  top: -57.69%;
-  left: -0.76%;
-  letter-spacing: 1.15px;
-  line-height: 58.74px;
+  top: -57.6%;
+  left: -0.77%;
+  letter-spacing: 0.96px;
+  line-height: 48.95px;
   text-transform: uppercase;
   font-weight: 500;
   display: flex;
@@ -562,115 +562,115 @@
 .nowWere23 {
   align-self: stretch;
   position: relative;
-  height: 26px;
+  height: 21.7px;
 }
 .nowWere26 {
   position: absolute;
-  top: 7px;
-  left: -1px;
-  letter-spacing: 1.15px;
-  line-height: 58.74px;
+  top: 5.8px;
+  left: -0.8px;
+  letter-spacing: 0.96px;
+  line-height: 48.95px;
   text-transform: lowercase;
   font-weight: 500;
 }
 .nowWere25 {
   align-self: stretch;
   position: relative;
-  height: 26px;
+  height: 21.7px;
   color: var(--color-white);
 }
 .nowWereParent8 {
-  width: 264px;
+  width: 220px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 10px 0;
+  gap: 8.33px 0;
 }
 .nowWere28 {
   position: absolute;
-  top: -25.64%;
+  top: -25.54%;
   left: 0;
-  letter-spacing: 1.15px;
-  line-height: 58.74px;
+  letter-spacing: 0.96px;
+  line-height: 48.95px;
   text-transform: uppercase;
   font-weight: 500;
 }
 .groupIcon,
 .nowWere27 {
-  width: 131px;
+  width: 109.2px;
   position: relative;
-  height: 39px;
+  height: 32.5px;
 }
 .groupIcon {
-  width: 13.9px;
-  height: 15px;
+  width: 11.6px;
+  height: 12.5px;
 }
 .instagram {
-  width: 46.3px;
-  border-radius: 31.88px;
+  width: 38.6px;
+  border-radius: 26.57px;
   background-color: var(--color-darkgray-300);
-  height: 46.8px;
+  height: 39px;
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 19.9257869720459px;
+  padding: 16.604822158813477px;
   box-sizing: border-box;
 }
 .vectorIcon {
-  width: 7.8px;
+  width: 6.5px;
   position: relative;
-  height: 15px;
+  height: 12.5px;
 }
 .vectorWrapper {
-  width: 47.3px;
-  border-radius: 36.86px;
+  width: 39.4px;
+  border-radius: 30.72px;
   background-color: var(--color-darkgray-300);
-  height: 48.8px;
+  height: 40.7px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 19.9257869720459px 24.90723419189453px;
+  padding: 16.604822158813477px 20.756027221679688px;
   box-sizing: border-box;
 }
 .vectorIcon1 {
-  width: 16.7px;
+  width: 13.9px;
   position: relative;
-  height: 14px;
+  height: 11.7px;
 }
 .frame {
-  width: 45.3px;
-  border-radius: 58.28px;
+  width: 37.8px;
+  border-radius: 48.57px;
   background-color: var(--color-darkgray-300);
-  height: 45.3px;
+  height: 37.8px;
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 19.9257869720459px 17.4350643157959px;
+  padding: 16.604822158813477px 14.529219627380371px;
   box-sizing: border-box;
 }
 .vectorIcon2 {
-  width: 16.1px;
+  width: 13.4px;
   position: relative;
-  height: 15px;
+  height: 12.5px;
 }
 .vectorContainer {
-  width: 49.3px;
-  border-radius: 40.35px;
+  width: 41.1px;
+  border-radius: 33.62px;
   background-color: var(--color-darkgray-300);
-  height: 48.8px;
+  height: 40.7px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 19.9257869720459px;
+  padding: 16.604822158813477px;
   box-sizing: border-box;
 }
 .instagramParent {
@@ -678,7 +678,7 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: flex-start;
-  gap: 0 17px;
+  gap: 0 14.17px;
 }
 .frameParent3,
 .nowWereParent9 {
@@ -690,16 +690,16 @@
 }
 .nowWereParent9 {
   align-self: stretch;
-  height: 99px;
-  padding: 0 var(--padding-8xs);
-  gap: 10px 0;
+  height: 82.5px;
+  padding: 0 4.166666507720947px;
+  gap: 8.33px 0;
 }
 .frameParent3 {
-  height: 370px;
+  height: 308.3px;
   flex: 1;
-  padding: var(--padding-11xl);
-  gap: 30px 0;
-  font-size: var(--font-size-base);
+  padding: var(--padding-6xl);
+  gap: 25px 0;
+  font-size: var(--font-size-sm-3);
 }
 .footer,
 .transformParent {
@@ -710,7 +710,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  padding: var(--padding-21xl) 0;
+  padding: 33.33333206176758px 0;
   opacity: 1;
 }
 .transformParent.animate {
@@ -722,19 +722,19 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 var(--padding-61xl);
-  gap: var(--gap-3xs);
+  padding: 0 66.66666412353516px;
+  gap: 8.33px;
   text-align: left;
-  font-size: var(--font-size-15xl);
+  font-size: var(--font-size-9xl-3);
   color: var(--color-seagreen);
   font-family: var(--font-poppins);
 }
 .frameInner {
-  width: 1206px;
+  width: 1005px;
   position: relative;
-  border-top: 1px solid var(--color-white);
+  border-top: 0.8px solid var(--color-white);
   box-sizing: border-box;
-  height: 1px;
+  height: 0.8px;
 }
 .lineWrapper {
   align-self: stretch;
@@ -743,22 +743,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 var(--padding-281xl);
+  padding: 0 var(--padding-231xl);
 }
 .nowWere29,
 .nowWere30 {
-  width: 406px;
+  width: 338.3px;
   position: relative;
-  letter-spacing: 0.9px;
-  line-height: 20px;
+  letter-spacing: 0.75px;
+  line-height: 16.67px;
   text-transform: capitalize;
   font-weight: 500;
   display: inline-block;
-  height: 28px;
+  height: 23.3px;
   flex-shrink: 0;
 }
 .nowWere30 {
-  width: 533px;
+  width: 444.2px;
 }
 .nowWereParent10 {
   align-self: stretch;
@@ -767,21 +767,24 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: var(--padding-3xs) var(--padding-211xl);
+  padding: 8.333333015441895px 191.66665649414062px;
 }
 .footerComponent,
 .frameParent4 {
-  align-self: stretch;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: flex-start;
 }
+.frameParent4 {
+  align-self: stretch;
+  align-items: center;
+}
 .footerComponent {
+  width: 1440px;
   background-color: var(--color-darkslategray-300);
   align-items: flex-start;
   text-align: center;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-sm-3);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

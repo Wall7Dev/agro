@@ -159,13 +159,13 @@ const Allnavs2: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group5@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup1Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group6@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup2Click}
                   />
                   <img
@@ -188,7 +188,7 @@ const Allnavs2: NextPage = () => {
                   className={styles.logoIcon}
                   id="logo"
                   alt=""
-                  src="/logo2@2x.png"
+                  src="/logo4@2x.png"
                 />
               </div>
             </div>
@@ -218,7 +218,7 @@ const Allnavs2: NextPage = () => {
                 <img
                   className={styles.aboutusChild}
                   alt=""
-                  src="/line-12@2x.png"
+                  src="/line-1@2x.png"
                 />
               </button>
               <button
@@ -280,13 +280,13 @@ const Allnavs2: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group7@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup12Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group8@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup22Click}
                   />
                   <img
@@ -298,7 +298,7 @@ const Allnavs2: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-11@2x.png"
+                  src="/images-2-1@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -306,7 +306,7 @@ const Allnavs2: NextPage = () => {
                   className={styles.logoIcon}
                   id="logo"
                   alt=""
-                  src="/logo3@2x.png"
+                  src="/logo5@2x.png"
                 />
               </div>
             </div>
@@ -344,13 +344,13 @@ const Allnavs2: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group7@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup13Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group8@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup23Click}
                   />
                   <img
@@ -362,7 +362,7 @@ const Allnavs2: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-11@2x.png"
+                  src="/images-2-1@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -370,7 +370,7 @@ const Allnavs2: NextPage = () => {
                   className={styles.logoIcon}
                   id="logo"
                   alt=""
-                  src="/logo3@2x.png"
+                  src="/logo5@2x.png"
                 />
               </div>
             </div>
@@ -408,13 +408,13 @@ const Allnavs2: NextPage = () => {
                   <img
                     className={styles.clipPathGroup1}
                     alt=""
-                    src="/clip-path-group7@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup14Click}
                   />
                   <img
                     className={styles.clipPathGroup2}
                     alt=""
-                    src="/clip-path-group8@2x.png"
+                    src="/clip-path-group@2x.png"
                     onClick={onClipPathGroup24Click}
                   />
                   <img
@@ -426,7 +426,7 @@ const Allnavs2: NextPage = () => {
                 <img
                   className={styles.images21}
                   alt=""
-                  src="/images-2-11@2x.png"
+                  src="/images-2-1@2x.png"
                 />
               </button>
               <div className={styles.lgoframe1}>
@@ -434,14 +434,14 @@ const Allnavs2: NextPage = () => {
                   className={styles.logoIcon3}
                   id="logo"
                   alt=""
-                  src="/logo3@2x.png"
+                  src="/logo6@2x.png"
                 />
               </div>
             </div>
             <img
               className={styles.rightnavlinkIcon}
               alt=""
-              src="/rightnavlink1@2x.png"
+              src="/rightnavlink@2x.png"
             />
           </div>
         </nav>

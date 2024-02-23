@@ -1,7 +1,7 @@
-<svg width="1280" height="1280" viewBox="0 0 1280 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M640 1280C993.462 1280 1280 993.462 1280 640C1280 286.538 993.462 0 640 0C286.538 0 0 286.538 0 640C0 993.462 286.538 1280 640 1280Z" fill="url(#paint0_radial_1870_29206)"/>
+<svg width="1068" height="1067" viewBox="0 0 1068 1067" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M533.833 1066.67C828.385 1066.67 1067.17 827.885 1067.17 533.333C1067.17 238.781 828.385 0 533.833 0C239.281 0 0.5 238.781 0.5 533.333C0.5 827.885 239.281 1066.67 533.833 1066.67Z" fill="url(#paint0_radial_1870_29206)"/>
 <defs>
-<radialGradient id="paint0_radial_1870_29206" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 640) scale(640)">
+<radialGradient id="paint0_radial_1870_29206" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(533.833 533.333) scale(533.333)">
 <stop stop-color="#FECA3A"/>
 <stop offset="1" stop-color="#FECA3A" stop-opacity="0"/>
 </radialGradient>

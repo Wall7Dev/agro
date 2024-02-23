@@ -40,7 +40,7 @@ const ParentCaurosol: NextPage = () => {
     }
   }, []);
 
-  const onLeftGroupImage3Click = useCallback(() => {
+  const onLeftGroupIcon3Click = useCallback(() => {
     const anchor = document.querySelector("[data-scroll-to='section6']");
     if (anchor) {
       anchor.scrollIntoView({ block: "start", behavior: "smooth" });
@@ -67,7 +67,7 @@ const ParentCaurosol: NextPage = () => {
             <img
               className={styles.leftGroupIcon1}
               alt=""
-              src="/left-group1@2x.png"
+              src="/left-group@2x.png"
             />
           </div>
         </div>
@@ -90,8 +90,8 @@ const ParentCaurosol: NextPage = () => {
             <img
               className={styles.leftGroupIcon3}
               alt=""
-              src="/left-group2@2x.png"
-              onClick={onLeftGroupImage3Click}
+              src="/left-group@2x.png"
+              onClick={onLeftGroupIcon3Click}
             />
           </div>
         </div>
@@ -106,7 +106,7 @@ const ParentCaurosol: NextPage = () => {
             <img
               className={styles.leftGroupIcon}
               alt=""
-              src="/left-group3@2x.png"
+              src="/left-group@2x.png"
             />
             <div className={styles.leftGroupParent}>
               <h1 className={styles.resourcefulness}>Resourcefulness</h1>
@@ -114,7 +114,7 @@ const ParentCaurosol: NextPage = () => {
             <img
               className={styles.leftGroupIcon1}
               alt=""
-              src="/left-group4@2x.png"
+              src="/left-group@2x.png"
             />
           </div>
         </div>
@@ -137,7 +137,7 @@ const ParentCaurosol: NextPage = () => {
             <img
               className={styles.leftGroupIcon1}
               alt=""
-              src="/left-group2@2x.png"
+              src="/left-group@2x.png"
             />
           </div>
         </div>

@@ -37,12 +37,12 @@
   }
 }
 .bgBlurIcon {
-  width: 763.2px;
+  width: 623.3px;
   position: absolute;
   margin: 0 !important;
-  top: -330px;
-  left: 482px;
-  height: 1142.9px;
+  top: -269.5px;
+  left: 393.7px;
+  height: 933.5px;
   z-index: 0;
 }
 .empowering {
@@ -59,24 +59,24 @@
 }
 .empoweringFarmersAndUnlockWrapper {
   align-self: stretch;
-  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.25));
+  filter: drop-shadow(0 3.3px 8.17px rgba(0, 0, 0, 0.25));
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.167895317077637px;
   z-index: 1;
 }
 .aRevolutionaryDigital {
   flex: 1;
   position: relative;
-  letter-spacing: 0.9px;
+  letter-spacing: 0.74px;
   line-height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 131.4px;
-  text-shadow: 0 4px 6px rgba(0, 0, 0, 0.25);
+  height: 107.3px;
+  text-shadow: 0 3.3px 4.9px rgba(0, 0, 0, 0.25);
 }
 .aRevolutionaryDigitalInnoWrapper {
   align-self: stretch;
@@ -84,21 +84,21 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 var(--padding-101xl);
+  padding: 0 98.0147476196289px;
   z-index: 2;
-  font-size: var(--font-size-6xl);
+  font-size: var(--font-size-xl-4);
 }
 .scrollDownChild {
-  width: 24.1px;
+  width: 19.7px;
   position: relative;
   border-radius: 50%;
   background-color: var(--color-goldenrod-300);
-  height: 24.1px;
+  height: 19.7px;
 }
 .scrollDown {
-  height: 147.6px;
-  border-radius: 40.76px;
-  border: 3.7px solid var(--color-goldenrod-300);
+  height: 120.6px;
+  border-radius: 33.29px;
+  border: 3px solid var(--color-goldenrod-300);
   box-sizing: border-box;
   overflow: hidden;
   flex-shrink: 0;
@@ -106,7 +106,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 61.76123809814453px 20.587080001831055px;
+  padding: 50.4459342956543px 16.815311431884766px;
   opacity: 1;
   z-index: 3;
 }
@@ -123,18 +123,18 @@
 .bgBlurParent {
   justify-content: flex-start;
   position: relative;
-  gap: 29px 0;
+  gap: 23.69px 0;
 }
 .div {
   overflow: hidden;
   justify-content: center;
-  padding: var(--padding-81xl) var(--padding-181xl);
+  padding: 81.678955078125px 163.35791015625px;
   background-image: url(/12001@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   text-align: center;
-  font-size: var(--font-size-59xl);
+  font-size: var(--font-size-44xl-7);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

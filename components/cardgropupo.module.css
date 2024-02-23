@@ -6,23 +6,21 @@
     transform: scale(1);
   }
 }
-.baseIcon,
-.rectangle {
-  border-radius: var(--br-12xl);
-}
 .baseIcon {
   position: absolute;
   top: 0;
   left: 0;
-  width: 317px;
-  height: 373px;
+  border-radius: 25.84px;
+  width: 264.2px;
+  height: 310.9px;
   object-fit: cover;
 }
 .rectangle {
+  border-radius: 25.84px;
   background-color: var(--color-darkslateblue);
-  box-shadow: 0 24px 48px rgba(33, 12, 56, 0.16);
-  backdrop-filter: blur(65.24px);
-  border: 1px solid var(--color-gray-1400);
+  box-shadow: 0 20px 40.01px rgba(33, 12, 56, 0.16);
+  backdrop-filter: blur(54.37px);
+  border: 0.8px solid var(--color-gray-1400);
   box-sizing: border-box;
 }
 .block1,
@@ -30,52 +28,52 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 317.4px;
-  height: 101px;
+  width: 264.5px;
+  height: 84.2px;
 }
 .snrTechnologyLead,
 .xoseAhlijahSwe {
   position: absolute;
   top: 0;
-  left: calc(50% - 120.55px);
+  left: calc(50% - 100.45px);
   letter-spacing: -0.01em;
-  line-height: 40px;
+  line-height: 33.34px;
   text-transform: capitalize;
   font-weight: 800;
   display: flex;
   align-items: center;
-  width: 241.1px;
-  height: 29.3px;
+  width: 200.9px;
+  height: 24.4px;
 }
 .snrTechnologyLead {
-  top: 31.8px;
-  left: calc(50% - 104.05px);
-  line-height: 30px;
+  top: 26.5px;
+  left: calc(50% - 86.65px);
+  line-height: 25px;
   font-weight: 500;
   background: linear-gradient(89.38deg, #e3ef62, #a78f0c 73.18%, #f0c027);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  width: 188px;
-  height: 21.9px;
+  width: 156.7px;
+  height: 18.3px;
 }
 .xoseAhlijahSweParent {
   position: absolute;
-  top: 19.6px;
-  left: calc(50% - 120.2px);
-  width: 241.1px;
-  height: 53.7px;
+  top: 16.3px;
+  left: calc(50% - 100.15px);
+  width: 200.9px;
+  height: 44.8px;
 }
 .block1Parent {
   position: absolute;
-  top: 315px;
+  top: 262.6px;
   left: 0;
-  width: 317.4px;
-  height: 101px;
+  width: 264.5px;
+  height: 84.2px;
 }
 .xorse,
 .xoseAhlijaTeam {
-  width: 317.4px;
-  height: 416px;
+  width: 264.5px;
+  height: 346.8px;
 }
 .xoseAhlijaTeam {
   position: absolute;
@@ -94,84 +92,84 @@
   position: absolute;
   top: 0;
   left: 0.2px;
-  border-radius: var(--br-11xl);
-  width: 383.2px;
-  height: 433.2px;
+  border-radius: var(--br-6xl);
+  width: 319.3px;
+  height: 361.1px;
   object-fit: cover;
 }
 .block11,
 .rectangle1 {
   position: absolute;
   left: 0;
-  width: 383.2px;
-  height: 120px;
+  width: 319.3px;
+  height: 100px;
 }
 .rectangle1 {
   top: 0;
-  border-radius: var(--br-11xl);
+  border-radius: var(--br-6xl);
   background-color: var(--color-dimgray-200);
-  box-shadow: 0 24px 48px rgba(33, 12, 56, 0.16);
-  backdrop-filter: blur(65.24px);
-  border: 1px solid var(--color-gray-1400);
+  box-shadow: 0 20px 40.01px rgba(33, 12, 56, 0.16);
+  backdrop-filter: blur(54.37px);
+  border: 0.8px solid var(--color-gray-1400);
   box-sizing: border-box;
 }
 .block11 {
-  top: 377px;
+  top: 314.3px;
 }
 .castroAntwiDanso,
 .generalManager {
   position: absolute;
   top: 0;
-  left: calc(50% - 135.25px);
+  left: calc(50% - 112.7px);
   letter-spacing: -0.01em;
-  line-height: 40px;
+  line-height: 33.34px;
   text-transform: capitalize;
   font-weight: 800;
   display: flex;
   align-items: center;
-  width: 270.5px;
-  height: 34px;
+  width: 225.4px;
+  height: 28.4px;
 }
 .generalManager {
-  top: 29.8px;
-  left: calc(50% - 78.25px);
-  line-height: 30px;
+  top: 24.8px;
+  left: calc(50% - 65.2px);
+  line-height: 25px;
   font-weight: 500;
   background: linear-gradient(90.39deg, #dae924, rgba(240, 192, 39, 0.95));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  width: 156px;
-  height: 26px;
+  width: 130px;
+  height: 21.7px;
 }
 .castroAntwiDansoParent {
   position: absolute;
-  top: 403.2px;
-  left: calc(50% - 131.5px);
-  width: 270.5px;
-  height: 55.8px;
+  top: 336.1px;
+  left: calc(50% - 109.55px);
+  width: 225.4px;
+  height: 46.5px;
 }
 .castro {
-  width: 383.4px;
+  width: 319.5px;
   position: relative;
-  height: 497px;
+  height: 414.3px;
 }
 .baseIcon2,
 .rectangle2 {
-  border-radius: var(--br-11xl);
+  border-radius: var(--br-6xl);
 }
 .baseIcon2 {
   position: absolute;
   top: 0;
   left: 0.2px;
-  width: 336.4px;
-  height: 362.4px;
+  width: 280.3px;
+  height: 302.1px;
   object-fit: cover;
 }
 .rectangle2 {
   background-color: var(--color-darkslateblue);
-  box-shadow: 0 24px 48px rgba(33, 12, 56, 0.16);
-  backdrop-filter: blur(65.24px);
-  border: 1px solid var(--color-gray-1400);
+  box-shadow: 0 20px 40.01px rgba(33, 12, 56, 0.16);
+  backdrop-filter: blur(54.37px);
+  border: 0.8px solid var(--color-gray-1400);
   box-sizing: border-box;
 }
 .block12,
@@ -179,8 +177,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 336.4px;
-  height: 110.1px;
+  width: 280.3px;
+  height: 91.8px;
 }
 .dataAnalyst,
 .otisAApaloo {
@@ -192,42 +190,42 @@
 }
 .otisAApaloo {
   top: 0;
-  left: calc(50% - 114.45px);
-  line-height: 40px;
+  left: calc(50% - 95.35px);
+  line-height: 33.34px;
   font-weight: 800;
-  width: 228.9px;
-  height: 31px;
+  width: 190.7px;
+  height: 25.8px;
 }
 .dataAnalyst {
-  top: 36.2px;
-  left: 56.8px;
-  line-height: 30px;
+  top: 30.1px;
+  left: 47.4px;
+  line-height: 25px;
   font-weight: 500;
   background: linear-gradient(88.74deg, #eed920, #f0c027);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  width: 127.7px;
-  height: 23.4px;
+  width: 106.4px;
+  height: 19.5px;
 }
 .otisAApalooParent {
   position: absolute;
-  top: 20.1px;
-  left: calc(50% - 112.8px);
-  width: 228.9px;
-  height: 59.6px;
+  top: 16.7px;
+  left: calc(50% - 93.95px);
+  width: 190.7px;
+  height: 49.7px;
 }
 .block1Group {
   position: absolute;
-  top: 305.9px;
+  top: 255px;
   left: 0;
-  width: 336.4px;
-  height: 110.1px;
+  width: 280.3px;
+  height: 91.8px;
 }
 .ottisApalooTeam {
-  width: 336.6px;
+  width: 280.5px;
   position: relative;
-  height: 416px;
-  font-size: var(--font-size-lgi);
+  height: 346.8px;
+  font-size: 15.8px;
 }
 .ottisApalooTeam:hover {
   animation: 2s ease 0s 1 normal none scale-up;
@@ -239,12 +237,12 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 var(--padding-281xl);
-  gap: 0 15px;
+  padding: 0 250.03952026367188px;
+  gap: 0 12.5px;
   opacity: 1;
   z-index: 5;
   text-align: left;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini);
   font-family: var(--font-lexend-deca);
 }
 .cardgropupo.animate {

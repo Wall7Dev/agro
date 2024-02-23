@@ -188,7 +188,7 @@ const BlogPage: NextPage = () => {
     router.push("/blog-page1");
   }, [router]);
 
-  const onVectorClick = useCallback(() => {
+  const onVectorIconClick = useCallback(() => {
     router.push("/blog-page3");
   }, [router]);
 
@@ -249,13 +249,13 @@ const BlogPage: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group25@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup1Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group31@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup2Click}
                     />
                     <img
@@ -278,7 +278,7 @@ const BlogPage: NextPage = () => {
                     className={styles.logoIcon}
                     id="logo"
                     alt=""
-                    src="/logo11@2x.png"
+                    src="/logo35@2x.png"
                   />
                 </div>
               </div>
@@ -337,7 +337,7 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.mediaChild}
                     alt=""
-                    src="/line-17@2x.png"
+                    src="/line-1@2x.png"
                   />
                 </button>
                 <button
@@ -376,13 +376,13 @@ const BlogPage: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group27@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup12Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group32@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup22Click}
                     />
                     <img
@@ -394,7 +394,7 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-11@2x.png"
+                    src="/images-2-1@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -402,7 +402,7 @@ const BlogPage: NextPage = () => {
                     className={styles.logoIcon}
                     id="logo"
                     alt=""
-                    src="/logo19@2x.png"
+                    src="/logo36@2x.png"
                   />
                 </div>
               </div>
@@ -443,13 +443,13 @@ const BlogPage: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group27@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup13Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group32@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup23Click}
                     />
                     <img
@@ -461,7 +461,7 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-11@2x.png"
+                    src="/images-2-1@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -469,7 +469,7 @@ const BlogPage: NextPage = () => {
                     className={styles.logoIcon}
                     id="logo"
                     alt=""
-                    src="/logo19@2x.png"
+                    src="/logo36@2x.png"
                   />
                 </div>
               </div>
@@ -510,13 +510,13 @@ const BlogPage: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group27@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup14Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group32@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup24Click}
                     />
                     <img
@@ -528,7 +528,7 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-11@2x.png"
+                    src="/images-2-1@2x.png"
                   />
                 </button>
                 <div className={styles.lgoframe1}>
@@ -536,14 +536,14 @@ const BlogPage: NextPage = () => {
                     className={styles.logoIcon3}
                     id="logo"
                     alt=""
-                    src="/logo19@2x.png"
+                    src="/logo37@2x.png"
                   />
                 </div>
               </div>
               <img
                 className={styles.rightnavlinkIcon}
                 alt=""
-                src="/rightnavlink2@2x.png"
+                src="/rightnavlink@2x.png"
               />
             </div>
           </nav>
@@ -637,7 +637,7 @@ const BlogPage: NextPage = () => {
             <img
               className={styles.download6Icon}
               alt=""
-              src="/download-624@2x.png"
+              src="/download-6@2x.png"
             />
           </div>
           <div className={styles.gradientmsgWrapper}>
@@ -645,7 +645,7 @@ const BlogPage: NextPage = () => {
               <img
                 className={styles.gradientmsgChild}
                 alt=""
-                src="/group-2067@2x.png"
+                src="/group-206@2x.png"
               />
               <div className={styles.weSupportAgribusinessIndustParent}>
                 <b
@@ -667,7 +667,7 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.frameChild}
                     alt=""
-                    src="/arrow-95@2x.png"
+                    src="/arrow-9@2x.png"
                   />
                   <div className={styles.viewProducts}>view produCts</div>
                 </div>
@@ -679,11 +679,11 @@ const BlogPage: NextPage = () => {
               className={styles.navRightsvgFill}
               onClick={onNavRightsvgFillContainerClick}
             >
-              <img className={styles.vectorIcon} alt="" src="/vector4.svg" />
+              <img className={styles.vectorIcon} alt="" src="/vector.svg" />
               <img
                 className={styles.path2Icon}
                 alt=""
-                src="/path-21.svg"
+                src="/path-2.svg"
                 onClick={onPath2IconClick}
               />
             </div>
@@ -695,13 +695,13 @@ const BlogPage: NextPage = () => {
               <img
                 className={styles.vectorIcon1}
                 alt=""
-                src="/vector4.svg"
-                onClick={onVectorClick}
+                src="/vector.svg"
+                onClick={onVectorIconClick}
               />
               <img
                 className={styles.path2Icon1}
                 alt=""
-                src="/path-21.svg"
+                src="/path-2.svg"
                 onClick={onPath2Icon2Click}
               />
             </div>
@@ -715,114 +715,114 @@ const BlogPage: NextPage = () => {
                   <img
                     className={styles.download5Icon}
                     alt=""
-                    src="/download-58@2x.png"
+                    src="/download-5@2x.png"
                   />
                   <img
                     className={styles.download5Icon1}
                     alt=""
-                    src="/download-59@2x.png"
+                    src="/download-5@2x.png"
                   />
                   <img
                     className={styles.captureIcon}
                     alt=""
-                    src="/capture16@2x.png"
+                    src="/capture@2x.png"
                   />
                   <img
                     className={styles.mofaColorIcon}
                     alt=""
-                    src="/mofa-color4@2x.png"
+                    src="/mofa-color@2x.png"
                   />
                   <img
                     className={styles.download3Icon}
                     alt=""
-                    src="/download-34@2x.png"
+                    src="/download-3@2x.png"
                   />
                   <img
                     className={styles.imagesIcon}
                     alt=""
-                    src="/images3@2x.png"
+                    src="/images@2x.png"
                   />
                   <img
                     className={styles.download6Icon1}
                     alt=""
-                    src="/download-64@2x.png"
+                    src="/download-6@2x.png"
                   />
                   <img
                     className={styles.download1Icon}
                     alt=""
-                    src="/download-14@2x.png"
+                    src="/download-1@2x.png"
                   />
                   <img
                     className={styles.downloadIcon}
                     alt=""
-                    src="/download16@2x.png"
+                    src="/download@2x.png"
                   />
                   <img
                     className={styles.images1Icon}
                     alt=""
-                    src="/images-15@2x.png"
+                    src="/images-1@2x.png"
                   />
                   <img
                     className={styles.download2Icon}
                     alt=""
-                    src="/download-24@2x.png"
+                    src="/download-2@2x.png"
                   />
                 </div>
                 <div className={styles.download5Group}>
                   <img
                     className={styles.download5Icon}
                     alt=""
-                    src="/download-58@2x.png"
+                    src="/download-5@2x.png"
                   />
                   <img
                     className={styles.download5Icon1}
                     alt=""
-                    src="/download-59@2x.png"
+                    src="/download-5@2x.png"
                   />
                   <img
                     className={styles.captureIcon}
                     alt=""
-                    src="/capture16@2x.png"
+                    src="/capture@2x.png"
                   />
                   <img
                     className={styles.mofaColorIcon}
                     alt=""
-                    src="/mofa-color4@2x.png"
+                    src="/mofa-color@2x.png"
                   />
                   <img
                     className={styles.download3Icon}
                     alt=""
-                    src="/download-34@2x.png"
+                    src="/download-3@2x.png"
                   />
                   <img
                     className={styles.imagesIcon}
                     alt=""
-                    src="/images3@2x.png"
+                    src="/images@2x.png"
                   />
                   <img
                     className={styles.download6Icon1}
                     alt=""
-                    src="/download-64@2x.png"
+                    src="/download-6@2x.png"
                   />
                   <img
                     className={styles.download1Icon}
                     alt=""
-                    src="/download-14@2x.png"
+                    src="/download-1@2x.png"
                   />
                   <img
                     className={styles.downloadIcon}
                     alt=""
-                    src="/download16@2x.png"
+                    src="/download@2x.png"
                   />
                   <img
                     className={styles.images1Icon}
                     alt=""
-                    src="/images-15@2x.png"
+                    src="/images-1@2x.png"
                   />
                   <img
                     className={styles.download2Icon}
                     alt=""
-                    src="/download-24@2x.png"
+                    src="/download-2@2x.png"
                   />
                 </div>
               </div>
@@ -904,7 +904,7 @@ const BlogPage: NextPage = () => {
                         <img
                           className={styles.frameItem}
                           alt=""
-                          src="/line-117@2x.png"
+                          src="/line-1@2x.png"
                         />
                       </div>
                     </div>
@@ -993,14 +993,14 @@ const BlogPage: NextPage = () => {
                       <img
                         className={styles.vectorIcon3}
                         alt=""
-                        src="/vector1.svg"
+                        src="/vector.svg"
                       />
                     </div>
                     <div className={styles.vectorContainer}>
                       <img
                         className={styles.vectorIcon4}
                         alt=""
-                        src="/vector2.svg"
+                        src="/vector.svg"
                       />
                     </div>
                   </div>

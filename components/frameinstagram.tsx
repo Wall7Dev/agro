@@ -45,24 +45,24 @@ const Frameinstagram: NextPage = () => {
               <img
                 className={styles.download5Icon}
                 alt=""
-                src="/download-52@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.download3Icon}
                 alt=""
-                src="/download-31@2x.png"
+                src="/download-3@2x.png"
               />
             </section>
             <section className={styles.captureParent}>
               <img
                 className={styles.captureIcon}
                 alt=""
-                src="/capture1@2x.png"
+                src="/capture@2x.png"
               />
               <img
                 className={styles.download6Icon}
                 alt=""
-                src="/download-61@2x.png"
+                src="/download-6@2x.png"
               />
             </section>
           </div>
@@ -71,12 +71,12 @@ const Frameinstagram: NextPage = () => {
               <img
                 className={styles.download5Icon1}
                 alt=""
-                src="/download-53@2x.png"
+                src="/download-5@2x.png"
               />
               <img
                 className={styles.download2Icon}
                 alt=""
-                src="/download-21@2x.png"
+                src="/download-2@2x.png"
               />
               <img
                 className={styles.ignitiaLogo1Icon}
@@ -88,19 +88,19 @@ const Frameinstagram: NextPage = () => {
               <img
                 className={styles.download1Icon}
                 alt=""
-                src="/download-11@2x.png"
+                src="/download-1@2x.png"
               />
               <img
                 className={styles.images1Icon}
                 alt=""
-                src="/images-12@2x.png"
+                src="/images-1@2x.png"
               />
               <div className={styles.agromiteParent}>
                 <div className={styles.agromite}>AGROMITE</div>
                 <img
                   className={styles.downloadIcon}
                   alt=""
-                  src="/download1@2x.png"
+                  src="/download@2x.png"
                 />
               </div>
             </section>
@@ -109,7 +109,7 @@ const Frameinstagram: NextPage = () => {
             <img
               className={styles.mofaColorIcon}
               alt=""
-              src="/mofa-color1@2x.png"
+              src="/mofa-color@2x.png"
             />
           </section>
         </div>

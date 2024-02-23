@@ -20,7 +20,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.430057525634766px;
+  padding: 6.936733245849609px;
   opacity: 1;
   z-index: 0;
 }
@@ -32,25 +32,25 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-29xl);
-  width: 343px;
-  height: 491px;
+  border-radius: var(--br-20xl-5);
+  width: 282.2px;
+  height: 404px;
   object-fit: cover;
 }
 .block1,
 .rectangle {
-  width: 343.2px;
-  height: 107.2px;
+  width: 282.4px;
+  height: 88.2px;
 }
 .rectangle {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-11xl);
+  border-radius: 24.69px;
   background-color: var(--color-dimgray-200);
-  box-shadow: 0 24px 48px rgba(33, 12, 56, 0.16);
-  backdrop-filter: blur(65.24px);
-  border: 1px solid var(--color-gray-1400);
+  box-shadow: 0 19.7px 39.5px rgba(33, 12, 56, 0.16);
+  backdrop-filter: blur(53.68px);
+  border: 0.8px solid var(--color-gray-1400);
   box-sizing: border-box;
 }
 .block1 {
@@ -58,10 +58,10 @@
   z-index: 0;
 }
 .razakAwudulai1 {
-  width: 275px;
+  width: 226.3px;
   position: relative;
   letter-spacing: -0.01em;
-  line-height: 40px;
+  line-height: 32.91px;
   text-transform: capitalize;
   font-weight: 800;
   display: flex;
@@ -69,18 +69,18 @@
   flex-shrink: 0;
 }
 .razakAwudulaiContainer {
-  width: 265px;
+  width: 218.1px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
 .chiefExecutiveOfficer {
-  width: 225px;
+  width: 185.1px;
   position: relative;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   letter-spacing: -0.01em;
-  line-height: 30px;
+  line-height: 24.69px;
   text-transform: capitalize;
   font-weight: 500;
   background: linear-gradient(89.18deg, #867104, rgba(240, 192, 39, 0.95));
@@ -88,7 +88,7 @@
   -webkit-text-fill-color: transparent;
   display: flex;
   align-items: center;
-  height: 23px;
+  height: 18.9px;
   flex-shrink: 0;
 }
 .block1Parent,
@@ -100,8 +100,8 @@
 }
 .frameParent {
   margin: 0 !important;
-  top: 18.1px;
-  left: 47px;
+  top: 14.9px;
+  left: 38.7px;
   align-items: center;
   z-index: 1;
 }
@@ -109,7 +109,7 @@
   top: 0;
   left: 0;
   align-items: flex-start;
-  gap: 10px 0;
+  gap: 8.23px 0;
 }
 .frameWrapper,
 .razakAwudulai,
@@ -117,30 +117,30 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 343.2px;
-  height: 107.2px;
+  width: 282.4px;
+  height: 88.2px;
 }
 .razakAwudulai,
 .razakAwudulaiInner {
-  top: 444.9px;
+  top: 366.1px;
 }
 .razakAwudulai {
   top: 0;
-  height: 552.1px;
+  height: 454.3px;
 }
 .razakAwudulaiWrapper {
-  width: 343px;
-  height: 552px;
+  width: 282.2px;
+  height: 454.2px;
   position: relative;
   opacity: 1;
 }
 .razakIsAn {
   align-self: stretch;
-  height: 120px;
+  height: 99px;
   position: relative;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   letter-spacing: -0.01em;
-  line-height: 30px;
+  line-height: 24.69px;
   text-transform: capitalize;
   text-align: justify;
   display: inline-block;
@@ -157,13 +157,13 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  gap: 25px 0;
+  gap: 20.57px 0;
 }
 .nanaDwenmoh {
-  width: 283px;
+  width: 232.9px;
   position: relative;
   letter-spacing: -0.01em;
-  line-height: 40px;
+  line-height: 32.91px;
   text-transform: capitalize;
   font-weight: 800;
   flex-shrink: 0;
@@ -175,11 +175,11 @@
   align-items: center;
 }
 .chairman {
-  width: 225px;
+  width: 185.1px;
   position: relative;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   letter-spacing: -0.01em;
-  line-height: 30px;
+  line-height: 24.69px;
   text-transform: capitalize;
   font-weight: 500;
   background: linear-gradient(89.47deg, #71670c, rgba(240, 192, 39, 0.95));
@@ -187,26 +187,26 @@
   -webkit-text-fill-color: transparent;
   text-align: center;
   justify-content: center;
-  height: 23px;
+  height: 18.9px;
   flex-shrink: 0;
 }
 .frameGroup {
-  width: 290px;
+  width: 238.6px;
   margin: 0 !important;
   position: absolute;
-  top: 18.3px;
-  left: 33.5px;
+  top: 15px;
+  left: 27.6px;
   flex-direction: column;
   justify-content: flex-start;
   z-index: 1;
 }
 .nanaHas20 {
   align-self: stretch;
-  height: 150px;
+  height: 124px;
   position: relative;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   letter-spacing: -0.01em;
-  line-height: 30px;
+  line-height: 24.69px;
   text-transform: capitalize;
   text-align: justify;
   display: inline-block;
@@ -218,17 +218,17 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  gap: 0 50px;
+  gap: 0 41.14px;
   z-index: 1;
   text-align: left;
-  font-size: var(--font-size-13xl);
+  font-size: var(--font-size-7xl-3);
   color: var(--color-white);
   font-family: var(--font-lexend-deca);
 }
 .getInTouch {
   position: relative;
-  font-size: var(--font-size-5xl-1);
-  line-height: 15.36px;
+  font-size: var(--font-size-lgi-8);
+  line-height: 12.64px;
   font-family: var(--font-poppins);
   color: var(--color-darkslategray-200);
   text-align: left;
@@ -237,9 +237,9 @@
 .getInTouchWrapper {
   cursor: pointer;
   border: 0;
-  padding: 30.11151885986328px 60.22303771972656px;
+  padding: 24.777477264404297px 49.554954528808594px;
   background-color: transparent;
-  border-radius: 48.93px;
+  border-radius: 40.26px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
   display: flex;
   flex-direction: row;
@@ -254,12 +254,12 @@
   opacity: 1;
 }
 .frameChild {
-  width: 982.4px;
+  width: 808.4px;
   position: absolute;
   margin: 0 !important;
-  top: 166px;
-  left: 158.4px;
-  height: 444px;
+  top: 136.6px;
+  left: 130.3px;
+  height: 365.3px;
   object-fit: contain;
   z-index: 3;
 }
@@ -270,7 +270,7 @@
   align-items: center;
   justify-content: flex-start;
   position: relative;
-  gap: 21px 0;
+  gap: 17.28px 0;
 }
 .leadersections {
   align-self: stretch;
@@ -280,9 +280,9 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: var(--padding-21xl) var(--padding-41xl);
+  padding: 32.914283752441406px 49.371429443359375px;
   text-align: center;
-  font-size: var(--font-size-107xl-5);
+  font-size: var(--font-size-85xl-1);
   color: var(--color-goldenrod-400);
   font-family: var(--font-poppins);
 }

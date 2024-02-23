@@ -8,9 +8,9 @@
 }
 .whatWeOffer {
   align-self: stretch;
-  height: 98px;
+  height: 81px;
   position: relative;
-  font-size: var(--font-size-46xl);
+  font-size: var(--font-size-35xl-2);
   display: inline-block;
   opacity: 1;
 }
@@ -32,7 +32,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.334650993347168px;
 }
 .productAndServicesSec4Inner {
   flex-direction: column;
@@ -41,7 +41,7 @@
   opacity: 1;
 }
 .frameChild {
-  width: 587px;
+  width: 489.2px;
   max-height: 100%;
   overflow: hidden;
   flex-shrink: 0;
@@ -57,11 +57,11 @@
   text-transform: capitalize;
 }
 .frameItem {
-  width: 533px;
+  width: 444.2px;
   position: relative;
-  border-radius: var(--br-3xs);
+  border-radius: 8.33px;
   background-color: var(--color-goldenrod-300);
-  height: 5px;
+  height: 4.2px;
 }
 .inputCreditManagementSystemParent {
   align-self: stretch;
@@ -69,15 +69,15 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 3px 0;
+  gap: 2.5px 0;
   opacity: 1;
-  font-size: var(--font-size-9xl);
+  font-size: var(--font-size-4xl-3);
 }
 .inputCreditManagementSystemParent.animate {
   animation: 4s ease 0s 1 normal forwards scale-up;
 }
 .theInputCredit {
-  height: 87px;
+  height: 72px;
   flex: 1;
   position: relative;
   text-transform: capitalize;
@@ -94,7 +94,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.334650993347168px;
   opacity: 1;
 }
 .thisProductDigitalisesTheIWrapper.animate {
@@ -109,19 +109,19 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 10px 0;
+  gap: 8.33px 0;
 }
 .frameParent {
-  width: 1178px;
+  width: 981.7px;
   flex-direction: row;
   align-items: center;
-  gap: 0 4px;
+  gap: 0 3.33px;
   text-align: left;
 }
 .paginationsIcon {
-  width: 43.8px;
+  width: 36.5px;
   position: relative;
-  height: 16.4px;
+  height: 13.6px;
 }
 .projectArrow {
   display: flex;
@@ -130,10 +130,10 @@
   justify-content: flex-start;
 }
 .divider {
-  width: 245.3px;
+  width: 204.5px;
   position: relative;
   background-color: var(--color-gray-1300);
-  height: 1.6px;
+  height: 1.3px;
 }
 .navigation,
 .projectArrowParent {
@@ -158,10 +158,10 @@
 .thisProductAlsoContainer {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-lgi);
+  font-size: 15.8px;
   color: var(--color-white);
   display: inline-block;
-  height: 100px;
+  height: 83.4px;
   flex-shrink: 0;
 }
 .inputCreditManagementSystemGroup,
@@ -171,8 +171,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  gap: 40px 0;
-  font-size: var(--font-size-15xl);
+  gap: 33.34px 0;
+}
+.inputCreditManagementSystemGroup {
+  font-size: var(--font-size-9xl-3);
   color: var(--color-goldenrod-300);
 }
 .productAndServicesSec4 {
@@ -182,9 +184,9 @@
     rgba(255, 255, 255, 0)
   );
   overflow: hidden;
-  padding: var(--padding-21xl) var(--padding-256xl);
+  padding: 33.33860397338867px 229.20291137695312px;
   text-align: center;
-  font-size: var(--font-size-lgi);
+  font-size: 15.8px;
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

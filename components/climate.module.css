@@ -1,10 +1,10 @@
 .frame1082 {
   flex: 1;
   position: relative;
-  border-radius: var(--br-mini);
+  border-radius: 12.25px;
   max-width: 100%;
   overflow: hidden;
-  height: 708px;
+  height: 578.3px;
   object-fit: cover;
 }
 .inputCredit {
@@ -20,7 +20,7 @@
 .inputCreditManagementSystemContainer {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-44xl);
+  font-size: var(--font-size-32xl-5);
   line-height: 96.75%;
 }
 .theInputCredit {
@@ -33,7 +33,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 20px 0;
+  gap: 16.34px 0;
 }
 .climate,
 .frame1082Parent {
@@ -44,16 +44,16 @@
 .frame1082Parent {
   flex-direction: row;
   justify-content: center;
-  padding: var(--padding-xl) 0;
-  gap: var(--gap-51xl);
+  padding: 16.335790634155273px 0;
+  gap: 57.18px;
 }
 .climate {
   background-color: var(--color-darkolivegreen-600);
   flex-direction: column;
   justify-content: flex-start;
-  padding: 0 var(--padding-201xl);
+  padding: 0 179.69371032714844px;
   text-align: left;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-7);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
@@ -107,7 +107,7 @@
   }
   .frame1082Parent {
     display: flex;
-    gap: var(--gap-51xl);
+    gap: 57.18px;
   }
   .climate {
     display: flex;

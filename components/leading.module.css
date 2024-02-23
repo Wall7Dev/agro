@@ -27,7 +27,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.228570938110352px;
   opacity: 1;
 }
 .cta.animate,
@@ -45,12 +45,12 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.228570938110352px;
 }
 .getInTouch {
   position: relative;
-  font-size: var(--font-size-xl);
-  line-height: 12.72px;
+  font-size: var(--font-size-base-4);
+  line-height: 10.47px;
   font-family: var(--font-poppins);
   color: var(--color-white);
   text-align: left;
@@ -58,11 +58,11 @@
 .cta {
   cursor: pointer;
   border: 0;
-  padding: 24.95049285888672px 49.90098571777344px;
+  padding: 20.530691146850586px 41.06138229370117px;
   background-color: transparent;
-  width: 240px;
-  height: 53px;
-  border-radius: 40.54px;
+  width: 197.5px;
+  height: 43.6px;
+  border-radius: 33.36px;
   background: linear-gradient(93.32deg, #4f943e, #c1ad28);
   display: flex;
   flex-direction: row;
@@ -80,20 +80,20 @@
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 20px 0;
+  gap: 16.46px 0;
   opacity: 1;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   font-family: var(--font-inter);
 }
 .frameGroup {
   align-self: stretch;
   flex-direction: row;
   justify-content: space-between;
-  padding: var(--padding-21xl) 0 var(--padding-3xs);
+  padding: 32.914283752441406px 0 8.228570938110352px;
 }
 .unsplashyo5m9vczbcmIcon {
   align-self: stretch;
-  height: 354px;
+  height: 291.3px;
   position: relative;
   max-width: 100%;
   overflow: hidden;
@@ -115,9 +115,9 @@
 .leading {
   background-color: var(--color-white);
   overflow: hidden;
-  padding: 0 var(--padding-180xl);
+  padding: 0 163.74856567382812px;
   text-align: left;
-  font-size: var(--font-size-41xl);
+  font-size: var(--font-size-30xl-4);
   color: var(--color-darkslategray-200);
   font-family: var(--font-poppins);
 }

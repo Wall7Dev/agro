@@ -85,13 +85,13 @@ const NavDesktop: NextPage = () => {
               <img
                 className={styles.clipPathGroup1}
                 alt=""
-                src="/clip-path-group1@2x.png"
+                src="/clip-path-group@2x.png"
                 onClick={onClipPathGroup1Click}
               />
               <img
                 className={styles.clipPathGroup2}
                 alt=""
-                src="/clip-path-group2@2x.png"
+                src="/clip-path-group@2x.png"
                 onClick={onClipPathGroup2Click}
               />
               <img

@@ -16,9 +16,9 @@
 }
 .proudlyGhanaian {
   align-self: stretch;
-  height: 45px;
+  height: 37px;
   position: relative;
-  font-size: var(--font-size-26xl);
+  font-size: var(--font-size-18xl);
   line-height: 100%;
   font-weight: 600;
   font-family: var(--font-poppins);
@@ -39,7 +39,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs) 0;
+  padding: 8.228570938110352px 0;
   opacity: 1;
 }
 .agrospectrumLimitedIsALeadWrapper.animate,
@@ -59,7 +59,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-3xs);
+  padding: 8.228570938110352px;
   opacity: 1;
 }
 .frameWrapper,
@@ -71,15 +71,15 @@
 .proudlyGhanaianParent {
   flex-direction: column;
   justify-content: flex-start;
-  padding: var(--padding-44xl) var(--padding-3xs) var(--padding-3xs);
-  gap: 19px 0;
+  padding: 51.84000015258789px 8.228570938110352px 8.228570938110352px;
+  gap: 15.63px 0;
 }
 .frameWrapper {
   flex-direction: row;
   justify-content: space-between;
 }
 .droneIcon {
-  height: 636px;
+  height: 523.3px;
   flex: 1;
   position: relative;
   max-width: 100%;
@@ -99,16 +99,16 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  gap: 0 98px;
+  gap: 0 80.64px;
 }
 .container {
   background-color: var(--color-darkolivegreen-600);
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 var(--padding-141xl);
+  padding: 0 131.65713500976562px;
   text-align: justify;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-8);
   color: var(--color-white);
   font-family: var(--font-inter);
 }

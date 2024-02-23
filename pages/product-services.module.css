@@ -1,10 +1,10 @@
 .bgBlurIcon {
-  width: 417.3px;
+  width: 340.8px;
   position: absolute;
   margin: 0 !important;
-  top: -180.4px;
-  left: 263.6px;
-  height: 624.9px;
+  top: -147.4px;
+  left: 215.3px;
+  height: 510.5px;
   z-index: 0;
 }
 .empowering {
@@ -21,42 +21,42 @@
 }
 .empoweringFarmersAndUnlockWrapper {
   align-self: stretch;
-  filter: drop-shadow(0 2.2px 5.47px rgba(0, 0, 0, 0.25));
+  filter: drop-shadow(0 1.8px 4.47px rgba(0, 0, 0, 0.25));
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 5.467952728271484px;
+  padding: 4.466166973114014px;
   z-index: 1;
 }
 .aRevolutionaryDigital {
-  width: 444px;
+  width: 362.7px;
   position: relative;
-  letter-spacing: 0.49px;
+  letter-spacing: 0.4px;
   line-height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  text-shadow: 0 2.2px 3.28px rgba(0, 0, 0, 0.25);
+  text-shadow: 0 1.8px 2.68px rgba(0, 0, 0, 0.25);
 }
 .aRevolutionaryDigitalInnoWrapper {
-  width: 477px;
+  width: 389.6px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 65.61543273925781px;
+  padding: 0 53.59400177001953px;
   box-sizing: border-box;
   z-index: 2;
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-xs-4);
 }
 .scrollDownChild {
-  width: 9.5px;
+  width: 7.7px;
   position: relative;
   border-radius: 50%;
   background-color: var(--color-goldenrod-300);
-  height: 9.5px;
+  height: 7.7px;
 }
 .bgBlurParent,
 .scrollDown {
@@ -64,15 +64,15 @@
   align-items: center;
 }
 .scrollDown {
-  border-radius: 16.05px;
-  border: 1.5px solid var(--color-goldenrod-300);
+  border-radius: 13.11px;
+  border: 1.2px solid var(--color-goldenrod-300);
   box-sizing: border-box;
-  height: 58.1px;
+  height: 47.5px;
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: row;
   justify-content: center;
-  padding: 24.321651458740234px 8.107217788696289px;
+  padding: 19.865671157836914px 6.621891021728516px;
   z-index: 3;
 }
 .bgBlurParent {
@@ -80,16 +80,16 @@
   flex-direction: column;
   justify-content: flex-start;
   position: relative;
-  gap: 15px 0;
+  gap: 12.25px 0;
 }
 .allherops960 {
-  width: 960px;
+  width: 784.1px;
   overflow: hidden;
   display: none;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  padding: var(--padding-31xl) var(--padding-61xl);
+  padding: 40.8394775390625px 65.3431625366211px;
   box-sizing: border-box;
   background-image: url(/allherops960@3x.png);
   background-size: cover;
@@ -98,7 +98,7 @@
 }
 .empowering1 {
   margin-block-start: 0;
-  margin-block-end: 4.43px;
+  margin-block-end: 3.62px;
   font-weight: 300;
 }
 .span1 {
@@ -107,31 +107,31 @@
 }
 .farmers1 {
   margin-block-start: 0;
-  margin-block-end: 4.43px;
+  margin-block-end: 3.62px;
 }
 .andUnlockingGhanasAgricult {
   margin: 0;
 }
 .empoweringFarmersAndUnlockContainer {
   align-self: stretch;
-  filter: drop-shadow(0 2.2px 5.47px rgba(0, 0, 0, 0.25));
+  filter: drop-shadow(0 1.8px 4.47px rgba(0, 0, 0, 0.25));
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 5.467952728271484px var(--padding-mini);
+  padding: 4.466166973114014px 12.251843452453613px;
   z-index: 1;
 }
 .aRevolutionaryDigital1 {
-  width: 274px;
+  width: 223.8px;
   position: relative;
-  letter-spacing: 0.49px;
+  letter-spacing: 0.4px;
   line-height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  text-shadow: 0 2.2px 3.28px rgba(0, 0, 0, 0.25);
+  text-shadow: 0 1.8px 2.68px rgba(0, 0, 0, 0.25);
 }
 .aRevolutionaryDigitalInnoContainer {
   align-self: stretch;
@@ -139,9 +139,9 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 65.61543273925781px;
+  padding: 0 53.59400177001953px;
   z-index: 2;
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-3xs-8);
 }
 .allherops,
 .allherops420 {
@@ -149,34 +149,34 @@
   justify-content: center;
 }
 .allherops420 {
-  width: 420px;
+  width: 343.1px;
   overflow: hidden;
   display: none;
   align-items: center;
-  padding: var(--padding-11xl) var(--padding-21xl) var(--padding-21xl);
+  padding: 24.503686904907227px 32.67158126831055px 32.67158126831055px;
   box-sizing: border-box;
   background-image: url(/allherops420@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  font-size: var(--font-size-5xl);
+  font-size: 19.6px;
 }
 .allherops {
   align-self: stretch;
   display: flex;
   align-items: flex-start;
   text-align: center;
-  font-size: 39.4px;
+  font-size: 32.2px;
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
 .frame1082 {
   flex: 1;
   position: relative;
-  border-radius: var(--br-mini);
+  border-radius: 12.25px;
   max-width: 100%;
   overflow: hidden;
-  height: 708px;
+  height: 578.3px;
   object-fit: cover;
 }
 .subsidy {
@@ -187,7 +187,7 @@
   font-weight: 200;
 }
 .subsidyProgram {
-  font-size: var(--font-size-44xl);
+  font-size: var(--font-size-32xl-5);
   line-height: 96.75%;
 }
 .subsidyProgram,
@@ -201,7 +201,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 20px 0;
+  gap: 16.34px 0;
 }
 .climate,
 .frame1082Parent {
@@ -212,14 +212,14 @@
 .frame1082Parent {
   flex-direction: row;
   justify-content: center;
-  padding: var(--padding-xl) 0;
-  gap: var(--gap-51xl);
+  padding: 16.335790634155273px 0;
+  gap: 57.18px;
 }
 .climate {
   background-color: var(--color-darkolivegreen-600);
   flex-direction: column;
   justify-content: flex-start;
-  padding: 0 var(--padding-201xl);
+  padding: 0 179.69371032714844px;
   color: var(--color-white);
 }
 .span2 {
@@ -229,7 +229,7 @@
 .farmerKyc {
   align-self: stretch;
   position: relative;
-  font-size: var(--font-size-44xl);
+  font-size: var(--font-size-32xl-5);
   line-height: 96.75%;
   color: var(--color-darkolivegreen-600);
 }
@@ -243,7 +243,7 @@
 .climate1 {
   align-self: stretch;
   background-color: var(--color-goldenrod-300);
-  padding: 0 var(--padding-201xl);
+  padding: 0 179.69371032714844px;
 }
 .productServices {
   width: 100%;
@@ -251,7 +251,7 @@
   background-color: var(--color-darkslategray-300);
   overflow: hidden;
   text-align: left;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-mini-7);
   color: var(--color-darkslategray-100);
   font-family: var(--font-poppins);
 }
@@ -331,7 +331,7 @@
   }
   .frame1082Parent {
     display: flex;
-    gap: var(--gap-51xl);
+    gap: 57.18px;
   }
   .climate {
     display: flex;

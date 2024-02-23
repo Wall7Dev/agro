@@ -1,11 +1,11 @@
 .roundplus2 {
-  border-radius: var(--br-11xl);
-  border: 2px solid var(--color-goldenrod-300);
+  border-radius: var(--br-6xl);
+  border: 1.7px solid var(--color-goldenrod-300);
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-mid);
-  gap: 0 10px;
+  padding: 14.168907165527344px;
+  gap: 0 8.33px;
 }
 .roundplus2:active .combinedShapeIcon17 {
   display: none;
@@ -31,6 +31,6 @@
   justify-content: flex-start;
 }
 .faq3 {
-  gap: 15px 0;
-  font-size: var(--font-size-xl);
+  gap: 12.5px 0;
+  font-size: var(--font-size-base-7);
 }
