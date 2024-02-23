@@ -2101,7 +2101,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                   <img
                     className={styles.gradientmsgItem}
                     alt=""
-                    src="/group-206@2x.png"
+                    src="/group-2061@2x.png"
                   />
                   <div className={styles.weSupportAgribusinessIndustGroup}>
                     <b
@@ -2396,7 +2396,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                   <img
                     className={styles.gradientmsgInner}
                     alt=""
-                    src="/group-2061@2x.png"
+                    src="/group-20611@2x.png"
                   />
                   <div className={styles.weSupportAgribusinessIndustContainer}>
                     <b

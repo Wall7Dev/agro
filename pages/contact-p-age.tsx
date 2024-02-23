@@ -464,7 +464,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgItem}
                   alt=""
-                  src="/group-20611@2x.png"
+                  src="/group-206111@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustGroup}>
                   <b
