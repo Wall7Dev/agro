@@ -1075,7 +1075,7 @@
   padding: 12.05959701538086px 19.29535484313965px;
   gap: 0 4.82px;
   cursor: pointer;
-  font-size: var(--font-size-5xs-2);
+  font-size: 7.2px;
 }
 .weSupportAgribusinessIndustGroup {
   flex: 1;
@@ -1786,7 +1786,7 @@
   padding: 9.909844398498535px 33.03281784057617px;
   z-index: 6;
   text-align: left;
-  font-size: var(--font-size-6xs-3);
+  font-size: 6.3px;
   color: var(--color-darkslategray-100);
   font-family: var(--font-lexend-deca);
 }
@@ -2091,7 +2091,7 @@
   box-sizing: border-box;
   position: relative;
   gap: var(--gap-9xs-3);
-  font-size: var(--font-size-6xs-6);
+  font-size: 6.6px;
 }
 .contactpage,
 .outTeam {

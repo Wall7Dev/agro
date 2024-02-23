@@ -1349,7 +1349,7 @@
   background-repeat: no-repeat;
   background-position: top;
   text-align: center;
-  font-size: var(--font-size-10xs-9);
+  font-size: 2.9px;
   color: var(--color-goldenrod-300);
   font-family: var(--font-poppins);
 }

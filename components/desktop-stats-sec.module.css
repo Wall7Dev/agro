@@ -8,9 +8,9 @@
 }
 .m1 {
   position: absolute;
-  width: 136.3%;
-  top: 0.18%;
-  left: -13.98%;
+  width: 136.26%;
+  top: 0.19%;
+  left: -13.95%;
   font-weight: 800;
   background: linear-gradient(100.75deg, #358f43, #feca3a);
   -webkit-background-clip: text;
@@ -19,7 +19,7 @@
 }
 .m {
   align-self: stretch;
-  height: 56.1px;
+  height: 53.3px;
   position: relative;
   opacity: 1;
 }
@@ -28,7 +28,7 @@
 }
 .farmersRegistered1 {
   position: absolute;
-  width: 100.04%;
+  width: 100%;
   top: 0;
   left: 0;
   font-weight: 600;
@@ -36,26 +36,26 @@
 }
 .farmersRegistered {
   align-self: stretch;
-  height: 31.3px;
+  height: 29.7px;
   position: relative;
   opacity: 1;
-  font-size: var(--font-size-xl-9);
+  font-size: var(--font-size-lgi-8);
 }
 .farmersRegistered.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
 }
 .instanceChild {
-  width: 80.3px;
+  width: 76.1px;
   position: relative;
-  border-top: 0.7px solid var(--color-seagreen);
+  border-top: 0.6px solid var(--color-seagreen);
   box-sizing: border-box;
-  height: 0.7px;
+  height: 0.6px;
 }
 .registratedAndKyc {
-  width: 220.5px;
-  height: 45px;
+  width: 209.2px;
+  height: 42px;
   position: relative;
-  font-size: var(--font-size-3xs-8);
+  font-size: var(--font-size-3xs-3);
   font-weight: 200;
   white-space: pre-wrap;
   display: inline-block;
@@ -65,12 +65,12 @@
   animation: 3s ease 0s 1 normal forwards scale-up;
 }
 .mParent {
-  width: 226.7px;
+  width: 215.1px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  gap: 11.08px 0;
+  gap: 10.51px 0;
 }
 .farmersRegistered3,
 .m3 {
@@ -79,9 +79,9 @@
   opacity: 1;
 }
 .m3 {
-  width: 136.3%;
-  top: 0.18%;
-  left: -13.98%;
+  width: 136.26%;
+  top: 0.19%;
+  left: -13.95%;
   font-weight: 800;
   background: linear-gradient(100.75deg, #358f43, #feca3a);
   -webkit-background-clip: text;
@@ -91,7 +91,7 @@
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .farmersRegistered3 {
-  width: 100.04%;
+  width: 100%;
   top: 0;
   left: 0;
   font-weight: 600;
@@ -103,10 +103,10 @@
   margin: 0;
 }
 .registratedAndKycContainer {
-  width: 220.5px;
-  height: 45px;
+  width: 209.2px;
+  height: 42px;
   position: relative;
-  font-size: var(--font-size-3xs-8);
+  font-size: var(--font-size-3xs-3);
   font-weight: 200;
   display: inline-block;
   opacity: 1;
@@ -123,7 +123,7 @@
 }
 .instanceParent {
   justify-content: center;
-  gap: 0 66.68px;
+  gap: 0 63.25px;
 }
 .desktopStatsSec3 {
   background: linear-gradient(#061803, #061803),
@@ -136,9 +136,9 @@
     );
   overflow: hidden;
   justify-content: space-between;
-  padding: 53.341766357421875px 166.69302368164062px;
+  padding: 50.60059356689453px 158.12686157226562px;
   text-align: center;
-  font-size: var(--font-size-23xl-4);
+  font-size: var(--font-size-21xl-2);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

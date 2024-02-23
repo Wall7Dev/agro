@@ -28,7 +28,7 @@ const Arrow: NextPage = () => {
         className={styles.navRightsvgFill}
         onClick={onNavRightsvgFillContainerClick}
       >
-        <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+        <img className={styles.vectorIcon} alt="" src="/vector16.svg" />
         <img
           className={styles.path2Icon}
           alt=""
@@ -46,11 +46,11 @@ const Arrow: NextPage = () => {
         className={styles.navRightsvgFill1}
         onClick={onNavRightsvgFillContainer1Click}
       >
-        <img className={styles.vectorIcon1} alt="" src="/vector.svg" />
+        <img className={styles.vectorIcon1} alt="" src="/vector17.svg" />
         <img
           className={styles.path2Icon1}
           alt=""
-          src="/path-2.svg"
+          src="/path-21.svg"
           onClick={onPath2Icon2Click}
         />
       </div>

@@ -8,9 +8,9 @@
 }
 .whatWeOffer {
   align-self: stretch;
-  height: 81px;
+  height: 77px;
   position: relative;
-  font-size: var(--font-size-35xl-2);
+  font-size: var(--font-size-32xl-4);
   display: inline-block;
   opacity: 1;
 }
@@ -32,7 +32,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.334650993347168px;
+  padding: 7.90634298324585px;
 }
 .productAndServicesSec4Inner {
   flex-direction: column;
@@ -41,7 +41,7 @@
   opacity: 1;
 }
 .frameChild {
-  width: 489.2px;
+  width: 464px;
   max-height: 100%;
   overflow: hidden;
   flex-shrink: 0;
@@ -57,11 +57,11 @@
   text-transform: capitalize;
 }
 .frameItem {
-  width: 444.2px;
+  width: 421.3px;
   position: relative;
-  border-radius: 8.33px;
+  border-radius: 7.91px;
   background-color: var(--color-goldenrod-300);
-  height: 4.2px;
+  height: 4px;
 }
 .inputCreditManagementSystemParent {
   align-self: stretch;
@@ -69,15 +69,15 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 2.5px 0;
+  gap: 2.37px 0;
   opacity: 1;
-  font-size: var(--font-size-4xl-3);
+  font-size: var(--font-size-3xl-1);
 }
 .inputCreditManagementSystemParent.animate {
   animation: 4s ease 0s 1 normal forwards scale-up;
 }
 .theInputCredit {
-  height: 72px;
+  height: 69px;
   flex: 1;
   position: relative;
   text-transform: capitalize;
@@ -94,7 +94,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.334650993347168px;
+  padding: 7.90634298324585px;
   opacity: 1;
 }
 .thisProductDigitalisesTheIWrapper.animate {
@@ -109,19 +109,19 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 8.33px 0;
+  gap: 7.91px 0;
 }
 .frameParent {
-  width: 981.7px;
+  width: 931.2px;
   flex-direction: row;
   align-items: center;
-  gap: 0 3.33px;
+  gap: 0 3.16px;
   text-align: left;
 }
 .paginationsIcon {
-  width: 36.5px;
+  width: 34.6px;
   position: relative;
-  height: 13.6px;
+  height: 12.9px;
 }
 .projectArrow {
   display: flex;
@@ -130,10 +130,10 @@
   justify-content: flex-start;
 }
 .divider {
-  width: 204.5px;
+  width: 193.9px;
   position: relative;
   background-color: var(--color-gray-1300);
-  height: 1.3px;
+  height: 1.2px;
 }
 .navigation,
 .projectArrowParent {
@@ -158,10 +158,10 @@
 .thisProductAlsoContainer {
   align-self: stretch;
   position: relative;
-  font-size: 15.8px;
+  font-size: var(--font-size-mini);
   color: var(--color-white);
   display: inline-block;
-  height: 83.4px;
+  height: 79.1px;
   flex-shrink: 0;
 }
 .inputCreditManagementSystemGroup,
@@ -171,10 +171,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  gap: 33.34px 0;
-}
-.inputCreditManagementSystemGroup {
-  font-size: var(--font-size-9xl-3);
+  gap: 31.63px 0;
+  font-size: var(--font-size-7xl-9);
   color: var(--color-goldenrod-300);
 }
 .productAndServicesSec4 {
@@ -184,9 +182,9 @@
     rgba(255, 255, 255, 0)
   );
   overflow: hidden;
-  padding: 33.33860397338867px 229.20291137695312px;
+  padding: 31.6253719329834px 217.4244384765625px;
   text-align: center;
-  font-size: 15.8px;
+  font-size: var(--font-size-mini);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

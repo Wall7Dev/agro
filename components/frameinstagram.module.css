@@ -7,7 +7,7 @@
   }
 }
 .trustUs {
-  font-size: 15.5px;
+  font-size: var(--font-size-sm-9);
 }
 .theRenownCompaniesContainer {
   align-self: stretch;
@@ -17,33 +17,33 @@
 }
 .download3Icon,
 .download5Icon {
-  width: 64.7px;
+  width: 58.2px;
   position: relative;
-  height: 53.9px;
+  height: 48.5px;
   object-fit: cover;
 }
 .download3Icon {
-  width: 42.1px;
-  height: 44.7px;
+  width: 37.9px;
+  height: 40.2px;
 }
 .download5Parent {
-  width: 205.3px;
+  width: 184.7px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0 62.58px;
+  gap: 0 56.31px;
 }
 .captureIcon,
 .download6Icon {
-  width: 120.5px;
+  width: 108.4px;
   position: relative;
-  height: 57px;
+  height: 51.3px;
   object-fit: cover;
 }
 .download6Icon {
-  width: 95.5px;
-  height: 54.7px;
+  width: 86px;
+  height: 49.2px;
 }
 .captureParent,
 .frameGroup {
@@ -51,28 +51,28 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  gap: 0 47.81px;
+  gap: 0 43.02px;
 }
 .frameGroup {
   align-self: stretch;
-  gap: 0 64.69px;
+  gap: 0 58.21px;
 }
 .download2Icon,
 .download5Icon1,
 .ignitiaLogo1Icon {
-  width: 62px;
+  width: 55.8px;
   position: relative;
-  height: 43.9px;
+  height: 39.5px;
   object-fit: cover;
 }
 .download2Icon,
 .ignitiaLogo1Icon {
-  width: 46.2px;
-  height: 50.1px;
+  width: 41.6px;
+  height: 45.1px;
 }
 .ignitiaLogo1Icon {
-  width: 100.2px;
-  height: 40.2px;
+  width: 90.1px;
+  height: 36.1px;
 }
 .download5Group {
   flex: 1;
@@ -80,42 +80,42 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0 31.64px;
+  gap: 0 28.47px;
 }
 .download1Icon,
 .images1Icon {
-  width: 98.4px;
+  width: 88.6px;
   position: relative;
-  height: 42.1px;
+  height: 37.9px;
   object-fit: cover;
 }
 .images1Icon {
-  width: 60px;
-  height: 64.8px;
+  width: 54px;
+  height: 58.3px;
 }
 .agromite {
   position: absolute;
-  top: 43.9px;
-  left: 3.5px;
+  top: 39.5px;
+  left: 3.1px;
   letter-spacing: 0.1em;
   font-weight: 500;
   display: flex;
   align-items: center;
-  width: 33px;
-  height: 6.4px;
+  width: 29.7px;
+  height: 5.7px;
 }
 .downloadIcon {
   position: absolute;
   top: 0;
   left: 0;
-  width: 39.3px;
-  height: 43.4px;
+  width: 35.4px;
+  height: 39px;
   object-fit: cover;
 }
 .agromiteParent {
-  width: 39.3px;
+  width: 35.4px;
   position: relative;
-  height: 50.3px;
+  height: 45.3px;
 }
 .download1Parent,
 .frameContainer {
@@ -126,21 +126,21 @@
 .download1Parent {
   flex: 1;
   align-items: center;
-  gap: 0 30.77px;
+  gap: 0 27.69px;
   text-align: left;
-  font-size: var(--font-size-7xs-3);
+  font-size: var(--font-size-8xs-8);
   color: var(--color-black);
   font-family: var(--font-montserrat);
 }
 .frameContainer {
   align-self: stretch;
   align-items: flex-start;
-  gap: 0 64.69px;
+  gap: 0 58.21px;
 }
 .mofaColorIcon {
-  width: 213.4px;
+  width: 192px;
   position: relative;
-  height: 47.8px;
+  height: 43px;
   object-fit: cover;
 }
 .frameParent,
@@ -154,8 +154,8 @@
   align-self: stretch;
 }
 .frameParent {
-  width: 684.9px;
-  gap: 21.09px;
+  width: 616.3px;
+  gap: 18.98px;
   opacity: 1;
 }
 .frameParent.animate {
@@ -172,9 +172,9 @@
 .theRenownCompaniesThatTrusParent {
   flex-direction: column;
   justify-content: flex-start;
-  gap: 24.61px 0;
+  gap: 22.14px 0;
   text-align: center;
-  font-size: var(--font-size-sm-4);
+  font-size: var(--font-size-xs);
   color: var(--color-darkolivegreen-100);
   font-family: var(--font-poppins);
 }
@@ -199,7 +199,7 @@
     align-self: stretch;
     width: auto;
     flex-direction: row;
-    gap: 0 64.69px;
+    gap: 0 58.21px;
     padding: var(--padding-3xs) var(--padding-mini);
     box-sizing: border-box;
   }
@@ -217,14 +217,14 @@
 }
 @media screen and (max-width: 960px) {
   .download5Parent {
-    gap: 0 62.58px;
+    gap: 0 56.31px;
   }
   .captureParent {
-    gap: 0 47.81px;
+    gap: 0 43.02px;
   }
   .frameGroup {
     flex-direction: row;
-    gap: 0 64.69px;
+    gap: 0 58.21px;
   }
   .download1Parent,
   .download5Group {

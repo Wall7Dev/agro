@@ -1110,7 +1110,7 @@
   align-items: center;
   gap: 0 36.92px;
   text-align: left;
-  font-size: 6.4px;
+  font-size: var(--font-size-6xs-4);
   color: var(--color-black);
   font-family: var(--font-montserrat);
 }

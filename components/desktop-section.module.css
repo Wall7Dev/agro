@@ -48,12 +48,12 @@
 }
 .bgBlur2,
 .bgBlurIcon {
-  width: 662.8px;
-  height: 992.8px;
+  width: 628.8px;
+  height: 941.8px;
   position: absolute;
   margin: 0 !important;
-  top: 344.3px;
-  left: -147.5px;
+  top: 326.6px;
+  left: -139.9px;
   opacity: 0;
   z-index: 0;
 }
@@ -61,13 +61,13 @@
   animation: 13s ease 2s infinite normal forwards slide-in-top;
 }
 .bgBlur2 {
-  width: 541.7px;
-  height: 541.8px;
-  top: 841.1px;
-  left: 975px;
+  width: 513.8px;
+  height: 514px;
+  top: 797.9px;
+  left: 924.9px;
   border-radius: 50%;
   background-color: var(--color-goldenrod-600);
-  filter: blur(122.19px);
+  filter: blur(115.91px);
   z-index: 1;
 }
 .bgBlur2.animate {
@@ -85,7 +85,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8.334650993347168px;
+  padding: 7.90634298324585px;
 }
 .agrospectrumLimitedIs {
   flex: 1;
@@ -97,8 +97,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 8.334650993347168px;
-  font-size: var(--font-size-sm-3);
+  padding: 7.90634298324585px;
+  font-size: var(--font-size-smi-7);
   color: var(--color-white);
 }
 .introAgrospectrum {
@@ -108,8 +108,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 16.669301986694336px 99.18234252929688px;
-  gap: 8.33px 0;
+  padding: 15.8126859664917px 94.0854721069336px;
+  gap: 7.91px 0;
   opacity: 1;
 }
 .introAgrospectrum.animate,
@@ -123,19 +123,19 @@
 .whyWorkWithContainer {
   margin: 0;
   align-self: stretch;
-  height: 125px;
+  height: 119px;
   position: relative;
-  font-size: var(--font-size-64xl-3);
+  font-size: var(--font-size-60xl-1);
   color: var(--color-goldenrod-100);
   display: inline-block;
   opacity: 1;
   font-family: inherit;
 }
 .frameChild {
-  width: 395.8px;
+  width: 375.5px;
   position: relative;
-  border-radius: 33.34px;
-  height: 289.3px;
+  border-radius: 31.63px;
+  height: 274.4px;
   object-fit: cover;
 }
 .rectangleWrapper {
@@ -147,7 +147,7 @@
 }
 .weOfferA {
   align-self: stretch;
-  height: 90px;
+  height: 87px;
   position: relative;
   font-weight: 600;
   display: inline-block;
@@ -158,9 +158,9 @@
 }
 .inTheHeartContainer {
   align-self: stretch;
-  height: 90px;
+  height: 85px;
   position: relative;
-  font-size: var(--font-size-mini);
+  font-size: var(--font-size-mini-2);
   display: inline-block;
   opacity: 1;
 }
@@ -173,7 +173,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 40.01px 0;
+  gap: 37.95px 0;
 }
 .frameParent,
 .frameWrapper {
@@ -184,12 +184,12 @@
 .frameWrapper {
   flex: 1;
   flex-direction: column;
-  padding: 8.334650993347168px;
+  padding: 7.90634298324585px;
 }
 .frameParent {
   align-self: stretch;
   flex-direction: row;
-  gap: 63.34px;
+  gap: 60.09px;
 }
 .ghanasAgriculturalSector,
 .unlockingGhanasAgriculturalContainer {
@@ -199,15 +199,15 @@
   opacity: 1;
 }
 .unlockingGhanasAgriculturalContainer {
-  height: 60px;
+  height: 58px;
   font-weight: 600;
 }
 .unlockingGhanasAgriculturalContainer.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .ghanasAgriculturalSector {
-  height: 108px;
-  font-size: var(--font-size-mini);
+  height: 102px;
+  font-size: var(--font-size-mini-2);
 }
 .ghanasAgriculturalSector.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
@@ -216,7 +216,7 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 12.5px 0;
+  gap: 11.86px 0;
 }
 .frameGroup,
 .rectangleContainer,
@@ -233,7 +233,7 @@
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
-  gap: 0 63.34px;
+  gap: 0 60.09px;
 }
 .featuresimages,
 .introAgrospectrumParent {
@@ -243,24 +243,24 @@
   justify-content: flex-start;
 }
 .featuresimages {
-  width: 863.3px;
-  gap: 83.35px 0;
+  width: 819px;
+  gap: 79.06px 0;
   text-align: left;
-  font-size: var(--font-size-6xl);
+  font-size: var(--font-size-4xl-7);
   color: var(--color-white);
   font-family: var(--font-inter);
 }
 .introAgrospectrumParent {
-  gap: 25px 0;
+  gap: 23.72px 0;
   z-index: 2;
 }
 .desktopSection2Child {
-  width: 506.7px;
+  width: 480.6px;
   position: absolute;
   margin: 0 !important;
-  top: -101.6px;
-  left: 1044.2px;
-  height: 506.8px;
+  top: -96.4px;
+  left: 990.5px;
+  height: 480.8px;
   z-index: 3;
 }
 .desktopSection2 {
@@ -271,11 +271,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 50.00790786743164px 166.69302368164062px 66.67720794677734px;
+  padding: 47.43805694580078px 158.12686157226562px 63.2507438659668px;
   position: relative;
-  gap: 8.33px;
+  gap: 7.91px;
   text-align: center;
-  font-size: var(--font-size-9xl-3);
+  font-size: var(--font-size-7xl-9);
   color: var(--color-goldenrod-700);
   font-family: var(--font-poppins);
 }

@@ -1,95 +1,95 @@
 .download2Icon,
 .download5Icon {
   position: absolute;
-  top: 13.2px;
-  left: 1360.2px;
-  width: 43.4px;
-  height: 43.4px;
+  top: 12.5px;
+  left: 1290.3px;
+  width: 41.2px;
+  height: 41.2px;
   object-fit: cover;
 }
 .download5Icon {
-  top: 13.9px;
-  left: 242.2px;
-  width: 72.8px;
-  height: 47.6px;
+  top: 13.2px;
+  left: 229.7px;
+  width: 69.1px;
+  height: 45.2px;
 }
 .download3Icon,
 .download5Icon1,
 .downloadIcon {
   position: absolute;
-  top: 4.8px;
-  left: 1251.6px;
-  width: 47.6px;
-  height: 52.5px;
+  top: 4.6px;
+  left: 1187.3px;
+  width: 45.2px;
+  height: 49.8px;
   object-fit: cover;
 }
 .download3Icon,
 .download5Icon1 {
-  top: 10.4px;
-  left: 21.7px;
-  width: 58.8px;
-  height: 49px;
+  top: 9.9px;
+  left: 20.6px;
+  width: 55.8px;
+  height: 46.5px;
 }
 .download3Icon {
-  top: 16.7px;
-  left: 135.1px;
-  width: 41.3px;
-  height: 40.6px;
+  top: 15.8px;
+  left: 128.1px;
+  width: 39.2px;
+  height: 38.5px;
 }
 .captureIcon,
 .imagesIcon,
 .mofaColorIcon {
   position: absolute;
-  top: 9px;
-  left: 360.5px;
-  width: 118.3px;
-  height: 51.8px;
+  top: 8.5px;
+  left: 342px;
+  width: 112.2px;
+  height: 49.1px;
   object-fit: cover;
 }
 .imagesIcon,
 .mofaColorIcon {
-  top: 13.9px;
-  left: 519.4px;
-  width: 207.2px;
-  height: 43.4px;
+  top: 13.2px;
+  left: 492.7px;
+  width: 196.6px;
+  height: 41.2px;
 }
 .imagesIcon {
-  top: 20.2px;
-  left: 756px;
-  width: 96.6px;
-  height: 32.9px;
+  top: 19.2px;
+  left: 717.2px;
+  width: 91.6px;
+  height: 31.2px;
   mix-blend-mode: difference;
 }
 .download1Icon,
 .download6Icon,
 .images1Icon {
   position: absolute;
-  top: 9.7px;
-  left: 877.8px;
-  width: 86.8px;
-  height: 49.7px;
+  top: 9.2px;
+  left: 832.7px;
+  width: 82.3px;
+  height: 47.1px;
   object-fit: cover;
 }
 .download1Icon,
 .images1Icon {
   top: -0.1px;
-  left: 998.9px;
-  width: 70px;
-  height: 70px;
+  left: 947.6px;
+  width: 66.4px;
+  height: 66.4px;
 }
 .download1Icon {
-  top: 12.5px;
-  left: 1106px;
-  width: 114.8px;
-  height: 45.5px;
+  top: 11.9px;
+  left: 1049.2px;
+  width: 108.9px;
+  height: 43.2px;
 }
 .dsktopBanner2 {
   position: absolute;
   top: 0;
-  left: 1435.2px;
+  left: 1361.5px;
   background: linear-gradient(90deg, #a1b5a1, #fbfbfb);
-  box-shadow: 0 3.3px 51.67px rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(50.01px);
-  width: 1435.2px;
-  height: 70px;
+  box-shadow: 0 3.2px 49.02px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(47.44px);
+  width: 1361.5px;
+  height: 66.4px;
 }

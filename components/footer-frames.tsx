@@ -28,7 +28,7 @@ const FooterFrames: NextPage<FooterFramesType> = ({
         <img
           className={styles.frameChild}
           alt=""
-          src="/arrow-10.svg"
+          src="/arrow-105.svg"
           onClick={onArrowIconClick}
         />
         <div className={styles.nowWere} onClick={onNowWereText19Click}>
@@ -57,16 +57,16 @@ const FooterFrames: NextPage<FooterFramesType> = ({
         </div>
         <div className={styles.instagramParent}>
           <div className={styles.instagram}>
-            <img className={styles.groupIcon} alt="" src="/group.svg" />
+            <img className={styles.groupIcon} alt="" src="/group6.svg" />
           </div>
           <div className={styles.vectorWrapper}>
-            <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+            <img className={styles.vectorIcon} alt="" src="/vector23.svg" />
           </div>
           <div className={styles.frame}>
-            <img className={styles.vectorIcon1} alt="" src="/vector1.svg" />
+            <img className={styles.vectorIcon1} alt="" src="/vector110.svg" />
           </div>
           <div className={styles.vectorContainer}>
-            <img className={styles.vectorIcon2} alt="" src="/vector2.svg" />
+            <img className={styles.vectorIcon2} alt="" src="/vector24.svg" />
           </div>
         </div>
       </div>

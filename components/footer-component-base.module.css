@@ -138,7 +138,6 @@
   align-items: center;
   justify-content: flex-start;
   padding: 0 var(--padding-61xl);
-  gap: var(--gap-3xs);
 }
 .frameChild {
   width: 1206px;

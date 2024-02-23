@@ -170,7 +170,7 @@
 }
 .getInTouch {
   position: relative;
-  font-size: 16.6px;
+  font-size: var(--font-size-base-6);
   line-height: 10.6px;
   font-family: var(--font-poppins);
   color: var(--color-white);

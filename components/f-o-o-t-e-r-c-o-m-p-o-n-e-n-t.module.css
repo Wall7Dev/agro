@@ -10,109 +10,109 @@
 .download5Icon,
 .download5Icon1 {
   position: absolute;
-  top: 10.5px;
+  top: 10px;
   left: 0;
-  width: 58.8px;
-  height: 49px;
+  width: 55.8px;
+  height: 46.5px;
   object-fit: cover;
 }
 .captureIcon,
 .download5Icon1 {
-  top: 11.2px;
-  left: 104.7px;
-  width: 72.8px;
-  height: 47.6px;
+  top: 10.6px;
+  left: 99.3px;
+  width: 69.1px;
+  height: 45.2px;
 }
 .captureIcon {
-  top: 9.1px;
-  left: 223.5px;
-  width: 118.3px;
-  height: 51.8px;
+  top: 8.6px;
+  left: 212px;
+  width: 112.2px;
+  height: 49.1px;
 }
 .download3Icon,
 .imagesIcon,
 .mofaColorIcon {
   position: absolute;
-  top: 13.3px;
-  left: 387.7px;
-  width: 207.2px;
-  height: 43.4px;
+  top: 12.6px;
+  left: 367.8px;
+  width: 196.6px;
+  height: 41.2px;
   object-fit: cover;
 }
 .download3Icon,
 .imagesIcon {
-  top: 14.7px;
-  left: 640.8px;
-  width: 41.3px;
-  height: 40.6px;
+  top: 13.9px;
+  left: 607.9px;
+  width: 39.2px;
+  height: 38.5px;
 }
 .imagesIcon {
-  top: 18.6px;
-  left: 728px;
-  width: 96.6px;
-  height: 32.9px;
+  top: 17.6px;
+  left: 690.6px;
+  width: 91.6px;
+  height: 31.2px;
   mix-blend-mode: difference;
 }
 .download1Icon,
 .download6Icon {
   position: absolute;
-  top: 10.2px;
-  left: 870.6px;
-  width: 86.8px;
-  height: 49.7px;
+  top: 9.6px;
+  left: 825.8px;
+  width: 82.3px;
+  height: 47.1px;
   object-fit: cover;
 }
 .download1Icon {
-  top: 12.3px;
-  left: 1003.3px;
-  width: 114.8px;
-  height: 45.5px;
+  top: 11.6px;
+  left: 951.7px;
+  width: 108.9px;
+  height: 43.2px;
 }
 .download2Icon,
 .downloadIcon,
 .images1Icon {
   position: absolute;
-  top: 8.8px;
-  left: 1164px;
-  width: 47.6px;
-  height: 52.5px;
+  top: 8.3px;
+  left: 1104.2px;
+  width: 45.2px;
+  height: 49.8px;
   object-fit: cover;
 }
 .download2Icon,
 .images1Icon {
   top: 0;
-  left: 1257.6px;
-  width: 70px;
-  height: 70px;
+  left: 1192.9px;
+  width: 66.4px;
+  height: 66.4px;
 }
 .download2Icon {
-  top: 13.3px;
-  left: 1373.5px;
-  width: 43.4px;
-  height: 43.4px;
+  top: 12.6px;
+  left: 1302.9px;
+  width: 41.2px;
+  height: 41.2px;
 }
 .download5Group,
 .download5Parent,
 .frameParent {
   position: absolute;
   top: 0;
-  left: 1471.1px;
-  width: 1416.9px;
-  height: 70px;
+  left: 1395.5px;
+  width: 1344.1px;
+  height: 66.4px;
 }
 .download5Group,
 .frameParent {
   left: 0;
 }
 .frameParent {
-  left: -25.8px;
-  width: 2889.6px;
+  left: -24.5px;
+  width: 2741.1px;
 }
 .component1 {
-  width: 1465.2px;
+  width: 1389.9px;
   position: relative;
   background: linear-gradient(90deg, #fbfbfb, rgba(161, 181, 161, 0.99));
-  height: 70px;
+  height: 66.4px;
   overflow: hidden;
   flex-shrink: 0;
 }
@@ -125,7 +125,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  padding: 33.33860397338867px;
+  padding: 31.625370025634766px;
   opacity: 1;
 }
 .transformParent.animate {
@@ -137,11 +137,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 66.67720794677734px;
-  gap: 8.33px;
+  padding: 0 63.25074005126953px;
 }
 .frameChild {
-  width: 1005.2px;
+  width: 953.5px;
   position: relative;
   border-top: 0.8px solid var(--color-white);
   box-sizing: border-box;
@@ -154,22 +153,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 0 250.03953552246094px;
+  padding: 0 237.19027709960938px;
 }
 .nowWere,
 .nowWere1 {
-  width: 338.4px;
+  width: 321px;
   position: relative;
-  letter-spacing: 0.75px;
-  line-height: 16.67px;
+  letter-spacing: 0.71px;
+  line-height: 15.81px;
   text-transform: capitalize;
   font-weight: 500;
   display: inline-block;
-  height: 23.3px;
+  height: 22.1px;
   flex-shrink: 0;
 }
 .nowWere1 {
-  width: 444.2px;
+  width: 421.4px;
 }
 .nowWereParent {
   align-self: stretch;
@@ -178,7 +177,7 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 8.334650993347168px 191.6969757080078px;
+  padding: 7.906342506408691px 181.84588623046875px;
 }
 .footerComponent,
 .frameGroup {
@@ -191,11 +190,12 @@
   align-items: center;
 }
 .footerComponent {
-  width: 1440.2px;
+  width: 1366px;
   background-color: var(--color-darkslategray-300);
   align-items: flex-start;
+  z-index: 13;
   text-align: center;
-  font-size: var(--font-size-sm-3);
+  font-size: var(--font-size-smi-7);
   color: var(--color-white);
   font-family: var(--font-poppins);
 }

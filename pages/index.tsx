@@ -1,4 +1,5 @@
 import type { NextPage } from "next";
+import Head from "next/head";
 import { useState, useCallback, useEffect } from "react";
 import { LinearProgress, Box, CircularProgress } from "@mui/material";
 import NavDesktop from "../components/nav-desktop";
@@ -421,7 +422,7 @@ const Homepage: NextPage = () => {
             </div>
             <div className={styles.pageNumbers} data-animate-on-scroll>
               <div className={styles.paginations}>
-                <Box className={styles.wrapper} sx={{ width: 53.7 }}>
+                <Box className={styles.wrapper} sx={{ width: 50.9 }}>
                   <CircularProgress />
                 </Box>
                 <img
@@ -480,7 +481,7 @@ const Homepage: NextPage = () => {
             </div>
             <div className={styles.pageNumbers1} data-animate-on-scroll>
               <div className={styles.paginations1}>
-                <Box className={styles.wrapper} sx={{ width: 37.1 }}>
+                <Box className={styles.wrapper} sx={{ width: 35.2 }}>
                   <CircularProgress />
                 </Box>
                 <img
@@ -532,7 +533,7 @@ const Homepage: NextPage = () => {
             </div>
             <div className={styles.pageNumbers2} data-animate-on-scroll>
               <div className={styles.paginations2}>
-                <Box className={styles.wrapper} sx={{ width: 30.3 }}>
+                <Box className={styles.wrapper} sx={{ width: 28.7 }}>
                   <CircularProgress />
                 </Box>
                 <img
@@ -584,7 +585,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
             <div className={styles.pageNumbers3} data-animate-on-scroll>
               <div className={styles.paginations3}>
-                <Box className={styles.wrapper} sx={{ width: 13.3 }}>
+                <Box className={styles.wrapper} sx={{ width: 12.6 }}>
                   <CircularProgress />
                 </Box>
                 <img
@@ -633,7 +634,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </section>
             <div className={styles.pageNumbers4}>
               <div className={styles.paginations4}>
-                <Box className={styles.wrapper} sx={{ width: 11.1 }}>
+                <Box className={styles.wrapper} sx={{ width: 10.6 }}>
                   <CircularProgress />
                 </Box>
                 <img
@@ -664,7 +665,8 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             </div>
           </section>
         </section>
-        <div className={styles.allhero}>
+        <img className={styles.homepageChild} alt="" src="/ellipse-5.svg" />
+        <div className={styles.allaotuscrollsectioln}>
           <div className={styles.logoAutoscrollframe}>
             <DsktopBanner1 />
             <DsktopBanner />
@@ -884,7 +886,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                       data-animate-on-scroll
                     >
                       <div
-                        className={styles.farmersRegistered17}
+                        className={styles.farmersRegistered9}
                       >{`Farming Acres `}</div>
                     </div>
                     <div className={styles.instanceChild5} />
@@ -911,7 +913,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                       className={styles.farmersRegistered16}
                       data-animate-on-scroll
                     >
-                      <div className={styles.farmersRegistered17}>
+                      <div className={styles.farmersRegistered9}>
                         Average farm size
                       </div>
                     </div>
@@ -935,7 +937,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                     className={styles.farmersRegistered16}
                     data-animate-on-scroll
                   >
-                    <div className={styles.farmersRegistered17}>
+                    <div className={styles.farmersRegistered9}>
                       Farmers Registered
                     </div>
                   </div>
@@ -956,7 +958,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
                     className={styles.farmersRegistered16}
                     data-animate-on-scroll
                   >
-                    <div className={styles.farmersRegistered17}>
+                    <div className={styles.farmersRegistered9}>
                       Districts Covered
                     </div>
                   </div>
@@ -1723,7 +1725,7 @@ We provide an ecosystem for all the players in the agricultural supply chain. `}
             <Frameinstagram />
           </div>
         </section>
-        <div className={styles.allhero}>
+        <div className={styles.outTeam}>
           <div className={styles.dktpTeamFaqCta}>
             <img
               className={styles.dktpTeamFaqCtaChild}
