@@ -1,0 +1,278 @@
+.clipPathGroup {
+  position: absolute;
+  height: 86.46%;
+  width: 23.7%;
+  top: 12.66%;
+  right: 76.3%;
+  bottom: 0.87%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.clipPathGroup1 {
+  height: 83.41%;
+  width: 12.68%;
+  top: -1.31%;
+  right: 59.24%;
+  bottom: 17.9%;
+  left: 28.08%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.clipPathGroup1,
+.clipPathGroup2,
+.oursubsidiarylogosChild {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.clipPathGroup2 {
+  height: 80.79%;
+  width: 21.65%;
+  top: 6.99%;
+  right: 34.33%;
+  bottom: 12.23%;
+  left: 44.03%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.oursubsidiarylogosChild {
+  height: 69%;
+  width: 29.27%;
+  top: 10.48%;
+  right: 1.89%;
+  bottom: 20.52%;
+  left: 68.84%;
+}
+.oursubsidiarylogos {
+  position: absolute;
+  top: 1.1px;
+  left: 34.8px;
+  width: 312.3px;
+  height: 22.9px;
+  display: none;
+}
+.images21 {
+  position: absolute;
+  top: 5.5px;
+  left: 4px;
+  width: 11.9px;
+  height: 17.3px;
+  object-fit: cover;
+}
+.arrowframe {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 7.1px;
+  left: 60.9px;
+  width: 27.4px;
+  height: 27.4px;
+}
+.arrowframe:hover .oursubsidiarylogos {
+  display: flex;
+}
+.lgoframe,
+.logoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logoIcon {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lgoframe {
+  width: 53.4px;
+  height: 33.6px;
+  cursor: pointer;
+}
+.logoasset {
+  width: 99.4px;
+  position: relative;
+  height: 33.8px;
+}
+.linkAbout {
+  position: relative;
+  letter-spacing: 0.25px;
+  line-height: 15.18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.contactUs:hover,
+.linkAbout:hover,
+.linkPricing3:hover,
+.linkPricing:hover {
+  color: var(--color-goldenrod-100);
+}
+.homecChild {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.homec {
+  width: 31.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.37px 0;
+  cursor: pointer;
+}
+.linkPricing {
+  height: 16px;
+  position: relative;
+  font-size: var(--font-size-2xs-3);
+  letter-spacing: 0.25px;
+  line-height: 15.18px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  cursor: pointer;
+}
+.aboutus,
+.clientspartners,
+.producAndServices {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.clientspartners,
+.producAndServices {
+  justify-content: flex-end;
+}
+.clientspartners {
+  flex-direction: row;
+  justify-content: center;
+}
+.contactUs,
+.linkPricing3 {
+  position: relative;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  cursor: pointer;
+}
+.linkPricing3 {
+  height: 16px;
+  font-size: var(--font-size-xs-7);
+  letter-spacing: 0.25px;
+  line-height: 15.18px;
+  font-weight: 500;
+  text-align: left;
+}
+.contactUs {
+  height: 17px;
+  flex: 1;
+  font-size: var(--font-size-xs-9);
+  line-height: 16.13px;
+  font-weight: 600;
+  text-align: center;
+}
+.contactusContainer {
+  cursor: pointer;
+  border: 0.8px solid var(--color-yellowgreen-100);
+  padding: 9.487611770629883px 15.812685012817383px;
+  background-color: transparent;
+  width: 128.1px;
+  border-radius: 39.53px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.contactusContainer:hover {
+  background-color: var(--color-gray-900);
+}
+.handburgerChild,
+.handburgerInner,
+.handburgerItem {
+  width: 23.4px;
+  position: relative;
+  border-radius: 299.18px;
+  background-color: var(--color-yellowgreen-200);
+  height: 4.2px;
+  z-index: 0;
+}
+.handburgerInner,
+.handburgerItem {
+  z-index: 1;
+}
+.handburgerInner {
+  position: absolute;
+  margin: 0 !important;
+  top: 15.6px;
+  left: 0;
+  z-index: 2;
+}
+.handburger {
+  height: 19.8px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 3.95px 0;
+}
+.logorightnavlink,
+.navdesktop,
+.rightnavlink {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rightnavlink {
+  margin: 0;
+  width: 513px;
+  justify-content: flex-end;
+  gap: 0 15.81px;
+  text-align: left;
+  font-size: var(--font-size-2xs-3);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.logorightnavlink,
+.navdesktop {
+  align-self: stretch;
+  justify-content: space-between;
+}
+.navdesktop {
+  margin: 0;
+  background-color: var(--color-gray-1000);
+  box-shadow: 0 0 23.72px rgba(255, 255, 255, 0.02) inset;
+  backdrop-filter: blur(31.63px);
+  border: 0.8px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  height: 63.3px;
+  flex-direction: column;
+  justify-content: center;
+  padding: 11.068880081176758px 118.59513854980469px;
+  min-width: 746.2406616210938px;
+}
+@media screen and (max-width: 1200px) {
+  .navdesktop {
+    display: none;
+  }
+}
