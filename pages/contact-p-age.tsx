@@ -161,7 +161,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgChild}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2062@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustParent}>
                   <b
@@ -464,7 +464,7 @@ const ContactPAge: NextPage = () => {
                 <img
                   className={styles.gradientmsgItem}
                   alt=""
-                  src="/group-206@2x.png"
+                  src="/group-2063@2x.png"
                 />
                 <div className={styles.weSupportAgribusinessIndustGroup}>
                   <b

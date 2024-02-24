@@ -343,7 +343,7 @@
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .digitalization:hover {
-  font-size: 97px;
+  font-size: var(--font-size-52xl);
 }
 .platform {
   flex: 1;
@@ -374,7 +374,7 @@
   text-align: left;
 }
 .forTheFuture:hover {
-  font-size: var(--font-size-61xl);
+  font-size: var(--font-size-52xl);
 }
 .frameParent {
   width: 1013.2px;
@@ -400,7 +400,7 @@
   text-shadow: 0 4px 10.4px rgba(0, 0, 0, 0.25);
 }
 .weProvideAnContainer:hover {
-  font-size: var(--font-size-4xl);
+  font-size: var(--font-size-3xl);
 }
 .weProvideAnEcosystemForAlWrapper {
   align-self: stretch;
