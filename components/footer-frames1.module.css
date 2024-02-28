@@ -1,311 +1,280 @@
+.nowWere,
+.nowWere1 {
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
 .nowWere {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: uppercase;
-font-weight: 500;
+  align-self: stretch;
 }
 .nowWere1 {
-flex: 1;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: uppercase;
-font-weight: 500;
-cursor: pointer;
+  flex: 1;
+  cursor: pointer;
 }
-.nowWere1:hover {
-color: var(--color-goldenrod-300);
+.nowWere1:hover,
+.nowWere2:hover,
+.nowWere3:hover,
+.nowWere4:hover {
+  color: var(--color-goldenrod-300);
 }
 .nowWereWrapper {
-align-self: stretch;
-height: 29px;
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: flex-start;
+  align-self: stretch;
+  height: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
 }
 .nowWere2 {
-flex: 1;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: uppercase;
-font-weight: 500;
-display: flex;
-align-items: center;
-height: 28px;
-cursor: pointer;
+  cursor: pointer;
 }
-.nowWere2:hover {
-color: var(--color-goldenrod-300);
-}
+.nowWere2,
 .nowWere3 {
-flex: 1;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: uppercase;
-font-weight: 500;
-display: flex;
-align-items: center;
-height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 28px;
 }
-.nowWere3:hover {
-color: var(--color-goldenrod-300);
+.nowWere4,
+.nowWereFrame {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
 }
 .nowWereFrame {
-align-self: stretch;
-height: 35px;
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: flex-start;
-padding: var(--padding-3xs) 0px;
-box-sizing: border-box;
+  height: 35px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0;
+  box-sizing: border-box;
 }
 .nowWere4 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: uppercase;
-font-weight: 500;
-display: flex;
-align-items: center;
-height: 32px;
-flex-shrink: 0;
-cursor: pointer;
-}
-.nowWere4:hover {
-color: var(--color-goldenrod-300);
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 500;
+  height: 32px;
+  flex-shrink: 0;
+  cursor: pointer;
 }
 .frameChild {
-width: 83px;
-height: 0px;
-position: relative;
-object-fit: cover;
-display: none;
+  width: 83px;
+  height: 0;
+  position: relative;
+  object-fit: cover;
+  display: none;
 }
 .nowWereGroup {
-align-self: stretch;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: center;
-cursor: pointer;
+  align-self: stretch;
+  justify-content: center;
+  cursor: pointer;
 }
 .nowWereGroup:hover .frameChild {
-display: flex;
+  display: flex;
+}
+.frameContainer,
+.nowWereGroup,
+.nowWereParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .frameContainer {
-align-self: stretch;
-height: 144px;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: space-between;
-font-size: var(--font-size-base);
-color: var(--color-white);
+  align-self: stretch;
+  height: 144px;
+  justify-content: space-between;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
 }
 .nowWereParent {
-flex: 1;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 10px 0px;
+  flex: 1;
+  justify-content: flex-start;
+  gap: 10px 0;
 }
 .nowWere5 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: uppercase;
-font-weight: 500;
-display: flex;
-align-items: center;
-height: 22px;
-flex-shrink: 0;
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 46px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 22px;
+  flex-shrink: 0;
 }
 .nowWereWrapper1 {
-width: 160.8px;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
+  width: 160.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 .a {
-text-transform: uppercase;
+  text-transform: uppercase;
 }
 .grsopectrum {
-text-transform: lowercase;
+  text-transform: lowercase;
 }
 .agrsopectrumLtdTxtContainer {
-width: 100%;
+  width: 100%;
 }
 .agrsopectrumLtd {
-width: 151px;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-font-weight: 600;
-color: var(--color-white);
-display: flex;
-align-items: center;
-height: 25px;
-flex-shrink: 0;
+  width: 151px;
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 46px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  height: 25px;
+  flex-shrink: 0;
 }
 .frameParent1 {
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.nowWere6,
+.nowWere7 {
+  position: relative;
+  letter-spacing: 0.9px;
 }
 .nowWere6 {
-width: 169px;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: uppercase;
-font-weight: 600;
-display: flex;
-align-items: center;
-height: 21px;
-flex-shrink: 0;
+  width: 169px;
+  line-height: 46px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 21px;
+  flex-shrink: 0;
 }
 .nowWere7 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 24px;
-text-transform: capitalize;
-font-weight: 500;
+  align-self: stretch;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-weight: 500;
 }
 .nowWereParent2 {
-align-self: stretch;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 15px 0px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px 0;
 }
 .nowWereParent1 {
-width: 241.3px;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 15px 0px;
-font-size: var(--font-size-base);
-color: var(--color-white);
+  width: 241.3px;
+  flex-direction: column;
+  gap: 15px 0;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frameDiv,
+.frameGroup,
+.nowWereParent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 .frameDiv {
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 32px 0px;
-font-size: var(--font-size-mini);
+  flex-direction: column;
+  gap: 32px 0;
+  font-size: var(--font-size-mini);
 }
 .frameGroup {
-align-self: stretch;
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 0px 10px;
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 10px;
 }
-.nowWere10 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: uppercase;
-font-weight: 600;
+.nowWere10,
+.nowWere11 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 46px;
+  text-transform: uppercase;
+  font-weight: 600;
 }
 .nowWere11 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: capitalize;
-font-weight: 500;
+  text-transform: capitalize;
+  font-weight: 500;
 }
 .nowWereParent3 {
-align-self: stretch;
-flex: 1;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 10px 0px;
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
 }
-.nowWere14 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: capitalize;
-font-weight: 600;
+.nowWere14,
+.nowWere15 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.9px;
+  line-height: 46px;
+  text-transform: capitalize;
+  font-weight: 600;
 }
 .nowWere15 {
-align-self: stretch;
-position: relative;
-letter-spacing: 0.9px;
-line-height: 46px;
-text-transform: capitalize;
-font-weight: 500;
-display: flex;
-align-items: center;
-height: 27px;
-flex-shrink: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 27px;
+  flex-shrink: 0;
+}
+.nowWereParent4,
+.nowWereParent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 .nowWereParent5 {
-align-self: stretch;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 7px 0px;
+  align-self: stretch;
+  gap: 7px 0;
 }
 .nowWereParent4 {
-flex: 1;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 3px 0px;
+  flex: 1;
+  gap: 3px 0;
 }
+.frameParent,
 .frameParent2 {
-align-self: stretch;
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-justify-content: space-between;
-font-size: var(--font-size-base);
-color: var(--color-white);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
 }
 .frameParent {
-align-self: stretch;
-flex: 1;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-justify-content: flex-start;
-gap: 40px 0px;
-text-align: left;
-font-size: var(--font-size-sm);
-color: var(--color-seagreen);
-font-family: var(--font-poppins);
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-seagreen);
+  font-family: var(--font-poppins);
 }
-
 @media screen and (max-width: 1200px) {
-.frameParent {
-flex: unset;
-align-self: stretch;
-}
-
+  .frameParent {
+    flex: unset;
+    align-self: stretch;
+  }
 }

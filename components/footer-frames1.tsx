@@ -1,37 +1,38 @@
-import type { NextPage } from 'next';
-import { useCallback } from 'react';
-import {useRouter} from "next/router";
-import styles from './footer-frames1.module.css';
+import type { NextPage } from "next";
+import { useCallback } from "react";
+import { useRouter } from "next/router";
+import styles from "./footer-frames1.module.css";
 
 export type FooterFrames1Type = {
   line1?: string;
-  
+
   /** Action props */
   onNowWereText3Click?: () => void;
   onNowWereText4Click?: () => void;
   onDownloadButtonsContainer3Click?: () => void;
   onNowWereText6Click?: () => void;
-}
+};
 
-
-
-const FooterFrames1:NextPage<FooterFrames1Type> = ({ line1, onNowWereText3Click, onNowWereText4Click, onDownloadButtonsContainer3Click, onNowWereText6Click }) => {
+const FooterFrames1: NextPage<FooterFrames1Type> = ({
+  line1,
+  onNowWereText3Click,
+  onNowWereText4Click,
+  onDownloadButtonsContainer3Click,
+  onNowWereText6Click,
+}) => {
   const router = useRouter();
 
   const onNowWereTextClick = useCallback(() => {
     router.push("/careers");
   }, [router]);
 
-
   const onNowWereText2Click = useCallback(() => {
     router.push("/about-u-s-page");
   }, [router]);
 
-
   const onFrameContainer3Click = useCallback(() => {
     router.push("/projectspartners");
   }, [router]);
-
 
   const onNowWereText3Click = useCallback(() => {
     router.push("/projectspartners");
@@ -44,17 +45,31 @@ const FooterFrames1:NextPage<FooterFrames1Type> = ({ line1, onNowWereText3Click,
           <div className={styles.nowWere}>business</div>
           <div className={styles.frameContainer}>
             <div className={styles.nowWereWrapper}>
-              <div className={styles.nowWere1} onClick={onNowWereTextClick}>CAREERS</div>
+              <div className={styles.nowWere1} onClick={onNowWereTextClick}>
+                CAREERS
+              </div>
             </div>
             <div className={styles.nowWereWrapper}>
-              <div className={styles.nowWere2} onClick={onNowWereText2Click}>{`ABOUT US `}</div>
+              <div
+                className={styles.nowWere2}
+                onClick={onNowWereText2Click}
+              >{`ABOUT US `}</div>
             </div>
             <div className={styles.nowWereFrame}>
               <div className={styles.nowWere3}>PRIVACY POLICY</div>
             </div>
-            <div className={styles.nowWereGroup} onClick={onFrameContainer3Click}>
-              <div className={styles.nowWere4} onClick={onNowWereText3Click}>PARTNERS</div>
-              <img className={styles.frameChild} alt="" src="/line-1171@2x.png" />
+            <div
+              className={styles.nowWereGroup}
+              onClick={onFrameContainer3Click}
+            >
+              <div className={styles.nowWere4} onClick={onNowWereText3Click}>
+                PARTNERS
+              </div>
+              <img
+                className={styles.frameChild}
+                alt=""
+                src="/line-1171@2x.png"
+              />
             </div>
           </div>
         </div>
@@ -96,7 +111,8 @@ const FooterFrames1:NextPage<FooterFrames1Type> = ({ line1, onNowWereText3Click,
           </div>
         </div>
       </div>
-    </div>);
+    </div>
+  );
 };
 
 export default FooterFrames1;
