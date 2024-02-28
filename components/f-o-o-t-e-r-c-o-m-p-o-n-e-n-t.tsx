@@ -182,14 +182,14 @@ const FOOTERCOMPONENT: NextPage = () => {
         >
           <Transform onFramesWithTextClick={onFrameButtonClick} />
           <FooterFrames1
-            line1="/line-11@2x.png"
+            line1="/line-111@2x.png"
             onNowWereText3Click={onNowWereTextClick}
             onNowWereText4Click={onNowWereText2Click}
             onDownloadButtonsContainer3Click={onFrameContainer3Click}
             onNowWereText6Click={onNowWereText3Click}
           />
           <FooterFrames
-            propTop="-57.77%"
+            propTop="-23.79%"
             onArrowIconClick={onArrowIconClick}
             onNowWereText19Click={onNowWereText4Click}
           />

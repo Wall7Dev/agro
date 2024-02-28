@@ -84,7 +84,7 @@ const DesktopStatsSec: NextPage = () => {
           </div>
           <div className={styles.instanceChild} />
           <div
-            className={styles.registratedAndKycContainer}
+            className={styles.registratedAndKycContainer1}
             data-animate-on-scroll
           >
             <p
@@ -98,13 +98,13 @@ const DesktopStatsSec: NextPage = () => {
         </div>
         <div className={styles.mParent}>
           <div className={styles.m} data-animate-on-scroll>
-            <div className={styles.m1}>5 Acres</div>
+            <div className={styles.m7}>5 Acres</div>
           </div>
           <div className={styles.farmersRegistered} data-animate-on-scroll>
-            <div className={styles.farmersRegistered1}>Average farm size</div>
+            <div className={styles.farmersRegistered7}>Average farm size</div>
           </div>
           <div className={styles.instanceChild} />
-          <div className={styles.registratedAndKyc} data-animate-on-scroll>
+          <div className={styles.registratedAndKyc1} data-animate-on-scroll>
             We collected data on average farm size per farmer, including
             thousands of livestock farmers covered.
           </div>

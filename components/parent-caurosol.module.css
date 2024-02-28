@@ -62,11 +62,12 @@
   align-self: stretch;
   position: relative;
   font-size: var(--font-size-mid-3);
+  font-weight: 300;
   font-family: var(--font-inter);
   color: var(--color-white);
 }
 .mission {
-  width: 1366px;
+  width: 1407px;
   background-color: var(--color-gray-600);
   overflow: hidden;
   flex-shrink: 0;
@@ -212,7 +213,7 @@
   flex-direction: row;
   align-items: flex-start;
   gap: 0 0.79px;
-  z-index: 7;
+  z-index: 0;
 }
 @media screen and (max-width: 1200px) {
   .parentCaurosol {

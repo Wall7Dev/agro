@@ -124,53 +124,49 @@ const FOOTERCOMPONENT2: NextPage = () => {
             <img
               className={styles.download5Icon}
               alt=""
-              src="/download-521@2x.png"
+              src="/download-512@2x.png"
             />
             <img
               className={styles.download5Icon1}
               alt=""
-              src="/download-531@2x.png"
+              src="/download-513@2x.png"
             />
-            <img
-              className={styles.captureIcon}
-              alt=""
-              src="/capture11@2x.png"
-            />
+            <img className={styles.captureIcon} alt="" src="/capture6@2x.png" />
             <img
               className={styles.mofaColorIcon}
               alt=""
-              src="/mofa-color11@2x.png"
+              src="/mofa-color6@2x.png"
             />
             <img
               className={styles.download3Icon}
               alt=""
-              src="/download-311@2x.png"
+              src="/download-36@2x.png"
             />
-            <img className={styles.imagesIcon} alt="" src="/images11@2x.png" />
+            <img className={styles.imagesIcon} alt="" src="/images5@2x.png" />
             <img
               className={styles.download6Icon}
               alt=""
-              src="/download-611@2x.png"
+              src="/download-66@2x.png"
             />
             <img
               className={styles.download1Icon}
               alt=""
-              src="/download-111@2x.png"
+              src="/download-16@2x.png"
             />
             <img
               className={styles.downloadIcon}
               alt=""
-              src="/download11@2x.png"
+              src="/download6@2x.png"
             />
             <img
               className={styles.images1Icon}
               alt=""
-              src="/images-111@2x.png"
+              src="/images-16@2x.png"
             />
             <img
               className={styles.download2Icon}
               alt=""
-              src="/download-211@2x.png"
+              src="/download-26@2x.png"
             />
           </div>
         </div>
@@ -275,12 +271,12 @@ const FOOTERCOMPONENT2: NextPage = () => {
             </div>
             <div className={styles.frameParent2}>
               <div className={styles.nowWereParent4}>
-                <div className={styles.nowWere13}>BSL HEAD OFFICE</div>
+                <div className={styles.nowWere9}>BSL HEAD OFFICE</div>
                 <div className={styles.nowWere14}>No 24 Botwe</div>
                 <div className={styles.nowWere14}>Dzorwulu - Accra</div>
               </div>
               <div className={styles.nowWereParent5}>
-                <div className={styles.nowWere13}>TAMALE office</div>
+                <div className={styles.nowWere9}>TAMALE office</div>
                 <div className={styles.nowWereParent6}>
                   <div className={styles.nowWere17}>Tamale.</div>
                   <div className={styles.nowWere18}>16 Dagomba Road,</div>

@@ -124,7 +124,7 @@ const DrwawerMenu: NextPage<DrwawerMenuType> = ({ onClose }) => {
                 className={styles.logoIcon}
                 id="logo"
                 alt=""
-                src="/logo19@2x.png"
+                src="/logo10@2x.png"
               />
             </button>
             <button className={styles.arrowframe}>
@@ -137,26 +137,26 @@ const DrwawerMenu: NextPage<DrwawerMenuType> = ({ onClose }) => {
                 <img
                   className={styles.bdp1Icon}
                   alt=""
-                  src="/bdp-11@2x.png"
+                  src="/bdp-1@2x.png"
                   onClick={onClose}
                 />
                 <img
                   className={styles.spectrum1Icon}
                   alt=""
-                  src="/spectrum-11@2x.png"
+                  src="/spectrum-1@2x.png"
                   onClick={onClose}
                 />
                 <img
                   className={styles.isg1Icon}
                   alt=""
-                  src="/isg-11@2x.png"
+                  src="/isg-1@2x.png"
                   onClick={onClose}
                 />
               </div>
               <img
                 className={styles.images21}
                 alt=""
-                src="/images-2-141@2x.png"
+                src="/images-2-1@2x.png"
               />
             </button>
           </div>
@@ -205,19 +205,19 @@ const DrwawerMenu: NextPage<DrwawerMenuType> = ({ onClose }) => {
             <img
               className={styles.bdp1Icon}
               alt=""
-              src="/bdp-111@2x.png"
+              src="/bdp-1@2x.png"
               onClick={onClose}
             />
             <img
               className={styles.spectrum1Icon}
               alt=""
-              src="/spectrum-111@2x.png"
+              src="/spectrum-1@2x.png"
               onClick={onClose}
             />
             <img
               className={styles.isg1Icon}
               alt=""
-              src="/isg-111@2x.png"
+              src="/isg-1@2x.png"
               onClick={onClose}
             />
             <img

@@ -81,12 +81,16 @@
   flex: 1;
   position: relative;
   text-transform: capitalize;
-  font-weight: 500;
   display: inline-block;
   opacity: 1;
 }
 .theInputCredit.animate {
   animation: 3s ease 0s 1 normal forwards scale-up;
+}
+.thisProductDigitalises {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
 }
 .thisProductDigitalisesTheIWrapper {
   align-self: stretch;
@@ -159,6 +163,7 @@
   align-self: stretch;
   position: relative;
   font-size: var(--font-size-mini);
+  font-weight: 300;
   color: var(--color-white);
   display: inline-block;
   height: 79.1px;

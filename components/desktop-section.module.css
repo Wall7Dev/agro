@@ -74,72 +74,63 @@
   animation: 30s ease 0s infinite reverse forwards bounce-in-top;
 }
 .theNationsBest {
-  flex: 1;
+  align-self: stretch;
   position: relative;
   line-height: 100%;
   font-weight: 600;
 }
-.theNationsBestDigitalAgriWrapper {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 7.90634298324585px;
-}
 .agrospectrumLimitedIs {
-  flex: 1;
-  position: relative;
-}
-.agrospectrumLimitedIsALeadWrapper {
   align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-smi-7);
+  font-weight: 300;
+  color: var(--color-white);
   display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 7.90634298324585px;
-  font-size: var(--font-size-smi-7);
-  color: var(--color-white);
-}
-.introAgrospectrum {
-  align-self: stretch;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 15.8126859664917px 94.0854721069336px;
-  gap: 7.91px 0;
-  opacity: 1;
-}
-.introAgrospectrum.animate,
-.weOfferA.animate,
-.whyWorkWithContainer.animate {
-  animation: 1s ease 0s 1 normal forwards scale-up;
+  height: 61px;
+  flex-shrink: 0;
 }
 .workWith {
   font-weight: 800;
 }
 .whyWorkWithContainer {
   margin: 0;
-  align-self: stretch;
-  height: 119px;
+  height: 113px;
   position: relative;
-  font-size: var(--font-size-60xl-1);
+  font-size: var(--font-size-56xl);
   color: var(--color-goldenrod-100);
   display: inline-block;
   opacity: 1;
   font-family: inherit;
 }
+.weOfferA.animate,
+.whyWorkWithContainer.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.theNationsBestDigitalAgriParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 0 var(--padding-xl);
+  gap: 8px 0;
+  z-index: 2;
+}
 .frameChild {
-  width: 375.5px;
+  align-self: stretch;
+  flex: 1;
   position: relative;
   border-radius: 31.63px;
-  height: 274.4px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
   object-fit: cover;
 }
 .rectangleWrapper {
   flex: 1;
+  height: 274.4px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -147,7 +138,7 @@
 }
 .weOfferA {
   align-self: stretch;
-  height: 87px;
+  height: 72px;
   position: relative;
   font-weight: 600;
   display: inline-block;
@@ -158,9 +149,10 @@
 }
 .inTheHeartContainer {
   align-self: stretch;
-  height: 85px;
+  height: 80px;
   position: relative;
-  font-size: var(--font-size-mini-2);
+  font-size: var(--font-size-smi);
+  font-weight: 300;
   display: inline-block;
   opacity: 1;
 }
@@ -194,13 +186,11 @@
 .ghanasAgriculturalSector,
 .unlockingGhanasAgriculturalContainer {
   align-self: stretch;
+  height: 58px;
   position: relative;
+  font-weight: 600;
   display: inline-block;
   opacity: 1;
-}
-.unlockingGhanasAgriculturalContainer {
-  height: 58px;
-  font-weight: 600;
 }
 .unlockingGhanasAgriculturalContainer.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
@@ -208,51 +198,46 @@
 .ghanasAgriculturalSector {
   height: 102px;
   font-size: var(--font-size-mini-2);
+  font-weight: 300;
 }
 .ghanasAgriculturalSector.animate {
   animation: 2s ease 0s 1 normal forwards scale-up;
 }
+.rectangleContainer,
 .unlockingGhanasAgriculturalParent {
   flex: 1;
+  display: flex;
   flex-direction: column;
+  justify-content: flex-start;
+}
+.unlockingGhanasAgriculturalParent {
   align-items: flex-start;
   gap: 11.86px 0;
 }
-.frameGroup,
-.rectangleContainer,
-.unlockingGhanasAgriculturalParent {
-  display: flex;
-  justify-content: flex-start;
-}
 .rectangleContainer {
-  flex: 1;
-  flex-direction: column;
+  height: 274.4px;
   align-items: center;
-}
-.frameGroup {
-  align-self: stretch;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 0 60.09px;
 }
 .featuresimages,
-.introAgrospectrumParent {
+.frameGroup {
+  align-self: stretch;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
+  align-items: flex-start;
   justify-content: flex-start;
+  gap: 0 60.09px;
+  font-size: var(--font-size-4xl-7);
 }
 .featuresimages {
-  width: 819px;
-  gap: 79.06px 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-21xl);
+  gap: 60px 0;
+  z-index: 3;
   text-align: left;
-  font-size: var(--font-size-4xl-7);
+  font-size: var(--font-size-xl);
   color: var(--color-white);
   font-family: var(--font-inter);
-}
-.introAgrospectrumParent {
-  gap: 23.72px 0;
-  z-index: 2;
 }
 .desktopSection2Child {
   width: 480.6px;
@@ -261,7 +246,7 @@
   top: -96.4px;
   left: 990.5px;
   height: 480.8px;
-  z-index: 3;
+  z-index: 4;
 }
 .desktopSection2 {
   align-self: stretch;
@@ -271,7 +256,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 47.43805694580078px 158.12686157226562px 63.2507438659668px;
+  padding: 0 var(--padding-221xl);
   position: relative;
   gap: 7.91px;
   text-align: center;
@@ -280,8 +265,78 @@
   font-family: var(--font-poppins);
 }
 @media screen and (max-width: 1200px) {
+  .theNationsBest {
+    font-size: var(--font-size-xl);
+  }
+  .agrospectrumLimitedIs {
+    font-size: var(--font-size-2xs);
+  }
+  .whyWorkWithContainer {
+    font-size: var(--font-size-41xl);
+  }
+  .weOfferA {
+    font-size: var(--font-size-mini);
+  }
+  .inTheHeartContainer {
+    font-size: var(--font-size-smi);
+  }
+  .unlockingGhanasAgriculturalContainer {
+    font-size: var(--font-size-xl);
+  }
+  .ghanasAgriculturalSector {
+    font-size: var(--font-size-xs);
+  }
   .desktopSection2 {
-    display: none;
+    align-self: stretch;
+    width: auto;
+    gap: 7.91px;
+    padding: 0 var(--padding-181xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .theNationsBest {
+    font-size: var(--font-size-xs);
+  }
+  .whyWorkWithContainer {
+    font-size: var(--font-size-15xl);
+  }
+  .rectangleWrapper {
+    flex: unset;
+    align-self: stretch;
+  }
+  .weOfferA {
+    font-size: var(--font-size-3xs);
+  }
+  .frameWrapper {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frameParent {
+    flex-direction: column;
+    gap: 60.09px;
+  }
+  .unlockingGhanasAgriculturalContainer {
+    font-size: var(--font-size-smi);
+  }
+  .rectangleContainer,
+  .unlockingGhanasAgriculturalParent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frameGroup {
+    flex-direction: column;
+    gap: 0 60.09px;
+  }
+  .featuresimages {
+    gap: 60px 0;
+  }
+  .desktopSection2 {
+    align-self: stretch;
+    width: auto;
+    gap: 7.91px;
+    padding: var(--padding-xl) var(--padding-121xl) var(--padding-6xl);
+    box-sizing: border-box;
   }
 }
 @media screen and (max-width: 420px) {
@@ -311,5 +366,43 @@
     75% {
       transform: scale3d(1.05, 0.95, 1);
     }
+  }
+  .agrospectrumLimitedIs {
+    font-size: var(--font-size-3xs);
+  }
+  .whyWorkWithContainer {
+    font-size: var(--font-size-7xl);
+  }
+  .frameWrapper,
+  .rectangleWrapper {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frameParent {
+    flex-direction: column;
+    gap: 60.09px;
+  }
+  .unlockingGhanasAgriculturalContainer {
+    font-size: var(--font-size-xs);
+  }
+  .ghanasAgriculturalSector {
+    font-size: var(--font-size-2xs);
+  }
+  .rectangleContainer,
+  .unlockingGhanasAgriculturalParent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frameGroup {
+    flex-direction: column;
+    gap: 0 60.09px;
+  }
+  .featuresimages {
+    gap: 60px 0;
+  }
+  .desktopSection2 {
+    gap: 7.91px;
+    padding: var(--padding-3xs) var(--padding-26xl) var(--padding-xl);
+    box-sizing: border-box;
   }
 }

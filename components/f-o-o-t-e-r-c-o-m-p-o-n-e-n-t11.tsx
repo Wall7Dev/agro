@@ -257,7 +257,7 @@ const FOOTERCOMPONENT11: NextPage = () => {
                     <img
                       className={styles.frameChild}
                       alt=""
-                      src="/line-124@2x.png"
+                      src="/line-121@2x.png"
                     />
                   </div>
                 </div>
@@ -279,12 +279,12 @@ const FOOTERCOMPONENT11: NextPage = () => {
             </div>
             <div className={styles.frameParent2}>
               <div className={styles.nowWereParent4}>
-                <div className={styles.nowWere13}>BSL HEAD OFFICE</div>
+                <div className={styles.nowWere9}>BSL HEAD OFFICE</div>
                 <div className={styles.nowWere14}>No 24 Botwe</div>
                 <div className={styles.nowWere14}>Dzorwulu - Accra</div>
               </div>
               <div className={styles.nowWereParent5}>
-                <div className={styles.nowWere13}>TAMALE office</div>
+                <div className={styles.nowWere9}>TAMALE office</div>
                 <div className={styles.nowWereParent6}>
                   <div className={styles.nowWere17}>Tamale.</div>
                   <div className={styles.nowWere18}>16 Dagomba Road,</div>
