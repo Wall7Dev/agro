@@ -26,6 +26,7 @@
 .theInputCredit {
   align-self: stretch;
   position: relative;
+  font-weight: 300;
 }
 .inputCreditManagementSystemParent {
   flex: 1;
@@ -44,7 +45,7 @@
 .frame1082Parent {
   flex-direction: row;
   justify-content: center;
-  padding: 15.496313095092773px 0;
+  padding: var(--padding-xl) 0;
   gap: 54.24px;
 }
 .climate {

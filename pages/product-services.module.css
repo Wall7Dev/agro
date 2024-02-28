@@ -275,38 +275,41 @@
 .contactusContainer:hover {
   background-color: var(--color-gray-900);
 }
-.logorightnavlink,
 .rightnavlink {
+  margin: 0;
   flex: 1;
+  justify-content: flex-end;
+  gap: 0 15.81px;
+}
+.logorightnavlink,
+.navdesktop,
+.rightnavlink {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
-.rightnavlink {
-  margin: 0;
-  justify-content: flex-end;
-  gap: 0 15.81px;
-}
 .logorightnavlink {
+  flex: 1;
   justify-content: space-between;
 }
-.allnavs,
-.navdesktop {
-  align-self: stretch;
-  display: flex;
-}
 .navdesktop {
   margin: 0;
+  align-self: stretch;
   background-color: var(--color-gray-1200);
   box-shadow: 0 0 23.72px rgba(255, 255, 255, 0.02) inset;
   backdrop-filter: blur(31.62px);
   border: 0.8px solid var(--color-gray-1100);
   box-sizing: border-box;
   height: 63.2px;
-  flex-direction: row;
-  align-items: center;
   justify-content: center;
   padding: 11.067129135131836px 118.5763931274414px;
+}
+.allherops,
+.allnavs {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .allnavs {
   background: linear-gradient(
@@ -318,181 +321,10 @@
     rgba(154, 200, 145, 0)
   );
   backdrop-filter: blur(154.96px);
-  flex-direction: column;
-  align-items: flex-start;
   justify-content: flex-start;
-}
-.bgBlurIcon {
-  width: 323.3px;
-  position: absolute;
-  margin: 0 !important;
-  top: -139.8px;
-  left: 204.2px;
-  height: 484.2px;
-  z-index: 0;
-}
-.empowering {
-  font-weight: 300;
-}
-.farmers {
-  font-weight: 800;
-}
-.empoweringFarmersAndContainer {
-  flex: 1;
-  position: relative;
-  letter-spacing: 0.04em;
-  line-height: 111%;
-}
-.empoweringFarmersAndUnlockWrapper {
-  align-self: stretch;
-  filter: drop-shadow(0 1.7px 4.24px rgba(0, 0, 0, 0.25));
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: 4.2366557121276855px;
-  z-index: 1;
-}
-.aRevolutionaryDigital {
-  width: 344px;
-  position: relative;
-  letter-spacing: 0.38px;
-  line-height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  text-shadow: 0 1.7px 2.54px rgba(0, 0, 0, 0.25);
-}
-.aRevolutionaryDigitalInnoWrapper {
-  width: 369.6px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: 0 50.839866638183594px;
-  box-sizing: border-box;
-  z-index: 2;
-  font-size: var(--font-size-2xs-8);
-}
-.scrollDownChild {
-  width: 7.3px;
-  position: relative;
-  border-radius: 50%;
-  background-color: var(--color-goldenrod-300);
-  height: 7.3px;
-}
-.bgBlurParent,
-.scrollDown {
-  display: flex;
-  align-items: center;
-}
-.scrollDown {
-  border-radius: 12.44px;
-  border: 1.1px solid var(--color-goldenrod-300);
-  box-sizing: border-box;
-  height: 45px;
-  overflow: hidden;
-  flex-shrink: 0;
-  flex-direction: row;
-  justify-content: center;
-  padding: 18.844797134399414px 6.281599521636963px;
-  z-index: 3;
-}
-.bgBlurParent {
-  align-self: stretch;
-  flex-direction: column;
-  justify-content: flex-start;
-  position: relative;
-  gap: 11.62px 0;
-}
-.allherops960 {
-  width: 743.8px;
-  overflow: hidden;
-  display: none;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 38.74078369140625px 61.985252380371094px;
-  box-sizing: border-box;
-  background-image: url(/allherops960@3x.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top;
-}
-.empowering1 {
-  margin-block-start: 0;
-  margin-block-end: 3.43px;
-  font-weight: 300;
-}
-.span1 {
-  font-weight: 300;
-  font-family: var(--font-poppins);
-}
-.farmers1 {
-  margin-block-start: 0;
-  margin-block-end: 3.43px;
-}
-.andUnlockingGhanasAgricult {
-  margin: 0;
-}
-.empoweringFarmersAndUnlockContainer {
-  align-self: stretch;
-  filter: drop-shadow(0 1.7px 4.24px rgba(0, 0, 0, 0.25));
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: 4.2366557121276855px 11.622235298156738px;
-  z-index: 1;
-}
-.aRevolutionaryDigital1 {
-  width: 212.3px;
-  position: relative;
-  letter-spacing: 0.38px;
-  line-height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  text-shadow: 0 1.7px 2.54px rgba(0, 0, 0, 0.25);
-}
-.aRevolutionaryDigitalInnoContainer {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: 0 50.839866638183594px;
-  z-index: 2;
-  font-size: var(--font-size-3xs-3);
-}
-.allherops,
-.allherops420 {
-  flex-direction: column;
-  justify-content: center;
-}
-.allherops420 {
-  width: 325.4px;
-  overflow: hidden;
-  display: none;
-  align-items: center;
-  padding: 23.244470596313477px 30.992626190185547px 30.992626190185547px;
-  box-sizing: border-box;
-  background-image: url(/allherops420@3x.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top;
-  font-size: 18.6px;
 }
 .allherops {
-  align-self: stretch;
-  display: flex;
-  align-items: flex-start;
-  text-align: center;
-  font-size: 30.5px;
-  color: var(--color-white);
-  font-family: var(--font-poppins);
+  justify-content: center;
 }
 .frame1082 {
   flex: 1;
@@ -506,18 +338,24 @@
 .subsidy {
   font-family: var(--font-poppins);
 }
-.p {
+.p,
+.subsidyProgram1 {
   margin: 0;
-  font-weight: 200;
 }
-.subsidyProgram {
-  font-size: var(--font-size-29xl-8);
-  line-height: 96.75%;
+.p {
+  font-weight: 200;
 }
 .subsidyProgram,
 .theSubsidyIs {
   align-self: stretch;
   position: relative;
+}
+.subsidyProgram {
+  font-size: var(--font-size-29xl-8);
+  line-height: 96.75%;
+}
+.theSubsidyIs {
+  font-weight: 300;
 }
 .subsidyProgramParent {
   flex: 1;
@@ -536,7 +374,7 @@
 .frame1082Parent {
   flex-direction: row;
   justify-content: center;
-  padding: 15.496313095092773px 0;
+  padding: var(--padding-xl) 0;
   gap: 54.24px;
 }
 .climate {
@@ -546,16 +384,19 @@
   padding: 0 170.45945739746094px;
   color: var(--color-white);
 }
-.span2 {
+.span {
   font-weight: 200;
   font-family: var(--font-poppins);
 }
 .farmerKyc {
-  align-self: stretch;
-  position: relative;
   font-size: var(--font-size-29xl-8);
   line-height: 96.75%;
   color: var(--color-darkolivegreen-600);
+}
+.farmerKyc,
+.thisIsAlso {
+  align-self: stretch;
+  position: relative;
 }
 .climate1,
 .productServices {
@@ -590,12 +431,6 @@
     padding: var(--padding-7xs) var(--padding-31xl);
     box-sizing: border-box;
   }
-  .empoweringFarmersAndContainer {
-    font-size: var(--font-size-46xl);
-  }
-  .allherops960 {
-    display: none;
-  }
   .frame1082 {
     height: 600px;
   }
@@ -615,11 +450,6 @@
   .allnavs {
     align-items: flex-start;
     justify-content: flex-start;
-  }
-  .allherops960 {
-    display: flex;
-    padding: var(--padding-21xl) 70px;
-    box-sizing: border-box;
   }
   .frame1082 {
     height: 400px;
@@ -660,14 +490,8 @@
     padding-left: var(--padding-21xl);
     box-sizing: border-box;
   }
-  .allherops960 {
-    display: none;
-  }
-  .allherops420,
   .frame1082 {
     display: flex;
-  }
-  .frame1082 {
     height: 200px;
   }
   .subsidyProgram {
@@ -690,9 +514,13 @@
     padding: var(--padding-11xl) var(--padding-21xl);
     box-sizing: border-box;
   }
-  .farmerKyc {
+  .farmerKyc,
+  .thisIsAlso {
     font-size: var(--font-size-16xl);
     display: flex;
+  }
+  .thisIsAlso {
+    font-size: var(--font-size-base);
   }
   .climate1 {
     display: flex;

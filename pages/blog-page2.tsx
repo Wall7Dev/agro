@@ -647,7 +647,7 @@ const BlogPage2: NextPage = () => {
               <img
                 className={styles.gradientmsgChild}
                 alt=""
-                src="/group-20612@2x.png"
+                src="/group-206121@2x.png"
               />
               <div className={styles.weSupportAgribusinessIndustParent}>
                 <b

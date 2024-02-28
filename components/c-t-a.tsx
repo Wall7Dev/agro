@@ -54,7 +54,7 @@ const CTA: NextPage = () => {
           <img
             className={styles.gradientmsgChild}
             alt=""
-            src="/group-206@2x.png"
+            src="/group-2061@2x.png"
             data-animate-on-scroll
           />
           <div className={styles.weSupportAgribusinessIndustParent}>
@@ -76,7 +76,7 @@ const CTA: NextPage = () => {
               <img
                 className={styles.frameChild}
                 alt=""
-                src="/arrow-9.svg"
+                src="/arrow-91.svg"
                 onClick={onArrowIconClick}
               />
               <div

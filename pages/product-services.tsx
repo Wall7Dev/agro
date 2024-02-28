@@ -110,13 +110,13 @@ const ProductServices: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group5@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup1Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group6@2x.png"
+                      src="/clip-path-group@2x.png"
                       onClick={onClipPathGroup2Click}
                     />
                     <img
@@ -128,7 +128,7 @@ const ProductServices: NextPage = () => {
                   <img
                     className={styles.images21}
                     alt=""
-                    src="/images-2-12@2x.png"
+                    src="/images-2-119@2x.png"
                   />
                 </button>
                 <div
@@ -160,7 +160,7 @@ const ProductServices: NextPage = () => {
                     <img
                       className={styles.homecChild}
                       alt=""
-                      src="/line-15@2x.png"
+                      src="/line-116@2x.png"
                     />
                   </div>
                   <button className={styles.aboutus} onClick={onAboutUsClick}>
@@ -230,59 +230,6 @@ const ProductServices: NextPage = () => {
         </header>
         <section className={styles.allherops}>
           <Component />
-          <div className={styles.allherops960}>
-            <div className={styles.bgBlurParent}>
-              <img className={styles.bgBlurIcon} alt="" src="/bg-blur2.svg" />
-              <div className={styles.empoweringFarmersAndUnlockWrapper}>
-                <div className={styles.empoweringFarmersAndContainer}>
-                  <span className={styles.empowering}>{`Empowering `}</span>
-                  <span className={styles.farmers}>Farmers</span>
-                  <span className={styles.empowering}>{`, and `}</span>
-                  <span className={styles.farmers}>Unlocking Ghana's</span>
-                  <span className={styles.empowering}>{` `}</span>
-                  <span className={styles.farmers}>Agricultural</span>
-                  <span className={styles.empowering}> Potential</span>
-                </div>
-              </div>
-              <div className={styles.aRevolutionaryDigitalInnoWrapper}>
-                <div
-                  className={styles.aRevolutionaryDigital}
-                >{`A revolutionary digital & innovative platform, Agrospectrum connects farmers, traders, processors, and other stakeholders, creating a seamless and efficient agro ecosystem.`}</div>
-              </div>
-              <div className={styles.scrollDown}>
-                <div className={styles.scrollDownChild} />
-              </div>
-            </div>
-          </div>
-          <div className={styles.allherops420}>
-            <div className={styles.bgBlurParent}>
-              <img className={styles.bgBlurIcon} alt="" src="/bg-blur3.svg" />
-              <div className={styles.empoweringFarmersAndUnlockContainer}>
-                <div className={styles.empoweringFarmersAndContainer}>
-                  <p className={styles.empowering1}>{`Empowering `}</p>
-                  <p className={styles.farmers1}>
-                    <span className={styles.farmers}>Farmers</span>
-                    <span className={styles.span1}>{`, `}</span>
-                  </p>
-                  <p className={styles.andUnlockingGhanasAgricult}>
-                    <span className={styles.span1}>{`and `}</span>
-                    <span className={styles.farmers}>
-                      Unlocking Ghana's Agricultural
-                    </span>
-                    <span className={styles.span1}> Potential</span>
-                  </p>
-                </div>
-              </div>
-              <div className={styles.aRevolutionaryDigitalInnoContainer}>
-                <div
-                  className={styles.aRevolutionaryDigital1}
-                >{`A revolutionary digital & innovative platform, Agrospectrum connects farmers, traders, processors, and other stakeholders, creating a seamless and efficient agro ecosystem.`}</div>
-              </div>
-              <div className={styles.scrollDown}>
-                <div className={styles.scrollDownChild} />
-              </div>
-            </div>
-          </div>
         </section>
         <div className={styles.climate}>
           <div className={styles.frame1082Parent}>
@@ -293,7 +240,7 @@ const ProductServices: NextPage = () => {
             />
             <div className={styles.subsidyProgramParent}>
               <div className={styles.subsidyProgram}>
-                <p className={styles.andUnlockingGhanasAgricult}>
+                <p className={styles.subsidyProgram1}>
                   <b className={styles.subsidy}>Subsidy</b>
                   <span> Program</span>
                 </p>
@@ -319,16 +266,16 @@ const ProductServices: NextPage = () => {
           <div className={styles.frame1082Parent}>
             <div className={styles.subsidyProgramParent}>
               <div className={styles.farmerKyc}>
-                <p className={styles.andUnlockingGhanasAgricult}>
+                <p className={styles.subsidyProgram1}>
                   <span>{`Farmer `}</span>
                   <b className={styles.subsidy}>KYC</b>
-                  <span className={styles.span2}></span>
+                  <span className={styles.span}></span>
                 </p>
               </div>
               <div
-                className={styles.theSubsidyIs}
+                className={styles.thisIsAlso}
               >{`This is also known as the farmer registration process. The term KYC refers to know your customer. The farmer KYC takes the farmer through an on-boarding process or registration where data and biometric entries are taken to allow the farmers become integrated into a client’s system. `}</div>
-              <div className={styles.theSubsidyIs}>
+              <div className={styles.thisIsAlso}>
                 It was first used by the Ministry of Food and Agriculture(MOFA)
                 for the E- Agric programme for the 5 northern regions of Ghana.
                 The application is a mobile and web based software, which all
@@ -338,12 +285,12 @@ const ProductServices: NextPage = () => {
             <img
               className={styles.frame1082}
               alt=""
-              src="/frame-108-21@2x.png"
+              src="/frame-108-2@2x.png"
             />
           </div>
         </div>
         <Climate
-          frame1082="/frame-108-22@2x.png"
+          frame1082="/frame-108-2@2x.png"
           inputCredit="Input-Credit"
           managementSystem="  management System 
 "
@@ -352,7 +299,7 @@ const ProductServices: NextPage = () => {
         />
         <Aggregation />
         <Climate
-          frame1082="/frame-108-24@2x.png"
+          frame1082="/frame-108-2@2x.png"
           inputCredit="Climate"
           managementSystem=" Smart Agric program"
           theInputCreditManagementS="This solution by Agrospectrum limited focuses on providing climate friendly agricultural information, predict weather, disaster risk mitigation and agronomic advice through channels like Interactive Voice Recognition (IVR), a call centre and SMS a to farmers intermittently in various languages."
@@ -364,7 +311,7 @@ const ProductServices: NextPage = () => {
           <div className={styles.frame1082Parent}>
             <div className={styles.subsidyProgramParent}>
               <div className={styles.farmerKyc}>
-                <p className={styles.andUnlockingGhanasAgricult}>
+                <p className={styles.subsidyProgram1}>
                   <b className={styles.subsidy}>{`Farmer `}</b>
                   <span>registration</span>
                 </p>
@@ -384,7 +331,7 @@ const ProductServices: NextPage = () => {
             <img
               className={styles.frame1082}
               alt=""
-              src="/frame-108-25@2x.png"
+              src="/frame-108-2@2x.png"
             />
           </div>
         </div>

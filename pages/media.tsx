@@ -635,7 +635,7 @@ const Media: NextPage = () => {
                       <img
                         className={styles.baseIcon}
                         alt=""
-                        src="/base11@2x.png"
+                        src="/base111@2x.png"
                       />
                       <div className={styles.vectorParent}>
                         <img
