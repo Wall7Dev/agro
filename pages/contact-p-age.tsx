@@ -378,7 +378,7 @@ const ContactPAge: NextPage = () => {
                       <img
                         className={styles.frameChild}
                         alt=""
-                        src="/arrow-91.svg"
+                        src="/arrow-9.svg"
                         onClick={onArrowIconClick}
                       />
                       <div

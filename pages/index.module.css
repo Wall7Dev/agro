@@ -2914,12 +2914,12 @@
   padding: 13.440783500671387px;
   gap: 0 7.91px;
 }
-.roundplus:active .combinedShapeIcon {
+.roundplus:active .combinedShapeIcon5 {
   display: none;
 }
-.faq11:active .poppup1,
+.faq11:active .poppup11,
 .roundplus,
-.roundplus:active .rectangle3,
+.roundplus:active .rectangle13,
 .whereFrame {
   display: flex;
 }
@@ -2982,11 +2982,11 @@
   gap: 0 7.91px;
 }
 .poppup2,
-.roundplus1:active .combinedShapeIcon {
+.roundplus1:active .combinedShapeIcon6 {
   display: none;
 }
-.faq2:active .poppup2,
-.roundplus1:active .rectangle3 {
+.faq2:active .poppup21,
+.roundplus1:active .rectangle14 {
   display: flex;
 }
 .poppup2 {
@@ -3018,12 +3018,12 @@
   padding: 13.440783500671387px;
   gap: 0 7.91px;
 }
-.roundplus2:active .combinedShapeIcon {
+.roundplus2:active .combinedShapeIcon7 {
   display: none;
 }
-.faq3:active .poppup2,
+.faq3:active .poppup31,
 .roundplus2,
-.roundplus2:active .rectangle3 {
+.roundplus2:active .rectangle15 {
   display: flex;
 }
 .whatDoesThePlatformDo2 {
@@ -3057,12 +3057,12 @@
   padding: 13.440783500671387px;
   gap: 0 7.91px;
 }
-.roundplus3:active .combinedShapeIcon {
+.roundplus3:active .combinedShapeIcon8 {
   display: none;
 }
-.faq4:active .poppup4,
+.faq4:active .poppup41,
 .roundplus3,
-.roundplus3:active .rectangle3 {
+.roundplus3:active .rectangle16 {
   display: flex;
 }
 .whatAreSome {
@@ -3116,12 +3116,12 @@
   padding: 13.440783500671387px;
   gap: 0 7.91px;
 }
-.roundplus4:active .combinedShapeIcon {
+.roundplus4:active .combinedShapeIcon9 {
   display: none;
 }
-.faq5:active .poppup2,
+.faq5:active .poppup51,
 .roundplus4,
-.roundplus4:active .rectangle3 {
+.roundplus4:active .rectangle17 {
   display: flex;
 }
 .withAgrospectrumsSolutions {

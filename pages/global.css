@@ -100,7 +100,6 @@ body {
   --font-size-smi-6: 12.6px;
   --font-size-xs-5: 11.5px;
   --font-size-44xl-2: 63.2px;
-  --font-size-24xl: 43px;
   --font-size-11xl-4: 30.4px;
   --font-size-6xl: 25px;
   --font-size-base-1: 16.1px;
@@ -139,6 +138,7 @@ body {
   --font-size-lgi-4: 19.4px;
   --font-size-41xl-4: 60.4px;
   --font-size-21xl: 40px;
+  --font-size-24xl: 43px;
   --font-size-lgi-7: 19.7px;
 
   /* Colors */
@@ -240,9 +240,6 @@ body {
   --gap-14xl-6: 33.6px;
   --gap-15xl: 34px;
   --gap-2xs-3: 10.3px;
-  --gap-8xl-7: 27.7px;
-  --gap-mini: 15px;
-  --gap-8xs-7: 4.7px;
   --gap-xs: 12px;
   --gap-13xl-1: 32.1px;
   --gap-smi-1: 12.1px;
@@ -271,6 +268,9 @@ body {
   --gap-35xl-2: 54.2px;
   --gap-base-5: 15.5px;
   --gap-3xl-5: 22.5px;
+  --gap-8xl-7: 27.7px;
+  --gap-mini: 15px;
+  --gap-8xs-7: 4.7px;
   --gap-21xl: 40px;
   --gap-10xs: 3px;
   --gap-6xs: 7px;
@@ -354,9 +354,6 @@ body {
   --padding-lgi-3: 19.3px;
   --padding-smi-2: 12.2px;
   --padding-15xl: 34px;
-  --padding-mini-2: 14.2px;
-  --padding-smi-6: 12.6px;
-  --padding-2xl-3: 21.3px;
   --padding-14xl-6: 33.6px;
   --padding-181xl-1: 200.1px;
   --padding-131xl: 150px;
@@ -409,6 +406,9 @@ body {
   --padding-28xl-9: 47.9px;
   --padding-42xl: 61px;
   --padding-74xl: 93px;
+  --padding-mini-2: 14.2px;
+  --padding-smi-6: 12.6px;
+  --padding-2xl-3: 21.3px;
   --padding-mid-4: 17.4px;
   --padding-5xl-9: 24.9px;
 
@@ -438,10 +438,6 @@ body {
   --br-280xl-1: 299.1px;
   --br-2xl-5: 21.5px;
   --br-base-8: 15.8px;
-  --br-10xl-3: 29.3px;
-  --br-lgi-8: 19.8px;
-  --br-mid-4: 17.4px;
-  --br-3xl-9: 22.9px;
   --br-359xl-4: 378.4px;
   --br-21xl: 40px;
   --br-283xl-8: 302.8px;
@@ -467,6 +463,10 @@ body {
   --br-12xl-4: 31.4px;
   --br-xs-6: 11.6px;
   --br-31xl: 50px;
+  --br-10xl-3: 29.3px;
+  --br-lgi-8: 19.8px;
+  --br-mid-4: 17.4px;
+  --br-3xl-9: 22.9px;
   --br-21xl-4: 40.4px;
   --br-39xl-3: 58.3px;
   --br-17xl-9: 36.9px;

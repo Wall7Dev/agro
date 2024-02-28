@@ -110,13 +110,13 @@ const ProductServices: NextPage = () => {
                     <img
                       className={styles.clipPathGroup1}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group5@2x.png"
                       onClick={onClipPathGroup1Click}
                     />
                     <img
                       className={styles.clipPathGroup2}
                       alt=""
-                      src="/clip-path-group@2x.png"
+                      src="/clip-path-group6@2x.png"
                       onClick={onClipPathGroup2Click}
                     />
                     <img
@@ -285,12 +285,12 @@ const ProductServices: NextPage = () => {
             <img
               className={styles.frame1082}
               alt=""
-              src="/frame-108-2@2x.png"
+              src="/frame-108-21@2x.png"
             />
           </div>
         </div>
         <Climate
-          frame1082="/frame-108-2@2x.png"
+          frame1082="/frame-108-22@2x.png"
           inputCredit="Input-Credit"
           managementSystem="  management System 
 "
@@ -299,7 +299,7 @@ const ProductServices: NextPage = () => {
         />
         <Aggregation />
         <Climate
-          frame1082="/frame-108-2@2x.png"
+          frame1082="/frame-108-24@2x.png"
           inputCredit="Climate"
           managementSystem=" Smart Agric program"
           theInputCreditManagementS="This solution by Agrospectrum limited focuses on providing climate friendly agricultural information, predict weather, disaster risk mitigation and agronomic advice through channels like Interactive Voice Recognition (IVR), a call centre and SMS a to farmers intermittently in various languages."
@@ -331,7 +331,7 @@ const ProductServices: NextPage = () => {
             <img
               className={styles.frame1082}
               alt=""
-              src="/frame-108-2@2x.png"
+              src="/frame-108-25@2x.png"
             />
           </div>
         </div>
