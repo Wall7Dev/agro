@@ -1,30 +1,26 @@
-import type { NextPage } from "next";
-import { useEffect } from "react";
-import styles from "./cardgropupo.module.css";
+import type { NextPage } from 'next';
+import { useEffect } from 'react';
+import styles from './cardgropupo.module.css';
 
-const Cardgropupo: NextPage = () => {
-  useEffect(() => {
-    const scrollAnimElements = document.querySelectorAll(
-      "[data-animate-on-scroll]"
-    );
-    const observer = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          if (entry.isIntersecting || entry.intersectionRatio > 0) {
-            const targetElement = entry.target;
-            targetElement.classList.add(styles.animate);
-            observer.unobserve(targetElement);
-          }
-        }
-      },
-      {
-        threshold: 0.15,
+
+const Cardgropupo:NextPage = () => {
+useEffect(() => {
+    const scrollAnimElements = document.querySelectorAll('[data-animate-on-scroll]');
+  const observer = new IntersectionObserver((entries) => {
+    for(const entry of entries) {
+      if (entry.isIntersecting || entry.intersectionRatio > 0) {
+        const targetElement = entry.target;
+        targetElement.classList.add(styles.animate);
+        observer.unobserve(targetElement);
       }
-    );
-
-    for (let i = 0; i < scrollAnimElements.length; i++) {
-      observer.observe(scrollAnimElements[i]);
     }
+  }, {
+    threshold: 0.15,
+  });
+
+  for (let i = 0; i < scrollAnimElements.length; i++) {
+    observer.observe(scrollAnimElements[i]);
+  }
 
     return () => {
       for (let i = 0; i < scrollAnimElements.length; i++) {
@@ -43,9 +39,7 @@ const Cardgropupo: NextPage = () => {
             </div>
             <div className={styles.xoseAhlijahSweParent}>
               <div className={styles.xoseAhlijahSwe}>Xose Ahlijah, SWE</div>
-              <div className={styles.snrTechnologyLead}>
-                Snr Technology Lead
-              </div>
+              <div className={styles.snrTechnologyLead}>Snr Technology Lead</div>
             </div>
           </div>
         </div>
@@ -72,8 +66,7 @@ const Cardgropupo: NextPage = () => {
           </div>
         </div>
       </div>
-    </div>
-  );
+    </div>);
 };
 
 export default Cardgropupo;

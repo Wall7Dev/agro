@@ -1,30 +1,26 @@
-import type { NextPage } from "next";
-import { useEffect } from "react";
-import styles from "./c-o-n-t-a-c-t-f-o-r-m.module.css";
+import type { NextPage } from 'next';
+import { useEffect } from 'react';
+import styles from './c-o-n-t-a-c-t-f-o-r-m.module.css';
 
-const CONTACTFORM: NextPage = () => {
-  useEffect(() => {
-    const scrollAnimElements = document.querySelectorAll(
-      "[data-animate-on-scroll]"
-    );
-    const observer = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          if (entry.isIntersecting || entry.intersectionRatio > 0) {
-            const targetElement = entry.target;
-            targetElement.classList.add(styles.animate);
-            observer.unobserve(targetElement);
-          }
-        }
-      },
-      {
-        threshold: 0.15,
+
+const CONTACTFORM:NextPage = () => {
+useEffect(() => {
+    const scrollAnimElements = document.querySelectorAll('[data-animate-on-scroll]');
+  const observer = new IntersectionObserver((entries) => {
+    for(const entry of entries) {
+      if (entry.isIntersecting || entry.intersectionRatio > 0) {
+        const targetElement = entry.target;
+        targetElement.classList.add(styles.animate);
+        observer.unobserve(targetElement);
       }
-    );
-
-    for (let i = 0; i < scrollAnimElements.length; i++) {
-      observer.observe(scrollAnimElements[i]);
     }
+  }, {
+    threshold: 0.15,
+  });
+
+  for (let i = 0; i < scrollAnimElements.length; i++) {
+    observer.observe(scrollAnimElements[i]);
+  }
 
     return () => {
       for (let i = 0; i < scrollAnimElements.length; i++) {
@@ -48,33 +44,17 @@ const CONTACTFORM: NextPage = () => {
           <div className={styles.general}>Careers</div>
         </div>
       </div>
-      <input
-        className={styles.contactFormChild}
-        placeholder="Name"
-        type="text"
-      />
-      <input
-        className={styles.contactFormChild}
-        placeholder="Phone"
-        type="text"
-      />
-      <input
-        className={styles.contactFormChild}
-        placeholder="Email"
-        type="text"
-      />
+      <input className={styles.contactFormChild} placeholder="Name" type="text" />
+      <input className={styles.contactFormChild} placeholder="Phone" type="text" />
+      <input className={styles.contactFormChild} placeholder="Email" type="text" />
       <input className={styles.frameInput} placeholder="Company" type="text" />
-      <textarea
-        className={styles.frameTextarea}
-        placeholder="Type your message here"
-      />
+      <textarea className={styles.frameTextarea} placeholder="Type your message here" />
       <div className={styles.frameDiv}>
         <div className={styles.sendWrapper}>
           <div className={styles.send}>send</div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
 };
 
 export default CONTACTFORM;

@@ -1,30 +1,26 @@
-import type { NextPage } from "next";
-import { useEffect } from "react";
-import styles from "./frame-component4.module.css";
+import type { NextPage } from 'next';
+import { useEffect } from 'react';
+import styles from './frame-component4.module.css';
 
-const FrameComponent4: NextPage = () => {
-  useEffect(() => {
-    const scrollAnimElements = document.querySelectorAll(
-      "[data-animate-on-scroll]"
-    );
-    const observer = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          if (entry.isIntersecting || entry.intersectionRatio > 0) {
-            const targetElement = entry.target;
-            targetElement.classList.add(styles.animate);
-            observer.unobserve(targetElement);
-          }
-        }
-      },
-      {
-        threshold: 0.15,
+
+const FrameComponent4:NextPage = () => {
+useEffect(() => {
+    const scrollAnimElements = document.querySelectorAll('[data-animate-on-scroll]');
+  const observer = new IntersectionObserver((entries) => {
+    for(const entry of entries) {
+      if (entry.isIntersecting || entry.intersectionRatio > 0) {
+        const targetElement = entry.target;
+        targetElement.classList.add(styles.animate);
+        observer.unobserve(targetElement);
       }
-    );
-
-    for (let i = 0; i < scrollAnimElements.length; i++) {
-      observer.observe(scrollAnimElements[i]);
     }
+  }, {
+    threshold: 0.15,
+  });
+
+  for (let i = 0; i < scrollAnimElements.length; i++) {
+    observer.observe(scrollAnimElements[i]);
+  }
 
     return () => {
       for (let i = 0; i < scrollAnimElements.length; i++) {
@@ -41,7 +37,7 @@ const FrameComponent4: NextPage = () => {
         </h1>
       </div>
       <div className={styles.contactUsParent}>
-        <h2 className={styles.contactUs}>CONTACT US</h2>
+        <h2 className={styles.contactUs}>CONTACT  US</h2>
         <h2 className={styles.agrospectrumLtd}>Agrospectrum Ltd.</h2>
         <h2 className={styles.headOffice}>HEAD OFFICE</h2>
         <h2 className={styles.headOffice}>{`No. 24 Maseru St `}</h2>
@@ -54,12 +50,9 @@ const FrameComponent4: NextPage = () => {
       </div>
       <div className={styles.emailParent} data-animate-on-scroll>
         <h2 className={styles.email}>EMAIL</h2>
-        <div className={styles.customercarebslcomgh}>
-          customercare@bsl.com.gh
-        </div>
+        <div className={styles.customercarebslcomgh}>customercare@bsl.com.gh</div>
       </div>
-    </div>
-  );
+    </div>);
 };
 
 export default FrameComponent4;

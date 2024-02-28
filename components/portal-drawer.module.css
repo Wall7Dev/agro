@@ -1,6 +1,7 @@
 .portalPopupOverlay {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  inset: 0;
-}
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    inset: 0;
+  }
+  

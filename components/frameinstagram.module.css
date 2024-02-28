@@ -1,250 +1,286 @@
-@keyframes scale-up {
-  0% {
-    transform: scale(0.5);
-  }
-  to {
-    transform: scale(1);
-  }
-}
 .trustUs {
-  font-size: var(--font-size-sm-9);
+font-size: var(--font-size-sm-9);
 }
 .theRenownCompaniesContainer {
-  align-self: stretch;
-  position: relative;
-  line-height: 100%;
-  font-weight: 800;
+align-self: stretch;
+position: relative;
+line-height: 100%;
+font-weight: 800;
 }
-.download3Icon,
 .download5Icon {
-  width: 58.2px;
-  position: relative;
-  height: 48.5px;
-  object-fit: cover;
+width: 58.2px;
+position: relative;
+height: 48.5px;
+object-fit: cover;
 }
 .download3Icon {
-  width: 37.9px;
-  height: 40.2px;
+width: 37.9px;
+position: relative;
+height: 40.2px;
+object-fit: cover;
 }
 .download5Parent {
-  width: 184.7px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: 0 56.31px;
+width: 184.7px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+gap: 0px 56.31px;
 }
-.captureIcon,
+.captureIcon {
+width: 108.4px;
+position: relative;
+height: 51.3px;
+object-fit: cover;
+}
 .download6Icon {
-  width: 108.4px;
-  position: relative;
-  height: 51.3px;
-  object-fit: cover;
+width: 86px;
+position: relative;
+height: 49.2px;
+object-fit: cover;
 }
-.download6Icon {
-  width: 86px;
-  height: 49.2px;
-}
-.captureParent,
-.frameGroup {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 0 43.02px;
+.captureParent {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: center;
+gap: 0px 43.02px;
 }
 .frameGroup {
-  align-self: stretch;
-  gap: 0 58.21px;
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: center;
+gap: 0px 58.21px;
 }
-.download2Icon,
-.download5Icon1,
-.ignitiaLogo1Icon {
-  width: 55.8px;
-  position: relative;
-  height: 39.5px;
-  object-fit: cover;
+.download5Icon1 {
+width: 55.8px;
+position: relative;
+height: 39.5px;
+object-fit: cover;
 }
-.download2Icon,
-.ignitiaLogo1Icon {
-  width: 41.6px;
-  height: 45.1px;
+.download2Icon {
+width: 41.6px;
+position: relative;
+height: 45.1px;
+object-fit: cover;
 }
 .ignitiaLogo1Icon {
-  width: 90.1px;
-  height: 36.1px;
+width: 90.1px;
+position: relative;
+height: 36.1px;
+object-fit: cover;
 }
 .download5Group {
-  flex: 1;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: 0 28.47px;
+flex: 1;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+gap: 0px 28.47px;
 }
-.download1Icon,
-.images1Icon {
-  width: 88.6px;
-  position: relative;
-  height: 37.9px;
-  object-fit: cover;
+.download1Icon {
+width: 88.6px;
+position: relative;
+height: 37.9px;
+object-fit: cover;
 }
 .images1Icon {
-  width: 54px;
-  height: 58.3px;
+width: 54px;
+position: relative;
+height: 58.3px;
+object-fit: cover;
 }
 .agromite {
-  position: absolute;
-  top: 39.5px;
-  left: 3.1px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  width: 29.7px;
-  height: 5.7px;
+position: absolute;
+top: 39.5px;
+left: 3.1px;
+letter-spacing: 0.1em;
+font-weight: 500;
+display: flex;
+align-items: center;
+width: 29.7px;
+height: 5.7px;
 }
 .downloadIcon {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 35.4px;
-  height: 39px;
-  object-fit: cover;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 35.4px;
+height: 39px;
+object-fit: cover;
 }
 .agromiteParent {
-  width: 35.4px;
-  position: relative;
-  height: 45.3px;
-}
-.download1Parent,
-.frameContainer {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+width: 35.4px;
+position: relative;
+height: 45.3px;
 }
 .download1Parent {
-  flex: 1;
-  align-items: center;
-  gap: 0 27.69px;
-  text-align: left;
-  font-size: var(--font-size-8xs-8);
-  color: var(--color-black);
-  font-family: var(--font-montserrat);
+flex: 1;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+gap: 0px 27.69px;
+text-align: left;
+font-size: var(--font-size-8xs-8);
+color: var(--color-black);
+font-family: var(--font-montserrat);
 }
 .frameContainer {
-  align-self: stretch;
-  align-items: flex-start;
-  gap: 0 58.21px;
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: center;
+gap: 0px 58.21px;
 }
 .mofaColorIcon {
-  width: 192px;
-  position: relative;
-  height: 43px;
-  object-fit: cover;
-}
-.frameParent,
-.mofaColorWrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
+width: 192px;
+position: relative;
+height: 43px;
+object-fit: cover;
 }
 .mofaColorWrapper {
-  align-self: stretch;
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
 }
 .frameParent {
-  width: 616.3px;
-  gap: 18.98px;
-  opacity: 1;
+width: 616.3px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+gap: 18.98px;
+opacity: 1;
 }
 .frameParent.animate {
-  animation: 1s ease 0s 1 normal forwards scale-up;
+animation: 1s ease 0s 1 normal forwards scale-up
 }
-.frameWrapper,
+
+@keyframes scale-up {
+    0% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.frameWrapper {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+padding: 0px 0px 15.000000953674316px;
+}
 .theRenownCompaniesThatTrusParent {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+gap: 22.14px 0px;
+text-align: center;
+font-size: var(--font-size-xs);
+color: var(--color-darkolivegreen-100);
+font-family: var(--font-poppins);
 }
-.theRenownCompaniesThatTrusParent {
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 22.14px 0;
-  text-align: center;
-  font-size: var(--font-size-xs);
-  color: var(--color-darkolivegreen-100);
-  font-family: var(--font-poppins);
-}
+
 @media screen and (max-width: 1200px) {
-  .captureParent,
-  .download5Parent {
-    flex-direction: row;
-  }
-  .frameGroup {
-    align-self: stretch;
-    width: auto;
-  }
-  .download5Group {
-    flex: 1;
-  }
-  .download1Parent,
-  .download5Group {
-    align-items: center;
-    justify-content: center;
-  }
-  .frameContainer {
-    align-self: stretch;
-    width: auto;
-    flex-direction: row;
-    gap: 0 58.21px;
-    padding: var(--padding-3xs) var(--padding-mini);
-    box-sizing: border-box;
-  }
-  .frameParent,
-  .frameWrapper {
-    align-items: center;
-    justify-content: center;
-  }
-  .frameWrapper {
-    align-self: stretch;
-    width: auto;
-    flex-direction: row;
-    justify-content: flex-start;
-  }
+.download5Parent {
+flex-direction: row;
+}
+
+.captureParent {
+flex-direction: row;
+}
+
+.frameGroup {
+align-self: stretch;
+width: auto;
+}
+
+.download5Group {
+flex: 1;
+align-items: center;
+justify-content: center;
+}
+
+.download1Parent {
+align-items: center;
+justify-content: center;
+}
+
+.frameContainer {
+align-self: stretch;
+width: auto;
+flex-direction: row;
+gap: 0px 58.21px;
+padding: var(--padding-3xs) var(--padding-mini);
+box-sizing: border-box;
+}
+
+.frameParent {
+align-items: center;
+justify-content: center;
+}
+
+.frameWrapper {
+align-self: stretch;
+width: auto;
+flex-direction: row;
+align-items: center;
+justify-content: flex-start;
+}
+
 }
 @media screen and (max-width: 960px) {
-  .download5Parent {
-    gap: 0 56.31px;
-  }
-  .captureParent {
-    gap: 0 43.02px;
-  }
-  .frameGroup {
-    flex-direction: row;
-    gap: 0 58.21px;
-  }
-  .download1Parent,
-  .download5Group {
-    flex: unset;
-    align-self: stretch;
-  }
-  .frameContainer {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .frameParent {
-    flex: 1;
-  }
+.download5Parent {
+gap: 0px 56.31px;
+}
+
+.captureParent {
+gap: 0px 43.02px;
+}
+
+.frameGroup {
+flex-direction: row;
+gap: 0px 58.21px;
+}
+
+.download5Group {
+flex: unset;
+align-self: stretch;
+}
+
+.download1Parent {
+flex: unset;
+align-self: stretch;
+}
+
+.frameContainer {
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.frameParent {
+flex: 1;
+}
+
 }
 @media screen and (max-width: 420px) {
-  .theRenownCompaniesContainer {
-    font-size: var(--font-size-mid);
-  }
-  .frameGroup {
-    flex-direction: column;
-  }
+.theRenownCompaniesContainer {
+font-size: var(--font-size-mid);
+}
+
+.frameGroup {
+flex-direction: column;
+}
+
 }

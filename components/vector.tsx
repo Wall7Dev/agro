@@ -1,8 +1,10 @@
-import type { NextPage } from "next";
-import styles from "./vector.module.css";
+import type { NextPage } from 'next';
+import styles from './vector.module.css';
 
-const Vector: NextPage = () => {
-  return <div className={styles.vectorDiv} />;
+
+const Vector:NextPage = () => {
+  return (
+    <div className={styles.vectorDiv} />);
 };
 
 export default Vector;
